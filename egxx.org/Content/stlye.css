@@ -1,0 +1,13 @@
+.s{
+    font-family: PlayfairDisplay-BlackItalic;
+    font-size: 90px;
+    color: #333;
+    line-height: 1.1;
+
+
+}
+
+@font-face {
+    font-family: PlayfairDisplay-BlackItalic;
+    src: url('fonts/PlayfairDisplay-BlackItalic.ttf'); 
+  }
