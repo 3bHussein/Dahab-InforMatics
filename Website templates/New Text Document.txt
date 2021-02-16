@@ -1,10 +1,8 @@
-https://templates.envytheme.com/plod/default/index.html
 
-https://templates.envytheme.com/plod/default/index-2.html
 
 https://educationwp.thimpress.com/demo-courses-hub/
 
-https://preview.colorlib.com/theme/courses/
+
 
 https://colorlib.com/preview/#unicat
 
@@ -12,3 +10,11 @@ https://colorlib.com/preview/#unicat
 https://colorlib.com/preview/#educature
 
 https://preview.colorlib.com/theme/fox/
+
+
+Done :
+https://templates.envytheme.com/plod/default/index.html
+
+https://templates.envytheme.com/plod/default/index-2.html
+
+https://preview.colorlib.com/theme/courses/
