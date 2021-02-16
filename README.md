@@ -7,5 +7,5 @@ https://egy-x.org/
 https://egxx.org/
 
 # Hosing 
-https://www.000webhost.com/members/website/listhttps://elhussein.000webhostapp.com/
+https://elhussein.000webhostapp.com/
 
