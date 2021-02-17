@@ -13,17 +13,40 @@
 <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
 <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
 <link rel="stylesheet" type="text/css" href="styles/responsive.css">
+
+
+
+<!-- Add Icon For Title -->
+<link rel="icon" href="images/logo.svg" type="image/icon type">
+
+
+
 </head>
+
 <body>
 <div class="super_container">
+
+<!-- Navbar for Desktop Version -->
 
 <header class="header d-flex flex-row">
 <div class="header_content d-flex flex-row align-items-center">
 
 <div class="logo_container">
 <div class="logo">
-<!-- <img src="images/logo.png" alt="">
- --><span>Dahab In4matic</span>
+<!-- Idea 1-->
+
+<!-- <img src="images/logo.svg" alt="" style="width: 40px;">
+<span><strong style="color:#FFB606">D</strong>ahab  </span> -->
+<!-- End Idea 1-->
+
+
+<!-- Idea 2-->
+<!-- <span><strong style="color:#FFB606">D</strong>ahab 
+<strong style="color:#FFB606">I</strong>n4matic</span> -->
+<!-- End Idea 2-->
+
+
+<span>Dahab In4matic</span>
 </div>
 </div>
 
@@ -31,7 +54,15 @@
 <div class="main_nav">
 <ul class="main_nav_list">
 <li class="main_nav_item"><a href="index.php">home</a></li>
-<li class="main_nav_item"><a href="#">about us</a></li>
+<!-- Main in Navbar -->
+<!-- <li class="main_nav_item"><a href="aboutus.php">about us</a></li>
+<li class="main_nav_item"><a href="Services.php">Services</a></li>
+<li class="main_nav_item"><a href="contact.php">contact US</a></li>
+<li class="main_nav_item"><a href="JoinUS.php">Join US</a></li> -->
+
+<!-- End Main in Navbar -->
+
+ 
 <li class="main_nav_item"><a href="courses.php">courses</a></li>
 <li class="main_nav_item"><a href="elements.php">elements</a></li>
 <li class="main_nav_item"><a href="news.php">news</a></li>
@@ -42,14 +73,21 @@
 </div>
 <div class="header_side d-flex flex-row justify-content-center align-items-center">
 <img src="images/phone-call.svg" alt="">
-<span>+20 122 240 8980</span>
-</div>
+
+<!-- Add linker inTo Number -->
+<!-- <span ><a href="te:+201222408980" style="color: #FFFCF4;">+20 122 240 8980</span> -->
+<span > +20 122 240 8980</span>
+
+ </div>
 
 <div class="hamburger_container">
 <i class="fas fa-bars trans_200"></i>
 </div>
 </header>
 
+
+
+<!-- Navbar for Mobile Version -->
 <div class="menu_container menu_mm">
 
 <div class="menu_close_container">

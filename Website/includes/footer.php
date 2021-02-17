@@ -28,16 +28,27 @@
 
 <div class="col-lg-3 footer_col">
 
+<!-- Fix Margin for Dahab Brand -->
+<!-- <div class="col-lg-4 footer_col"> -->
+
 <div class="logo_container">
 <div class="logo">
 <!-- <img src="images/logo.png" alt="">
- --><span>Dahab In4matic</span>
+ -->
+ <span>Dahab  </span>
 </div>
 </div>
-<p class="footer_about_text">We are a dynamic team of skilled developers, designers, and support experts dedicated to providing the web solution you need to achieve success.</p>
+<p class="footer_about_text">
+  We are a dynamic team of skilled developers, designers,
+   and support experts dedicated to providing the web solution you need to achieve success.
+  </p>
 </div>
 
 <div class="col-lg-4 footer_col" style="padding-left: 200px;">
+
+<!-- Fix Margin for Menu -->
+<!-- <div class="col-lg-3 footer_col" > -->
+
 <div class="footer_column_title">Menu</div>
 <div class="footer_column_content">
 <ul>
@@ -53,6 +64,9 @@
 
 
 <div class="col-lg-4 footer_col" style="padding-left: 100px;">
+<!-- Fix Margin for Menu -->
+<!-- <div class="col-lg-3 footer_col" > -->
+
 <div class="footer_column_title">Contact</div>
 <div class="footer_column_content">
 <ul>
@@ -66,12 +80,19 @@
 <div class="footer_contact_icon">
 <img src="images/smartphone.svg" alt="https://www.flaticon.com/authors/lucy-g">
 </div>
+
+<!-- Add linker inTo Number -->
+ <!-- <a href="te:+201222408980" style="color: #FFFCF4;">+20 122 240 8980 -->
+
 +20 122 240 8980
 </li>
 <li class="footer_contact_item">
 <div class="footer_contact_icon">
 <img src="images/envelope.svg" alt="https://www.flaticon.com/authors/lucy-g">
-</div><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="abc3cec7c7c4ebc8c4c6dbcac5d285c8c4c6">[email&#160;protected]</a>
+</div>
+<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="abc3cec7c7c4ebc8c4c6dbcac5d285c8c4c6">[email&#160;protected]</a>
+<!-- Add linker inTo Email -->
+<!-- <a href="mailto:info@dahab.org">info@dahab.org</a> -->
 </li>
 </ul>
 </div>
