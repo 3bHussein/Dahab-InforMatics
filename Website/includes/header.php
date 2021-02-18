@@ -63,7 +63,7 @@
 <!-- End Main in Navbar -->
 
  
-<li class="main_nav_item"><a href="courses.php">courses</a></li>
+<li class="main_nav_item"><a href="services.php">services</a></li>
 <li class="main_nav_item"><a href="elements.php">elements</a></li>
 <li class="main_nav_item"><a href="news.php">news</a></li>
 <li class="main_nav_item"><a href="contact.php">contact</a></li>
@@ -99,7 +99,7 @@
 <ul class="menu_list menu_mm">
 <li class="menu_item menu_mm"><a href="index.php">Home</a></li>
 <li class="menu_item menu_mm"><a href="#">About us</a></li>
-<li class="menu_item menu_mm"><a href="courses.php">Courses</a></li>
+<li class="menu_item menu_mm"><a href="services.php">Services</a></li>
 <li class="menu_item menu_mm"><a href="elements.php">Elements</a></li>
 <li class="menu_item menu_mm"><a href="news.php">News</a></li>
 <li class="menu_item menu_mm"><a href="contact.php">Contact</a></li>
