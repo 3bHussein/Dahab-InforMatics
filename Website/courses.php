@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Course - Courses</title>
+<title>Services - Services</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="Course Project">
@@ -29,7 +29,7 @@
 <ul class="main_nav_list">
 <li class="main_nav_item"><a href="index.html">home</a></li>
 <li class="main_nav_item"><a href="#">about us</a></li>
-<li class="main_nav_item"><a href="#">Services</a></li>
+<li class="main_nav_item"><a href="#">services</a></li>
 <li class="main_nav_item"><a href="elements.html">elements</a></li>
 <li class="main_nav_item"><a href="news.html">news</a></li>
 <li class="main_nav_item"><a href="contact.html">contact</a></li>
@@ -58,7 +58,7 @@
 <ul class="menu_list menu_mm">
 <li class="menu_item menu_mm"><a href="index.html">Home</a></li>
 <li class="menu_item menu_mm"><a href="#">About us</a></li>
-<li class="menu_item menu_mm"><a href="#">Services</a></li>
+<li class="menu_item menu_mm"><a href="#">Courses</a></li>
 <li class="menu_item menu_mm"><a href="elements.html">Elements</a></li>
 <li class="menu_item menu_mm"><a href="news.html">News</a></li>
 <li class="menu_item menu_mm"><a href="contact.html">Contact</a></li>
@@ -83,7 +83,7 @@
 <div class="home_background prlx" style="background-image:url(images/courses_background.jpg)"></div>
 </div>
 <div class="home_content">
-<h1>Courses</h1>
+<h1>Services</h1>
 </div>
 </div>
 
