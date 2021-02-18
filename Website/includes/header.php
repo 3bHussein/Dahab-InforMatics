@@ -35,18 +35,18 @@
 <div class="logo">
 <!-- Idea 1-->
 
-<!-- <img src="images/logo.svg" alt="" style="width: 40px;">
-<span><strong style="color:#FFB606">D</strong>ahab  </span> -->
+<img src="images/logo.svg" alt="" style="width: 40px;">
+<span><strong style="color:#FFB606">D</strong>ahab  </span>
 <!-- End Idea 1-->
 
 
-<!-- Idea 2-->
-<!-- <span><strong style="color:#FFB606">D</strong>ahab 
-<strong style="color:#FFB606">I</strong>n4matic</span> -->
+<!-- Idea 2--><!-- 
+<span><strong style="color:#FFB606">D</strong>ahab 
+<strong style="color:#FFB606">I</strong>n<strong style="color:#FFB606">4</strong>matic</span> -->
 <!-- End Idea 2-->
 
 
-<span>Dahab In4matic</span>
+<!-- <span>Dahab In4matic</span> -->
 </div>
 </div>
 
@@ -75,9 +75,9 @@
 <img src="images/phone-call.svg" alt="">
 
 <!-- Add linker inTo Number -->
-<!-- <span ><a href="te:+201222408980" style="color: #FFFCF4;">+20 122 240 8980</span> -->
-<span > +20 122 240 8980</span>
-
+<span ><a href="te:+201222408980" style="color: #FFFCF4;">+20 122 240 8980</span>
+<!-- <span > +20 122 240 8980</span>
+ -->
  </div>
 
 <div class="hamburger_container">
@@ -114,7 +114,7 @@
 <li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-twitter"></i></a></li>
 </ul>
 </div>
-<div class="menu_copyright menu_mm">Colorlib All rights reserved</div>
-</div>
+<!-- <div class="menu_copyright menu_mm">Colorlib All rights reserved</div>
+ --></div>
 </div>
 </div>

@@ -17,10 +17,10 @@ include 'includes/header.php';
 </div>
 
 <div class="hero_slide">
-<div class="hero_slide_background" style="background-image:url(images/it2.jpg)"></div>
+<div class="hero_slide_background" style="background-image:url(images/bb.jpg)"></div>
 <div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
 <div class="hero_slide_content text-center">
-<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Welcome To <span>Dahab In4matic</span></h1>
+<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut"> Developing <span>Web</span> <span>  Applications</span></h1>
 </div>
 </div>
 </div>
@@ -29,7 +29,8 @@ include 'includes/header.php';
 <div class="hero_slide_background" style="background-image:url(images/it.jpg)"></div>
 <div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
 <div class="hero_slide_content text-center">
-<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Welcome To <span>Dahab In4matic</span></h1>
+<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut"> Developing <span>Android</span>
+<span>Applications</span></h1>
 </div>
 </div>
 </div>
