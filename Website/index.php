@@ -142,6 +142,13 @@ include 'includes/header.php';
   </div>
   <h3 class="design-title">C#</h3>
   </li>
+
+  <li class="design-item">
+  <div class="design-icon">
+  <img class="offer-image" src="images/ourtechnology/flutter.svg" style="width: 59px;height: 60px;">
+  </div>
+  <h3 class="design-title">Flutter</h3>
+  </li>
   <li class="design-item">
   <div class="design-icon">
   <img class="offer-image" src="images/ourtechnology/js.svg"style="width: 59px;height: 62px;" >
