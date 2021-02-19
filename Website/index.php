@@ -3,7 +3,7 @@ include 'includes/header.php';
 ?>
 
 <div class="home">
-
+<!-- Slider section -->
 <div class="hero_slider_container">
 <div class="hero_slider owl-carousel">
 
@@ -20,7 +20,8 @@ include 'includes/header.php';
 <div class="hero_slide_background" style="background-image:url(images/bb.jpg)"></div>
 <div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
 <div class="hero_slide_content text-center">
-<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut"> Developing <span>Web</span> <span>  Applications</span></h1>
+<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">
+ Developing <span>Web</span> <span>  Applications</span></h1>
 </div>
 </div>
 </div>
@@ -40,135 +41,76 @@ include 'includes/header.php';
 </div>
 </div>
 
+<!-- Services section -->
 <div class="services page_section">
 <div class="container">
 <div class="row">
 <div class="col">
 <div class="section_title text-center">
-<h1>E-Learning</h1>
+<h1>Software Development Company</h1>
+<p style="font-size: 15px; color: #333333;">We are a dynamic team of skilled developers, designers, and support experts dedicated to providing the web solution you need to achieve success.</p>
 </div>
 </div>
 </div>
+
 <div class="row services_row">
-<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
+
+<div class="col-lg-12 service_item text-left d-flex flex-column align-items-start justify-content-start">
 <div class="icon_container d-flex flex-column justify-content-end">
-<img src="images/earth-globe.svg" alt="">
+<img src="images/elearning.png" alt="">
 </div>
-<h3>Online Courses</h3>
-<p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
+<h3>E-Learning Platforms</h3>
+<p>Designed to be responsive and accessible for students, the platform interface is easy to navigate on both desktop and mobile devices.</p>
 </div>
-<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
+
+<div class="col-lg-6 service_item text-left d-flex flex-column align-items-start justify-content-start">
 <div class="icon_container d-flex flex-column justify-content-end">
-<img src="images/exam.svg" alt="">
+<img src="images/web.png" alt="">
 </div>
-<h3>Indoor Courses</h3>
-<p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
+<h3>Web Applications Development</h3>
+<p>Designing and developing high quality scalable web applications.</p>
 </div>
-<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
+
+<div class="col-lg-6 service_item text-left d-flex flex-column align-items-start justify-content-start">
 <div class="icon_container d-flex flex-column justify-content-end">
-<img src="images/books.svg" alt="">
+<img src="images/mobile.png" alt="">
 </div>
-<h3>Amazing Library</h3>
-<p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
+<h3>Mobile Applications Development</h3>
+<p>Building and designing an optimized and native android applications.</p>
 </div>
-<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
-<div class="icon_container d-flex flex-column justify-content-end">
-<img src="images/professor.svg" alt="">
-</div>
-<h3>Exceptional Professors</h3>
-<p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
-</div>
-<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
-<div class="icon_container d-flex flex-column justify-content-end">
-<img src="images/blackboard.svg" alt="">
-</div>
-<h3>Top Programs</h3>
-<p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
-</div>
-<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
-<div class="icon_container d-flex flex-column justify-content-end">
-<img src="images/mortarboard.svg" alt="">
-</div>
-<h3>Graduate Diploma</h3>
-<p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
-</div>
+
 </div>
 </div>
 </div>
 
-<div class="testimonials page_section">
-
-<div class="testimonials_background_container prlx_parent">
-<div class="testimonials_background prlx" style="background-image:url(images/testimonials_background.jpg)"></div>
-</div>
-<div class="container">
-<div class="row">
-<div class="col">
-<div class="section_title text-center">
-<h1>What Is Our Goal ?</h1>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="col-lg-10 offset-lg-1">
-<div class="testimonials_slider_container">
-
-<div class="owl-carousel owl-theme testimonials_slider">
-
-<div class="owl-item">
-<div class="testimonials_item text-center">
-<div class="quote">“</div>
-<p class="testimonials_text">In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
-<div class="testimonial_user">
-<div class="testimonial_image mx-auto">
-<img src="images/testimonials_user.jpg" alt="">
-</div>
-<div class="testimonial_name">james cooper</div>
-<div class="testimonial_title">Graduate Student</div>
-</div>
-</div>
-</div>
-
-<div class="owl-item">
-<div class="testimonials_item text-center">
- <div class="quote">“</div>
-<p class="testimonials_text">In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
-<div class="testimonial_user">
-<div class="testimonial_image mx-auto">
-<img src="images/testimonials_user.jpg" alt="">
-</div>
-<div class="testimonial_name">james cooper</div>
-<div class="testimonial_title">Graduate Student</div>
-</div>
-</div>
-</div>
-
-<div class="owl-item">
-<div class="testimonials_item text-center">
-<div class="quote">“</div>
-<p class="testimonials_text">In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
-<div class="testimonial_user">
-<div class="testimonial_image mx-auto">
-<img src="images/testimonials_user.jpg" alt="">
-</div>
-<div class="testimonial_name">james cooper</div>
-<div class="testimonial_title">Graduate Student</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-
+<!-- Events Section -->
 <div class="events page_section">
 <div class="container">
 <div class="row">
 <div class="col">
 <div class="section_title text-center">
 <h1>Upcoming Events</h1>
+<!-- <div style="background-color: #fcb406"><img src="images/tail-spin.svg"></div>
+ -->
+
+<div style="  width: 100px;  height: 100px; margin: 20px; display:inline-block;">
+<svg version="1.1" id="L9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+  viewBox="0 0 100 100" enable-background="new 0 0 0 0" xml:space="preserve">
+    <path fill="#fcb406" d="M73,50c0-12.7-10.3-23-23-23S27,37.3,27,50 M30.9,50c0-10.5,8.5-19.1,19.1-19.1S69.1,39.5,69.1,50">
+      <animateTransform 
+         attributeName="transform" 
+         attributeType="XML" 
+         type="rotate"
+         dur="1s" 
+         from="0 50 50"
+         to="360 50 50" 
+         repeatCount="indefinite" />
+  </path>
+</svg>
+</div> 
+<div style="color: black; font-family: 'Roboto', sans-serif;font-size: 22px;font-weight: 500;">
+Co<strong style="color:#fcb406">mm</strong>ing S<strong style="color:#fcb406">oo</strong>n
+</div>
 </div>
 </div>
 </div>
