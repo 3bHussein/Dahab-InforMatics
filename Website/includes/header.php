@@ -35,7 +35,8 @@
 <div class="logo">
 <!-- Idea 1-->
 
-<img src="images/logo.svg" alt="" style="width: 40px;">
+<!-- <img src="images/logo.svg" alt="" style="width: 40px;"> -->
+
 <span><strong style="color:#FFB606">D</strong>ahab  </span>
 <!-- End Idea 1-->
 
@@ -55,18 +56,20 @@
 <ul class="main_nav_list">
 <li class="main_nav_item"><a href="index.php">home</a></li>
 <!-- Main in Navbar -->
-<!-- <li class="main_nav_item"><a href="aboutus.php">about us</a></li>
+<li class="main_nav_item"><a href="aboutus.php">About us</a></li>
 <li class="main_nav_item"><a href="Services.php">Services</a></li>
 <li class="main_nav_item"><a href="contact.php">contact US</a></li>
-<li class="main_nav_item"><a href="JoinUS.php">Join US</a></li> -->
+<li class="main_nav_item"><a href="JoinUS.php">Join US</a></li>
 
 <!-- End Main in Navbar -->
 
  
-<li class="main_nav_item"><a href="services.php">services</a></li>
+<!-- <li class="main_nav_item"><a href="services.php">services</a></li>
 <li class="main_nav_item"><a href="elements.php">elements</a></li>
 <li class="main_nav_item"><a href="news.php">news</a></li>
 <li class="main_nav_item"><a href="contact.php">contact</a></li>
+ -->
+
 </ul>
 </div>
 </nav>

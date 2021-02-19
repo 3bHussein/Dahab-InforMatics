@@ -35,7 +35,11 @@
 <div class="logo">
 <!-- <img src="images/logo.png" alt="">
  -->
- <span>Dahab  </span>
+
+ <!-- New Idea for Logo in Footer Section -->
+ <span><strong style="color:#FFB606">D</strong>ahab  </span>
+
+ <!-- <span>Dahab  </span> -->
 </div>
 </div>
 <p class="footer_about_text">
@@ -53,10 +57,11 @@
 <div class="footer_column_content">
 <ul>
 <li class="footer_list_item"><a href="index.php">Home</a></li>
-<li class="footer_list_item"><a href="#">About Us</a></li>
-<li class="footer_list_item"><a href="courses.php">Courses</a></li>
-<li class="footer_list_item"><a href="news.php">News</a></li>
-<li class="footer_list_item"><a href="contact.php">Contact</a></li>
+<li class="footer_list_item"><a href="aboutus.php">About Us</a></li>
+<li class="footer_list_item"><a href="Services.php">Services</a></li>
+<li class="footer_list_item"><a href="contact.php">contact Us</a></li>
+<li class="footer_list_item"><a href="JoinUS.php">Join US</a></li>
+
 </ul>
 </div>
 </div>
@@ -82,17 +87,20 @@
 </div>
 
 <!-- Add linker inTo Number -->
- <a href="te:+201222408980" style="color: #FFFCF4;">+20 122 240 8980
-
-<!-- +20 122 240 8980
- --></li>
+<!-- old Color for contact -->
+<!-- <a href="te:+201222408980" style="color: #FFFCF4;">+20 122 240 8980 -->
+<a href="te:+201222408980" style="color: #a5a5a5;">+20 122 240 8980 </a>
+ 
+<!-- +20 122 240 8980-->
+</li>
 <li class="footer_contact_item">
 <div class="footer_contact_icon">
 <img src="images/envelope.svg" alt="https://www.flaticon.com/authors/lucy-g">
 </div>
 <!-- <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="abc3cec7c7c4ebc8c4c6dbcac5d285c8c4c6">[email&#160;protected]</a>
  --><!-- Add linker inTo Email -->
-<a href="mailto:info@dahab.org">info@dahab.org</a>
+ <!-- Add new color for email Part -->
+<a href="mailto:info@dahab.org" style="color: #a5a5a5;">info@dahab.org</a>
 </li>
 </ul>
 </div>
@@ -108,17 +116,19 @@ Copyright &copy;<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/clou
 </div>
 <div class="footer_social ml-sm-auto">
 <ul class="menu_social">
-<li class="menu_social_item"><a href="#"><i class="fab fa-github"></i></a></li>
-<li class="menu_social_item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-<li class="menu_social_item"><a href="#"><i class="fab fa-instagram"></i></a></li>
 <li class="menu_social_item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
 <li class="menu_social_item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+<li class="menu_social_item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+<!-- <li class="menu_social_item"><a href="#"><i class="fab fa-instagram"></i></a></li>
+ <li class="menu_social_item"><a href="#"><i class="fab fa-github"></i></a></li> -->
 </ul>
 </div>
 </div>
 </div>
 </footer>
 </div>
+
+
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="styles/bootstrap4/popper.js"></script>
 <script src="styles/bootstrap4/bootstrap.min.js"></script>
