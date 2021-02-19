@@ -2,29 +2,6 @@
 include 'includes/header.php';
 ?>
 
-<!-- Style for Ourtechnology Section -->
-<!-- Maybe Make Error with Responsive -->
-<style>
-.design-services .design-items {
-	text-align: center;
-		-js-display: flex;
-		display: -webkit-box;
-		display: -ms-flexbox;
-		display: flex;
-		-webkit-box-pack: justify;
-		-ms-flex-pack: justify;
-		justify-content: space-between;
-    font-family: 'Roboto', sans-serif;
-    font-size: 22px;
-    font-weight: 500;
-    color: #1a1a1a;
-    margin-bottom: 13px;
-    }
-
-
-
-</style>
-
 <div class="home">
 <!-- Slider section -->
 <div class="hero_slider_container">
@@ -105,63 +82,6 @@ include 'includes/header.php';
 </div>
 </div>
 </div>
-
-
-
-
-
-<!-- ourtechnology  Section -->
-<!-- dimension for logo 77*62 -->
-<section class="design-services">
-  <div class="container">
-
-  <div class="section_title text-center">
-<h1>Our Technologies</h1>
-<p style="font-size: 15px; color: #333333;">Our software engineers have expertise in all the technologies needed to deliver comprehensive web developments services for companies across industries.</p>
-</div>
-
-
-
-  <!-- <h2 style="text-align: center;">Our Technologies</h2>
-  <p class="solutions-page__descr" style="text-align: center; margin-bottom: 30px;">
-  <span style="font-weight: 400;">Our software engineers have expertise in all the technologies needed to deliver comprehensive web developments services for companies across industries.</span>
-  </p> -->
-  <p>&nbsp;</p>
-  <ul class="design-items form-row col">
- 
- 
-  <li class="design-item">
-  <div class="design-icon">
-  <img class="offer-image" src="images/ourtechnology/php.svg"style="width: 59px;height: 62px;">
-  </div>
-  <h3 class="design-title">PHP</h3>
-  </li>
-  <li class="design-item">
-  <div class="design-icon">
-  <img class="offer-image" src="images/ourtechnology/.netcore.svg" style="width: 59px;height: 62px;">
-  </div>
-  <h3 class="design-title">C#</h3>
-  </li>
-  <li class="design-item">
-  <div class="design-icon">
-  <img class="offer-image" src="images/ourtechnology/js.svg"style="width: 59px;height: 62px;" >
-   </div>
-  <h3 class="design-title">JavaScript</h3>
-  </li>
-   
-  <li class="design-item">
-  <div class="design-icon">
-  <img class="offer-image" src="images/ourtechnology/jquery.svg" style="width: 59px;height: 62px;">
-  </div>
-  <h3 class="design-title">jQuery</h3>
-  </li>
-  </ul>
-  </div>
-  </section>
-
-
-
-<!-- End ourtechnology  Section -->
 
 <!-- Events Section -->
 <div class="events page_section">
