@@ -1,11 +1,11 @@
-<link rel="stylesheet" type="text/css" href="styles/news_post_styles.css">
-<link rel="stylesheet" type="text/css" href="styles/news_post_responsive.css">
 <style>
   .icon_boxes{margin-top:112px}.icon_boxes_container{margin-top:109px}.icon_box{}.icon_box h3{font-family:roboto,sans-serif;font-size:22px;font-weight:500;color:#1a1a1a;margin-bottom:13px}.icon_box p{font-size:14px;font-weight:500;color:#a5a5a5;max-width:100%;margin-bottom:0}.icon_container{height:41px;width:auto;margin-bottom:30px}.icon_container img{height:100%}
   </style>
 <?php
 include 'includes/header.php';
 ?>
+<link rel="stylesheet" type="text/css" href="styles/news_post_styles.css">
+<link rel="stylesheet" type="text/css" href="styles/news_post_responsive.css">
 
 
 <!------------------------------------------------------------------------------------------------>
