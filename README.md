@@ -16,6 +16,9 @@ https://elhussein.000webhostapp.com/
     -Choose UI/UX Design  
     -Edit Navbar [Home-about-Services-ContactUs-JoinUS]
     -Add Logo for Website
+    -Finish Edit Navbar,Footer
+    -Finish Contact Us Page
+    -Finish Join Us Page 
     .....
     ....
     ...
