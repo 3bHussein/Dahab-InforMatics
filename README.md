@@ -43,6 +43,11 @@ https://elhussein.000webhostapp.com/
     -Improve Seo in Site
     -Bundle CSS,JS Files 
 
+    --What for SEO:
+    -Alt in Every Img
+    -Remove inline css
+    -Try To Add Google Analytic
+    -Try To Social Media API
 
 
 
