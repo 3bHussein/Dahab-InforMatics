@@ -33,6 +33,7 @@ https://elhussein.000webhostapp.com/
 
 # Next progress in website
 ~~This was mistaken text
+
     ~~Edit About Page icon ~~
     ~~Edit About Page Header~~
     -Change photos in Main Header page 
