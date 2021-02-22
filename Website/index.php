@@ -41,6 +41,8 @@ include 'includes/header.php';
 
 <div class="hero_slide">
 <div class="hero_slide_background" style="background-image:url(images/bb.jpg)"></div>
+<!-- <div class="hero_slide_background" style="background-image:url(images/bb.png)"></div> -->
+
 <div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
 <div class="hero_slide_content text-center">
 <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">
