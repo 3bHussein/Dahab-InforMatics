@@ -25,6 +25,14 @@ https://elhussein.000webhostapp.com/
 
 
 
+    --After Publish Changes:
+    1-add info Email in footer
+    2-Remove form navbar mobile version 2 social media icon
+    3-Create a Bundle Email for website
+     
+
+
+
 # BackLog
     -Create Android App for AHI Website
     -
