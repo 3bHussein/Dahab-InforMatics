@@ -19,14 +19,9 @@ https://elhussein.000webhostapp.com/
     -Finish Edit Navbar,Footer
     -Finish Contact Us Page
     -Finish Join Us Page 
-    .....
-    ....
-    ...
-    ..
-    .
-    
-
-    -Publish Website
+    -Add New logo for website
+    -Fix issue in Header/ Footer
+    -Publish Website 👍
 
 
 
