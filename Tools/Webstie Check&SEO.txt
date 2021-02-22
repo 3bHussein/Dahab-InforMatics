@@ -1,4 +1,9 @@
 SEO:
+
+
+https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.dahab-informatics.com%2F
+
+
 https://www.seobility.net/en/seocheck/
 
 

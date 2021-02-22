@@ -1,7 +1,7 @@
 <footer class="footer">
 <div class="container">
 
-<div class="newsletter">
+<!-- <div class="newsletter">
 <div class="row">
 <div class="col">
 <div class="section_title text-center">
@@ -21,7 +21,7 @@
 </div>
 </div>
 </div>
-</div>
+</div> -->
 
 <div class="footer_content">
 <div class="row">
@@ -79,7 +79,7 @@
 <div class="footer_contact_icon">
 <img src="images/placeholder.svg" alt="https://www.flaticon.com/authors/lucy-g">
 </div>
-7 El Farana Street, Alexandria, Egypt
+8 El Farana Street, Alexandria, Egypt
 </li>
 <li class="footer_contact_item">
 <div class="footer_contact_icon">

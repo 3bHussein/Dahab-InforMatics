@@ -345,7 +345,7 @@ You will see the same faces from the first hello to the completion of the projec
 </p>
 <div class="testimonial_user">
 <div class="testimonial_image mx-auto">
-<img src="images/testimonials_user.jpg" alt="">
+<img src="images/drali.jpg" alt="">
 </div>
 <div class="testimonial_name">Dr.Aly Mahgob</div>
 <div class="testimonial_title">Co-founder</div>

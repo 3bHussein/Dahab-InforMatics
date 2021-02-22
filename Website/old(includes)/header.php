@@ -17,7 +17,7 @@
 
 
 <!-- Add Icon For Title -->
-<link rel="icon" href="images/titlelogo.jpg" type="image/icon type">
+<link rel="icon" href="images/logo.svg" type="image/icon type">
 
 
 
@@ -37,7 +37,7 @@
 
 <!-- <img src="images/logo.svg" alt="" style="width: 40px;"> -->
 
-<img src="images/dahab.jpeg" style="width: 160px;">
+<span><strong style="color:#FFB606">D</strong>ahab  </span>
 <!-- End Idea 1-->
 
 
@@ -58,8 +58,8 @@
 <!-- Main in Navbar -->
 <li class="main_nav_item"><a href="aboutus.php">About us</a></li>
 <li class="main_nav_item"><a href="Services.php">Services</a></li>
-<li class="main_nav_item"><a href="#">contact US</a></li>
-<li class="main_nav_item"><a href="#">Join US</a></li>
+<li class="main_nav_item"><a href="contact.php">contact US</a></li>
+<li class="main_nav_item"><a href="JoinUS.php">Join US</a></li>
 
 <!-- End Main in Navbar -->
 
@@ -101,11 +101,11 @@
 <div class="menu menu_mm">
 <ul class="menu_list menu_mm">
 <li class="menu_item menu_mm"><a href="index.php">Home</a></li>
-<li class="menu_item menu_mm"><a href="aboutus.php">About us</a></li>
+<li class="menu_item menu_mm"><a href="#">About us</a></li>
 <li class="menu_item menu_mm"><a href="services.php">Services</a></li>
-<li class="menu_item menu_mm"><a href="#">Contact us</a></li>
-<li class="menu_item menu_mm"><a href="#">Join Us</a></li>
-
+<li class="menu_item menu_mm"><a href="elements.php">Elements</a></li>
+<li class="menu_item menu_mm"><a href="news.php">News</a></li>
+<li class="menu_item menu_mm"><a href="contact.php">Contact</a></li>
 </ul>
 
 <div class="menu_social_container menu_mm">
