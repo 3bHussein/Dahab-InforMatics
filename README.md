@@ -38,6 +38,7 @@ https://elhussein.000webhostapp.com/
     -Change photos in Main Header page 
     -change photos in Slider
     -Fix Contact ,Join us addition character in the end
+    -Try make restricted extension   in CV in Join Us 
     -Add hover Action for Each Tab
     -Apply New Email in Site
     -Improve Seo in Site
@@ -48,6 +49,7 @@ https://elhussein.000webhostapp.com/
     -Remove inline css
     -Try To Add Google Analytic
     -Try To Social Media API
+    
 
 
 
