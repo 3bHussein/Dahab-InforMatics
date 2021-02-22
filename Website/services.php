@@ -3,85 +3,7 @@ include 'includes/header.php';
 ?>
 <link rel="stylesheet" type="text/css" href="styles/courses_styles.css">
 <link rel="stylesheet" type="text/css" href="styles/courses_responsive.css">
-<!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Service - Services</title>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="description" content="Course Project">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="styles/bootstrap4/bootstrap.min.css">
-<link href="plugins/fontawesome-free-5.0.1/css/fontawesome-all.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="styles/courses_styles.css">
-<link rel="stylesheet" type="text/css" href="styles/courses_responsive.css">
-</head>
-<body>
-<div class="super_container">
 
-<header class="header d-flex flex-row">
-<div class="header_content d-flex flex-row align-items-center">
-
-<div class="logo_container">
-<div class="logo">
-<img src="images/logo.png" alt="">
-<span>service</span>
-</div>
-</div>
-
-<nav class="main_nav_container">
-<div class="main_nav">
-<ul class="main_nav_list">
-<li class="main_nav_item"><a href="index.html">home</a></li>
-<li class="main_nav_item"><a href="#">about us</a></li>
-<li class="main_nav_item"><a href="#">courses</a></li>
-<li class="main_nav_item"><a href="elements.html">elements</a></li>
-<li class="main_nav_item"><a href="news.html">news</a></li>
-<li class="main_nav_item"><a href="contact.html">contact</a></li>
-</ul>
-</div>
-</nav>
-</div>
-<div class="header_side d-flex flex-row justify-content-center align-items-center">
-<img src="images/phone-call.svg" alt="">
-<span>+43 4566 7788 2457</span>
-</div>
-
-<div class="hamburger_container">
-<i class="fas fa-bars trans_200"></i>
-</div>
-</header> -->
-<!-- 
-<div class="menu_container menu_mm">
-
-<div class="menu_close_container">
-<div class="menu_close"></div>
-</div>
-
-<div class="menu_inner menu_mm">
-<div class="menu menu_mm">
-<ul class="menu_list menu_mm">
-<li class="menu_item menu_mm"><a href="index.html">Home</a></li>
-<li class="menu_item menu_mm"><a href="#">About us</a></li>
-<li class="menu_item menu_mm"><a href="#">Services</a></li>
-<li class="menu_item menu_mm"><a href="elements.html">Elements</a></li>
-<li class="menu_item menu_mm"><a href="news.html">News</a></li>
-<li class="menu_item menu_mm"><a href="contact.html">Contact</a></li>
-</ul>
-
-<div class="menu_social_container menu_mm">
-<ul class="menu_social menu_mm">
-<li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-pinterest"></i></a></li>
-<li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-<li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-instagram"></i></a></li>
-<li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-<li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-twitter"></i></a></li>
-</ul>
-</div>
-<div class="menu_copyright menu_mm">Colorlib All rights reserved</div>
-</div>
-</div>
-</div> -->
 
 <div class="home">
 <div class="home_background_container prlx_parent">
@@ -113,26 +35,20 @@ include 'includes/header.php';
 <div class="pbar_container">
 <div class="progress_bar_container col_12 clearfix">
 <div class="pb_item">
-<li>Integration with Google analytics</li>
+<li>-Dahab makes Android apps development services</li>
 
 </div>
 <div class="pb_item">
-<li>Up to 12 main pages and unlimited items </li>
-</div>
-
-
-<div class="pb_item">
-<li>Contact form</li>
+<li>We make customized applications for your  brand </li>
 </div>
 
 
 <div class="pb_item">
-<li>Easy dashboard</li>
-</div>
-<div class="pb_item">
-<li>Tracking orders</li>
+<li> We provide quality Android apps for any Android Mobile, Tablet with cool graphics</li>
 </div>
 
+</br>
+</br>
 
 </div>
 </div>
@@ -150,38 +66,38 @@ include 'includes/header.php';
 <div class="pbar_container">
 <div class="progress_bar_container col_12 clearfix">
 <div class="pb_item">
-<li>Integration with Google analytics</li>
+<li> Modern, easy to use interface</li>
 
 </div>
 <div class="pb_item">
-<li>Up to 12 main pages and unlimited items </li>
+<li>Personalised Dashboard </li>
 </div>
 
 </li>
 <div class="pb_item">
-<li>Contact form</li>
+<li>Track progress</li>
 </div>
 
 </li>
 <div class="pb_item">
-<li>Easy dashboard</li>
+<li>Secure authentication and mass enrolment</li>
 </div>
 
 <div class="pb_item">
-<li>Online order</li>
+<li>Manage user roles and permissions</li>
 </div>
-
+</br>
 </li>
 </div>
 </div>
 </div>
 </div>
 </div>
-
+</br>
 
 <div class="col-lg-4 course_box">
 <div class="card">
-<img class="card-img-top" src="images/course_3.jpg" alt="https://unsplash.com/@dsmacinnes">
+<img class="card-img-top" src="images/ems.png" style="height:260px" alt="https://unsplash.com/@dsmacinnes">
 <div class="card-body text-center">
 <div class="card-title"><a href="#" style="pointer-events:none;">Education Management System(EMS)</a></div>
 
@@ -190,22 +106,23 @@ include 'includes/header.php';
 <div class="pbar_container">
 <div class="progress_bar_container col_12 clearfix">
 <div class="pb_item">
-<li>Integration with Google analytics</li>
-
-</div>
+	</li>
 <div class="pb_item">
-<li>Up to 12 main pages and unlimited items </li>
+<li>Human Resource Management</li>
 </div>
 
 </li>
 <div class="pb_item">
-<li>Contact form</li>
+<li>Finance Management</li>
+</div>
+<li> Add / edit / delete unlimited users</li>
+
+</div>
+<div class="pb_item">
+<li>Role-wise user authentication (Student, Teacher, Staff, Parent) </li>
 </div>
 
-</li>
-<div class="pb_item">
-<li>Easy dashboard</li>
-</div>
+
 
 </li>
 </div>
@@ -224,23 +141,23 @@ include 'includes/header.php';
 <div class="pbar_container">
 <div class="progress_bar_container col_12 clearfix">
 <div class="pb_item">
-<li>Integration with Google analytics</li>
+<li>View the schedule of doctors</li>
 
 </div>
 <div class="pb_item">
-<li>Up to 12 main pages and unlimited items </li>
+<li>Patients can book, change, and cancel appointments </li>
 </div>
 
 </li>
 <div class="pb_item">
-<li>Contact form</li>
+<li>Access lab test results</li>
 </div>
 
 </li>
 <div class="pb_item">
-<li>Easy dashboard</li>
+<li>View doctor profiles, their photos, publications, and records or credentials</li>
 </div>
-
+</br>
 </li>
 </div>
 </div>
@@ -260,21 +177,23 @@ include 'includes/header.php';
 <div class="pbar_container">
 <div class="progress_bar_container col_12 clearfix">
 <div class="pb_item">
-<li>Integration with Google analytics</li>
+<li>Create,edit the stock order in your system</li>
 
 </div>
 <div class="pb_item">
-<li>Up to 12 main pages and unlimited items </li>
-</div>
-
-</li>
-<div class="pb_item">
-<li>Contact form</li>
+<li>Returns, refunds and store credit features </li>
 </div>
 
 </li>
 <div class="pb_item">
-<li>Easy dashboard</li>
+<li>Searchable customer database</li>
+</div>
+
+</li>
+<div class="pb_item">
+<li>Sales monitoring and reporting</li>
+<br/>
+</br>
 </div>
 
 </li>
@@ -296,22 +215,24 @@ include 'includes/header.php';
 <div class="pbar_container">
 <div class="progress_bar_container col_12 clearfix">
 <div class="pb_item">
-<li>Integration with Google analytics</li>
+<li>Software will be designed for your specific needs </li>
 
 </div>
 <div class="pb_item">
-<li>Up to 12 main pages and unlimited items </li>
+<!-- <li>The software fits perfectly with your existing business software system </li>
+ --></div>
+
+</li>
+<div class="pb_item">
+<li>We collect all data input from customer  ,analyze it to target the right audience</li>
 </div>
 
 </li>
 <div class="pb_item">
-<li>Contact form</li>
+<li>Start work with 24 hour support</li>
 </div>
-
-</li>
-<div class="pb_item">
-<li>Easy dashboard</li>
-</div>
+</br>
+</br
 
 </li>
 </div>
@@ -353,22 +274,23 @@ include 'includes/header.php';
 <div class="pbar_container">
 <div class="progress_bar_container col_12 clearfix">
 <div class="pb_item">
-<li>Integration with Google analytics</li>
+<li>Remote control to interactive display</li>
 
-</div>
-<div class="pb_item">
-<li>Up to 12 main pages and unlimited items </li>
 </div>
 
 </li>
 <div class="pb_item">
-<li>Contact form</li>
+<li>Writing and drawing support</li>
 </div>
 
 </li>
 <div class="pb_item">
-<li>Easy dashboard</li>
+<li>Audio support</li>
 </div>
+<div class="pb_item">
+<li>Touch support that you can open and close applications, meet with others </li>
+</div>
+
 
 </li>
 </div>
@@ -388,23 +310,23 @@ include 'includes/header.php';
 <div class="pbar_container">
 <div class="progress_bar_container col_12 clearfix">
 <div class="pb_item">
-<li>Integration with Google analytics</li>
+<li>The ability to produce crisp, clear images</li>
 
 </div>
 <div class="pb_item">
-<li>Up to 12 main pages and unlimited items </li>
+<li>High resolution </li>
 </div>
 
 </li>
 <div class="pb_item">
-<li>Contact form</li>
+<li>Ease of installation and use</li>
 </div>
 
-</li>
+
 <div class="pb_item">
-<li>Easy dashboard</li>
+<li>Higher color light output</li>
 </div>
-
+</br>
 </li>
 </div>
 </div>
@@ -430,23 +352,22 @@ include 'includes/header.php';
 <div class="elements_progress_bars">
 <div class="pbar_container">
 <div class="progress_bar_container col_12 clearfix">
+
 <div class="pb_item">
-<li>Integration with Google analytics</li>
+<li>Remote monitoring</li>
+</div>
+
+<div class="pb_item">
+<li>Night vision which makes the picture visible during the evening</li>
 
 </div>
 <div class="pb_item">
-<li>Up to 12 main pages and unlimited items </li>
+<li>Motion Detection that create an alert if  movement happens </li>
 </div>
 
 </li>
-<div class="pb_item">
-<li>Contact form</li>
-</div>
 
-</li>
-<div class="pb_item">
-<li>Easy dashboard</li>
-</div>
+
 
 </li>
 </div>
