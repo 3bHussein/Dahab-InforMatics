@@ -31,6 +31,20 @@ https://elhussein.000webhostapp.com/
     3-Create a Bundle Email for website
      
 
+# Next progress in website
+    ~~This was mistaken text~~
+    ~~Edit About Page icon ~~
+    ~~Edit About Page Header~~
+    -Change photos in Main Header page 
+    -change photos in Slider
+    -Fix Contact ,Join us addition character in the end
+    -Add hover Action for Each Tab
+    -Apply New Email in Site
+    -Improve Seo in Site
+    -Bundle CSS,JS Files 
+
+
+
 
 
 # BackLog
