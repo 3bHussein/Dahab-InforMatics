@@ -1,10 +1,11 @@
 SEO:
 
 
-https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.dahab-informatics.com%2F
+https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.dahab-informatics.com%2F 
 
 
 https://www.seobility.net/en/seocheck/
+https://freetools.seobility.net/en/seocheck/check?url=https%3A%2F%2Fwww.dahab-informatics.com%2FHome&crawltype=1
 
 
 https://seositecheckup.com/seo-audit/www.dahab-informatics.com/Home

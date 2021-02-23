@@ -29,13 +29,19 @@ https://elhussein.000webhostapp.com/
     1-add info Email in footer
     2-Remove form navbar mobile version 2 social media icon
     3-Create a Bundle Email for website
-     
+
+    4.change About Page icon in File,Host
+    5-Change About Page Header in File,Host
+    6-Fix Contact ,Join us addition character in the end in Host
+    7-Make a logo Reference To Home Page in Host
+    8- add alt in photo for Logo ,our Technologies image in Host
 
 # Next progress in website
 ~~This was mistaken text
 
     ~~Edit About Page icon ~~
     ~~Edit About Page Header~~
+
     -Change photos in Main Header page 
     -change photos in Slider
     -Fix Contact ,Join us addition character in the end
