@@ -25,7 +25,7 @@ https://elhussein.000webhostapp.com/
 
 
 
-    --After Publish Changes:
+# After Publish Changes:
     1-add info Email in footer
     2-Remove form navbar mobile version 2 social media icon
     3-Create a Bundle Email for website
@@ -35,16 +35,13 @@ https://elhussein.000webhostapp.com/
     6-Fix Contact ,Join us addition character in the end in Host
     7-Make a logo Reference To Home Page in Host
     8- add alt in photo for Logo ,our Technologies image in Host
+    9-Finished Creating Email for Dahab Website
 
 # Next progress in website
-~~This was mistaken text
 
-    ~~Edit About Page icon ~~
     ~~Edit About Page Header~~
-
     -Change photos in Main Header page 
-    -change photos in Slider
-    -Fix Contact ,Join us addition character in the end
+    -change photos in Slider 
     -Try make restricted extension   in CV in Join Us 
     -Add hover Action for Each Tab
     -Apply New Email in Site
@@ -59,11 +56,18 @@ https://elhussein.000webhostapp.com/
     
 
 
-
+# on Progress
+    -Edit on Original Website 
+    -Stock WebApp 
+    -Financial Web App
+    -Start up Android App
+    -Hr Website
 
 # BackLog
     -Create Android App for AHI Website
-    -
+    -Stock WebApp 
+    -Financial Web App
+    
 
 
 
