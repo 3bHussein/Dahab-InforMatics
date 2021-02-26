@@ -56,11 +56,11 @@
 <div class="footer_column_title">Menu</div>
 <div class="footer_column_content">
 <ul>
-<li class="footer_list_item"><a href="index.php">Home</a></li>
-<li class="footer_list_item"><a href="aboutus.php">About Us</a></li>
-<li class="footer_list_item"><a href="Services.php">Services</a></li>
-<li class="footer_list_item"><a href="contact.php">contact Us</a></li>
-<li class="footer_list_item"><a href="JoinUS.php">Join US</a></li>
+<li class="footer_list_item"><a href="/Home">Home</a></li>
+<li class="footer_list_item"><a href="/About">About Us</a></li>
+<li class="footer_list_item"><a href="/Services">Services</a></li>
+<li class="footer_list_item"><a href="/ContactUs">Contact Us</a></li>
+<li class="footer_list_item"><a href="/JoinUs">Join US</a></li>
 
 </ul>
 </div>
@@ -100,7 +100,7 @@
 <!-- <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="abc3cec7c7c4ebc8c4c6dbcac5d285c8c4c6">[email&#160;protected]</a>
  --><!-- Add linker inTo Email -->
  <!-- Add new color for email Part -->
-<a href="mailto:info@dahab.org" style="color: #a5a5a5;">info@dahab.org</a>
+<a href="mailto:info@dahab.org" style="color: #a5a5a5;">info@dahab-informatics.com</a>
 </li>
 </ul>
 </div>
@@ -111,16 +111,18 @@
 <div class="footer_bar d-flex flex-column flex-sm-row align-items-center">
 <div class="footer_copyright">
 <span>
-Copyright &copy;<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved | Dahab InforMatics</a>
+Copyright &copy;
+<!--<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>-->
+<script>document.write(new Date().getFullYear());</script> All rights reserved | Dahab InforMatics</a>
 </span>
 </div>
 <div class="footer_social ml-sm-auto">
 <ul class="menu_social">
-<li class="menu_social_item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-<li class="menu_social_item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-<li class="menu_social_item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-<!-- <li class="menu_social_item"><a href="#"><i class="fab fa-instagram"></i></a></li>
- <li class="menu_social_item"><a href="#"><i class="fab fa-github"></i></a></li> -->
+<li class="menu_social_item menu_mm"><a href="https://www.linkedin.com/in/dahabinformatics/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+<li class="menu_social_item menu_mm"><a href="https://www.facebook.com/DahabInformatics"target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+<li class="menu_social_item menu_mm"><a href="https://twitter.com/DahabInformatic"target="_blank"><i class="fab fa-twitter"></i></a></li>
+<li class="menu_social_item menu_mm"><a href="https://www.instagram.com/dahabinformatics/"target="_blank"><i class="fab fa-instagram"></i></a></li>
+<li class="menu_social_item menu_mm"><a href="https://www.behance.net/dahabinfor787c"target="_blank"><i class="fab fa-behance"></i></a></li>
 </ul>
 </div>
 </div>
@@ -137,13 +139,13 @@ Copyright &copy;<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/clou
 <script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
 <script src="plugins/greensock/animation.gsap.min.js"></script>
 <script src="plugins/greensock/ScrollToPlugin.min.js"></script>
-<script src="plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+<script src="plugins/owl/owl.carousel.js"></script>
 <script src="plugins/scrollTo/jquery.scrollTo.min.js"></script>
 <script src="plugins/easing/easing.js"></script>
 <script src="js/custom.js"></script>
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
-<script>
+ <!--<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>-->
+ <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
