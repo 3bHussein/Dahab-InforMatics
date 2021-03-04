@@ -643,7 +643,7 @@ section
 .home
 {
 	width: 100%;
-	height: 100vh;
+	height: 70vh;
 }
 
 /*********************************
@@ -674,7 +674,7 @@ section
 .hero_slide_container
 {
 	width: 100%;
-	height: 100vh;
+	height: 90vh;
 }
 .hero_slide_content
 {

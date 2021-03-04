@@ -60,7 +60,7 @@
 <li class="footer_list_item"><a href="/About">About Us</a></li>
 <li class="footer_list_item"><a href="/Services">Services</a></li>
 <li class="footer_list_item"><a href="/ContactUs">Contact Us</a></li>
-<li class="footer_list_item"><a href="/JoinUs">Join US</a></li>
+<li class="footer_list_item"><a href="/JoinUs">Career</a></li>
 
 </ul>
 </div>

@@ -323,6 +323,8 @@ $(document).ready(function()
 			    .setTween(TweenMax.from(bcg, 1, {y: '-30%', ease:Power0.easeNone}))
 			    .addTo(ctrl);
 			});
-		}
+		}//to prevent Right click 
+
+		document.addEventListener('contextmenu', event => event.preventDefault());
 	}
 });

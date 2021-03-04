@@ -180,7 +180,10 @@
 .owl-carousel .owl-item .owl-lazy
 {
     opacity: 0;
-    transition: opacity 400ms ease;
+    /* old */
+    /* transition: opacity 400ms ease; */
+
+    transition: opacity 700ms ease;
 }
 
 .owl-carousel .owl-item img.owl-lazy

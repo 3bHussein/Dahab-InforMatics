@@ -19,8 +19,17 @@
 <link rel="stylesheet" type="text/css" href="plugins/owl/animate.css">
 <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
 <link rel="stylesheet" type="text/css" href="styles/responsive.css">
+<!-- //to prevent Right click  -->
 
+ 
+<script>
+window.addEventListener('contextmenu', function (e) {
+  
+  e.preventDefault();
+}, false);
+</script>
 
+</script>
 
 <!-- Add Icon For Title -->
 <link rel="icon" href="images/titlelogo.jpg" type="image/icon type">
@@ -66,7 +75,7 @@
 <li class="main_nav_item"><a href="/About">About us</a></li>
 <li class="main_nav_item"><a href="/Services">Services</a></li>
 <li class="main_nav_item"><a href="/ContactUs">Contact US</a></li>
-<li class="main_nav_item"><a href="/JoinUs">Join US</a></li>
+<li class="main_nav_item"><a href="/JoinUs">Career</a></li>
 
 <!-- End Main in Navbar -->
 

@@ -37,13 +37,20 @@ https://elhussein.000webhostapp.com/
     8- add alt in photo for Logo ,our Technologies image in ||(Home-Page) Host
     9-Finished Creating Email for Dahab Website
     10-Add Social Media link in Mobile Header ,Footer
+    11-Remove arrow slider in home Page In HOst
+    12-change main name in home page for informatics
+    13-change join us tap to career
+    14-add Font Awesome
+    15-resize Header in Home
+    16-Add "E-learning Tools" in Header. In HOst
+    17-Prevent Right Click
+    18-make a restricted extension   in CV in Career
 
 # Next progress in website
 
     ~~Edit About Page Header~~
     -Change photos in Main Header page 
     -change photos in Slider 
-    -Try make restricted extension   in CV in Join Us 
     -Add hover Action for Each Tab
     -Apply New Email in Site
     -Improve Seo in Site
