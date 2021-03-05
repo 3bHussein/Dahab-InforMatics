@@ -120,7 +120,7 @@ window.addEventListener('contextmenu', function (e) {
 <li class="menu_item menu_mm"><a href="/About">About us</a></li>
 <li class="menu_item menu_mm"><a href="/Services">Services</a></li>
 <li class="menu_item menu_mm"><a href="/ContactUs">Contact us</a></li>
-<li class="menu_item menu_mm"><a href="/JoinUs">Join Us</a></li>
+<li class="menu_item menu_mm"><a href="/JoinUs">Career</a></li>
 
 </ul>
 
