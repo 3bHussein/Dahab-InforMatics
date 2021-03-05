@@ -1,0 +1,5 @@
+<div class="hero_slide_background"><img src="images/it1.jpg" style="width: 500px; height: 100%;"/></div>
+
+<div class="hero_slide_background"><img src="images/bb.jpg" style="width: 470px;height: 100%;"/></div>
+
+<div class="hero_slide_background"><img src="images/it.jpg" style="width: 500px;height: 100%;"/></div>
