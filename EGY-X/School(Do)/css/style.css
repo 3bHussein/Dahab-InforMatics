@@ -15569,7 +15569,7 @@ html.rd-navbar-fixed-linked .page {
 .rd-navbar-modern.rd-navbar-static .rd-navbar-main-element .rd-navbar-project-hamburger.active {
 	width: 0;
 }
-
+/* width of list */
 .rd-navbar-modern.rd-navbar-static .rd-navbar-submenu.focus .rd-navbar-megamenu, .rd-navbar-modern.rd-navbar-static .rd-navbar-submenu.opened .rd-navbar-megamenu {
 	transform: translate3d(-50%, 0, 0);
 }
@@ -15578,7 +15578,7 @@ html.rd-navbar-fixed-linked .page {
 	margin-top: 0;
 	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
 }
-
+/* left position */
 .rd-navbar-modern.rd-navbar-static .rd-navbar-megamenu {
 	left: 50%;
 	transform: translate3d(-50%, 30px, 0);

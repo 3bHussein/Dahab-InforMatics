@@ -13,6 +13,15 @@
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/fonts.css">
     <link rel="stylesheet" href="css/style.css" id="main-styles-link">
+    <style>
+    .reserv{
+      border-radius:20px;
+      background-color: #4261e4;
+
+
+    }
+   
+    </style>
     <!--[if lt IE 10]>
     <div style="background: #212121; padding: 10px 0; box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3); clear: both; text-align:center; position: relative; z-index:1;"><a href="https://windows.microsoft.com/en-US/internet-explorer/"><img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
     <script src="js/html5shiv.min.js"></script>
@@ -39,13 +48,15 @@
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><h5 style="color: #4261e4;">EGY-X Org</h5></div>
+                  <!-- <div class="rd-navbar-brand"><h5 style="color: #4261e4;">EGY-X </h5></div> -->
+                  <div class="rd-navbar-brand"><a class="brand" href="./"><img src="images/exlo.jpg" alt="" width="161" height="49"/></a></div>
+
                 </div>
                 <div class="rd-navbar-main-element">
                   <div class="rd-navbar-nav-wrap">
                     <!-- RD Navbar Basket-->
                     <!-- RD Navbar Search-->
-                    <div class="rd-navbar-search">
+                    <!-- <div class="rd-navbar-search">
                       <button class="rd-navbar-search-toggle" data-rd-navbar-toggle=".rd-navbar-search"><span></span></button>
                       <form class="rd-search" action="search-results.html" data-search-live="rd-search-results-live" method="GET">
                         <div class="form-wrap">
@@ -55,10 +66,10 @@
                           <button class="rd-search-form-submit fl-bigmug-line-search74" type="submit"></button>
                         </div>
                       </form>
-                    </div>
+                    </div> -->
                     <!-- RD Navbar Nav-->
                     <ul class="rd-navbar-nav">
-                      <li class="rd-nav-item active"><a class="rd-nav-link" href="index.php">Home</a>
+                      <li class="rd-nav-item "><a class="rd-nav-link" href="index.php">Home</a>
                       </li>
                       <!-- <li class="rd-nav-item"><a class="rd-nav-link" href="courses.php">Courses</a>
                       </li> -->
@@ -101,9 +112,9 @@
                       </li> -->
                       <li class="rd-nav-item"><a class="rd-nav-link" href="#">Library</a>
                         <!-- RD Navbar Megamenu-->
-                        <ul class="rd-menu rd-navbar-megamenu">
+                        <!-- <ul class="rd-menu rd-navbar-megamenu">
                           <li class="rd-megamenu-item">
-                            <div>
+                            <div style="width: 500px;">
                         
                               <ul class="rd-megamenu-list">
                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#"style="font-size: 20px;">Books</a></li><br>
@@ -117,13 +128,89 @@
                           </li>
                          
                           
+                        </ul> -->
+                        <ul class="rd-menu rd-navbar-megamenu">
+                          <li class="rd-megamenu-item">
+                            <div>
+                              <!-- <h5 class="rd-megamenu-title">Elements</h5> -->
+                              <ul class="rd-megamenu-list">
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#"style="font-size: 18.5px;"> Books </a></li>
+                              </ul>
+                            </div>
+                          </li>
+                          <li class="rd-megamenu-item">
+                            <div>
+                              <!-- <h5 class="rd-megamenu-title">Additional pages</h5> -->
+                              <ul class="rd-megamenu-list">
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link rgihtrtl  " href="#"style="font-size: 18.2px;"> Scientific Journals  (IEEE)</a></li>
+                              </ul>
+                            </div>
+                          </li>
+                          <li class="rd-megamenu-item">
+                            <div>
+                              <!-- <h5 class="rd-megamenu-title">Additional pages</h5> -->
+                              <ul class="rd-megamenu-list">
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#"style="font-size: 18.2px;"> Scientific References </a></li>
+                         </ul>
+                            </div>
+                          </li>
                         </ul>
                       </li>
                       <li class="rd-nav-item"><a class="rd-nav-link" href="partners.php">Partners</a>
                       </li>
-                      <li class="rd-nav-item " style="background-color: #4261e4;"><a class="rd-nav-link" href="reserved.php" style="color: white;"> Reserved Area</a>
-                      </li>
+                      <!-- <li class="rd-nav-item " style="background-color: #4261e4;"><a class="rd-nav-link" href="reserved.php" style="color: white;"> Reserved Area</a>
+                      </li> -->
+                      
                       <li class="rd-nav-item"><a class="rd-nav-link" href="contact-us.php">Contact Us</a>
+                      </li>
+                      <li class="rd-nav-item reserv" ><a class="rd-nav-link lin" href="#" style="color: white; font-family:Cursive;" >Reserved Area</a>
+                        <!-- RD Navbar Megamenu-->
+                      
+                       
+                        <!-- <ul class="rd-menu rd-navbar-megamenu">
+                          <li class="rd-megamenu-item">
+                            <div style="max-width: 500px;text-align:center">
+                            <h4 class="rd-megamenu-title"></h4>
+                              <ul class="rd-megamenu-list"style="columns:1;padding-right:30%; direction:rtl;">
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#"style="font-size: 20px;">إمتحانات أون لاين</a></li>
+                                <br>
+                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#"style="font-size: 20px;"> أبحاث أون لاين</a></li>
+                                <br>
+                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#"style="font-size: 20px;">منصة تعليمية </a></li>
+                                <br>
+                                
+                                </ul>
+                            </div>
+                          </li>
+                       
+                          
+                        </ul> -->
+                        <ul class="rd-menu rd-navbar-megamenu">
+                          <li class="rd-megamenu-item">
+                            <div>
+                              <!-- <h5 class="rd-megamenu-title">Elements</h5> -->
+                              <ul class="rd-megamenu-list">
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#"style="font-size: 18.5px;">إمتحانات أون لاين</a></li>
+                              </ul>
+                            </div>
+                          </li>
+                          <li class="rd-megamenu-item">
+                            <div>
+                              <!-- <h5 class="rd-megamenu-title">Additional pages</h5> -->
+                              <ul class="rd-megamenu-list">
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link rgihtrtl  " href="#"style="font-size: 18.5px;"> أبحاث أون لاين</a></li>
+                              </ul>
+                            </div>
+                          </li>
+                          <li class="rd-megamenu-item">
+                            <div>
+                              <!-- <h5 class="rd-megamenu-title">Additional pages</h5> -->
+                              <ul class="rd-megamenu-list">
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#"style="font-size: 18.5px;">منصة تعليمية </a></li>
+                         </ul>
+                            </div>
+                          </li>
+                        </ul>
                       </li>
                     </ul>
                   </div>
@@ -143,9 +230,9 @@
                   </div>
                   <div class="rd-navbar-project-content rd-navbar-modern-project-content">
                     <div>
-                      <p class="text-spacing-25">If you have any questions or suggestions for our business school team, don’t hesitate contacting us directly or via our Facebook page.</p>
+                      <p class="text-spacing-25"></p>
                       <div class="row row-10 gutters-10">
-                        <div class="col-12"><a class="link-simple" href="#">Facebook</a><img src="images/header-aside-394x255.jpg" alt="" width="394" height="255"/>
+                        <div class="col-12"><img src="images/spotlight-2-370x332.jpg" alt="" width="394" height="255"/>
                         </div>
                       </div>
                       <ul class="rd-navbar-modern-contacts">
@@ -187,7 +274,7 @@
       <!-- Swiper-->
       <section class="section swiper-container swiper-slider swiper-slider-modern" data-loop="true" data-autoplay="false" data-simulate-touch="true" data-nav="true" data-slide-effect="fade">
         <div class="swiper-wrapper text-left">
-          <div class="swiper-slide" data-slide-bg="images/slider-2-slide-1-1920x850.jpg">
+          <!-- <div class="swiper-slide" data-slide-bg="images/slider-2-slide-1-1920x850.jpg">
             <div class="swiper-slide-caption">
               <div class="container">
                 <div class="row justify-content-md-end">
@@ -201,7 +288,7 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
           <div class="swiper-slide" data-slide-bg="images/slider-2-slide-2-1920x850.jpg">
             <div class="swiper-slide-caption">
               <div class="container">
