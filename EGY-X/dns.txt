@@ -1,0 +1,16 @@
+egy-x.org
+
+
+ns1.dns-parking.com	162.159.24.201
+ns2.dns-parking.com	162.159.25.42
+
+
+
+go daddy 
+
+ns35.domaincontrol.com
+ns36.domaincontrol.com
+
+
+
+step: add our nameserver from hostinger to godday nameserver
