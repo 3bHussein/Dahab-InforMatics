@@ -52,7 +52,7 @@ window.addEventListener('contextmenu', function (e) {
 
 <!-- <img src="images/logo.svg" alt="" style="width: 40px;"> -->
 <a href="Home">
-<img src="images/dahab.jpeg" alt="Company Logo"   style="width: 170px;height:74px">
+<img src="images/dahab.jpeg" alt="Company Logo"  class="logo"  >
 </a>
 <!-- End Idea 1-->
 
