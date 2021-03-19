@@ -25,7 +25,7 @@ https://elhussein.000webhostapp.com/
 
 
 
-# After Publish Changes:
+# After Publish Dahab Changes:
     1-add info Email in footer
     2-Remove form navbar mobile version 2 social media icon
     3-Create a Bundle Email for website
@@ -45,12 +45,14 @@ https://elhussein.000webhostapp.com/
     16-Add "E-learning Tools" in Header. In HOst
     17-Prevent Right Click
     18-make a restricted extension   in CV in Career
+    19-change photos in Slider 
+    20-Change photos in Main Header page 
 
 # Next progress in website
 
     ~~Edit About Page Header~~
-    -Change photos in Main Header page 
-    -change photos in Slider 
+    -
+    -
     -Add hover Action for Each Tab
     -Apply New Email in Site
     -Improve Seo in Site
@@ -64,15 +66,6 @@ https://elhussein.000webhostapp.com/
     
 
 
-# on Progress
-    -Edit on Original Website 
-    -Edit on MMedical Sitr
-    -Stock WebApp 
-    -Financial Web App
-    -Start up Android App
-    -Hr Website
-    -Mmedial website
-    -E-learning website
 
 # BackLog
     -Create Android App for AHI Website
@@ -81,9 +74,29 @@ https://elhussein.000webhostapp.com/
     
 
 
+# on Progress
+    -MMedical website (SHop)
+    -Edit in E-learning Website
+    -Add SSl into Egy-x website
+
+
+
+# Done
+    -Edit on Original Website 
+    -Stock WebApp 
+    -Financial Web App
+    -E-learning website
+
+
+
+
+
+
+
 
 # What Next!
 
+    -Hr Website
     -Build E-learning Application
     -Build POS Application
 
