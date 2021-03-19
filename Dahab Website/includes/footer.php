@@ -59,6 +59,9 @@
 <li class="footer_list_item"><a href="/Home">Home</a></li>
 <li class="footer_list_item"><a href="/About">About Us</a></li>
 <li class="footer_list_item"><a href="/Services">Services</a></li>
+<li class="footer_list_item"><a href="/Customer">Our Customer</a></li>
+
+
 <li class="footer_list_item"><a href="/ContactUs">Contact Us</a></li>
 <li class="footer_list_item"><a href="/JoinUs">Career</a></li>
 
@@ -88,8 +91,8 @@
 
 <!-- Add linker inTo Number -->
 <!-- old Color for contact -->
-<!-- <a href="te:+201222408980" style="color: #FFFCF4;">+20 122 240 8980 -->
-<a href="te:+201222408980" style="color: #a5a5a5;">+20 122 240 8980 </a>
+<!-- <a href="te:+201211809000" style="color: #FFFCF4;">+20 122 240 8980 -->
+<a href="te:+201211809000" style="color: #a5a5a5;">+20 121 180 9000 </a>
  
 <!-- +20 122 240 8980-->
 </li>

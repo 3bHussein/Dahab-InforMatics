@@ -52,7 +52,7 @@ window.addEventListener('contextmenu', function (e) {
 
 <!-- <img src="images/logo.svg" alt="" style="width: 40px;"> -->
 <a href="Home">
-<img src="images/dahab.jpeg" alt="Company Logo"   style="width: 160px;">
+<img src="images/dahab.jpeg" alt="Company Logo"   style="width: 170px;height:74px">
 </a>
 <!-- End Idea 1-->
 
@@ -74,6 +74,7 @@ window.addEventListener('contextmenu', function (e) {
 <!-- Main in Navbar -->
 <li class="main_nav_item"><a href="/About">About us</a></li>
 <li class="main_nav_item"><a href="/Services">Services</a></li>
+<li class="main_nav_item"><a href="/Customer">Our Customer</a></li>
 <li class="main_nav_item"><a href="/ContactUs">Contact US</a></li>
 <li class="main_nav_item"><a href="/JoinUs">Career</a></li>
 
@@ -94,8 +95,8 @@ window.addEventListener('contextmenu', function (e) {
 <img src="images/phone-call.svg" alt="">
 
 <!-- Add linker inTo Number -->
-<span ><a href="te:+201222408980" style="color: #FFFCF4;">+20 122 240 8980</span>
-<!-- <span > +20 122 240 8980</span>
+<span ><a href="te:+201211809000" style="color: #FFFCF4;">+20 121 180 9000</span>
+<!-- <span > +01211809000</span>
  -->
  </div>
 
@@ -119,8 +120,10 @@ window.addEventListener('contextmenu', function (e) {
 <li class="menu_item menu_mm"><a href="/Home">Home</a></li>
 <li class="menu_item menu_mm"><a href="/About">About us</a></li>
 <li class="menu_item menu_mm"><a href="/Services">Services</a></li>
+<li class="menu_item menu_mm"><a href="/Customer">Our Customer</a></li>
 <li class="menu_item menu_mm"><a href="/ContactUs">Contact us</a></li>
 <li class="menu_item menu_mm"><a href="/JoinUs">Career</a></li>
+<li class="menu_item menu_mm"><a href="te:+201211809000">+201211809000</a></li>
 
 </ul>
 
