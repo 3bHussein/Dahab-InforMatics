@@ -9,7 +9,9 @@ include "assets/includes/header.php";
                 <div class="col-lg-12" style="height: 290px;">
                     <div class="slider_area owl-carousel" style="height: 290px;">
                     
-                        <div style="height: 290px; position: relative; " class="single_slider d-flex align-items-center" data-bgimg="assets/img/slider/mueller.jpg">
+                    <div style="position: relative; " class="single_slider d-flex align-items-center" data-bgimg="assets/img/slider/mueller.jpg">
+<!-- old code  -->
+                        <!-- <div style="height: 290px; position: relative; " class="single_slider d-flex align-items-center" data-bgimg="assets/img/slider/mueller.jpg"> -->
                             <!-- <div class="slider_content">
                                 <h2>Top Quality</h2>
                                 <h1>Aftermarket Turbocharger Specialist</h1>
