@@ -6,6 +6,26 @@
 *
 * Contexts
 */
+
+
+
+@media (min-width: 320px) {
+	.he{
+height: 120px!important;
+	}
+}
+@media (min-width: 1024px) {
+	.he{
+		height: 160px!important;
+	}
+}
+@media (min-width: 1440px) {
+	.he{
+		height: 150px!important;
+	}
+}
+ 
+
 a:focus,
 button:focus {
 	outline: none !important;
@@ -7551,6 +7571,8 @@ textarea.textarea-lg {
 @media (min-width: 1200px) {
 	.breadcrumbs-custom {
 		padding: 150px 0;
+		height: 160px!important;
+
 	}
 }
 
