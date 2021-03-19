@@ -5,26 +5,54 @@ include 'includes/header.php';
 <!-- Style for Ourtechnology Section -->
 <!-- Maybe Make Error with Responsive -->
 <style>
-.design-services .design-items {
-	text-align: center;
-		-js-display: flex;
-		display: -webkit-box;
-		display: -ms-flexbox;
-		display: flex;
-		-webkit-box-pack: justify;
-		-ms-flex-pack: justify;
-		justify-content: space-between;
-    font-family: 'Roboto', sans-serif;
+    .design-services .design-items {
+        text-align: center;
+        -js-display: flex;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+        font-family: 'Roboto', sans-serif;
+        font-size: 22px;
+        font-weight: 500;
+        color: #1a1a1a;
+        margin-bottom: 13px;
+        
+    }
+    .h33{
+        font-family: 'Roboto', sans-serif;
     font-size: 22px;
     font-weight: 500;
     color: #1a1a1a;
     margin-bottom: 13px;
     }
 
+    .button_line_2 {
+    background: 0 0;
+    border: solid 2px #1a1a1a;
+        }
 
+        .button1 {
+    display: inline-block;
+    width: 188px;
+    height: 53px;
+    vertical-align: middle;
+    margin-right: 9px;
+    margin-bottom: 15px;
+        }
+        .button_line_2 a {
+    color: #1a1a1a;
+}
 
+.button1 a {
+    line-height: 53px;
+    display: block;
+    font-size: 16px;
+    font-weight: 700;
+}
 </style>
-
 <div class="home">
 <!-- Slider section -->
 <div class="hero_slider_container">
@@ -173,115 +201,75 @@ include 'includes/header.php';
 <!-- End ourtechnology  Section -->
 
 <!-- Events Section -->
-<div class="events page_section">
-<div class="container">
-<div class="row">
-<div class="col">
-<div class="section_title text-center">
-<h1>Upcoming Events</h1>
-<!-- <div style="background-color: #fcb406"><img src="images/tail-spin.svg"></div>
- -->
+ <div class="events page_section">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="section_title text-center">
+                    <h1>Upcoming Events</h1>
+                    <!-- <div style="background-color: #fcb406"><img src="images/tail-spin.svg"></div> -->
+                    
 
-<div style="  width: 100px;  height: 100px; margin: 20px; display:inline-block;">
-<svg version="1.1" id="L9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-  viewBox="0 0 100 100" enable-background="new 0 0 0 0" xml:space="preserve">
-    <path fill="#fcb406" d="M73,50c0-12.7-10.3-23-23-23S27,37.3,27,50 M30.9,50c0-10.5,8.5-19.1,19.1-19.1S69.1,39.5,69.1,50">
-      <animateTransform 
-         attributeName="transform" 
-         attributeType="XML" 
-         type="rotate"
-         dur="1s" 
-         from="0 50 50"
-         to="360 50 50" 
-         repeatCount="indefinite" />
-  </path>
-</svg>
-</div> 
-<div style="color: black; font-family: 'Roboto', sans-serif;font-size: 22px;font-weight: 500;">
-Co<strong style="color:#fcb406">mm</strong>ing S<strong style="color:#fcb406">oo</strong>n
-</div>
-</div>
-</div>
-</div>
-<!-- div class="event_items">
+                    <!-- <div style="  width: 100px;  height: 100px; margin: 20px; display:inline-block;">
+                            <svg version="1.1" id="L9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                                        viewBox="0 0 100 100" enable-background="new 0 0 0 0" xml:space="preserve">
+                                <path fill="#fcb406" d="M73,50c0-12.7-10.3-23-23-23S27,37.3,27,50 M30.9,50c0-10.5,8.5-19.1,19.1-19.1S69.1,39.5,69.1,50">
+                                    <animateTransform
+                                        attributeName="transform"
+                                        attributeType="XML"
+                                        type="rotate"
+                                        dur="1s"
+                                        from="0 50 50"
+                                        to="360 50 50"
+                                        repeatCount="indefinite" />
+                                </path>
+                            </svg>
+                    </div> -->
+                    <!-- <div style="color: black; font-family: 'Roboto', sans-serif;font-size: 22px;font-weight: 500;">
+                        Co<strong style="color:#fcb406">mm</strong>ing S<strong style="color:#fcb406">oo</strong>n
+                    </div> -->
+                </div>
+            </div>
+        </div>
+        
+        <div class="event_items">
 
-<div class="row event_item">
-<div class="col">
-<div class="row d-flex flex-row align-items-end">
-<div class="col-lg-2 order-lg-1 order-2">
-<div class="event_date d-flex flex-column align-items-center justify-content-center">
-<div class="event_day">07</div>
-<div class="event_month">January</div>
-</div>
-</div>
-<div class="col-lg-6 order-lg-2 order-3">
-<div class="event_content">
-<div class="event_name"><a class="trans_200" href="#">Student Festival</a></div>
-<div class="event_location">Grand Central Park</div>
-<p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor.</p>
- </div>
-</div>
-<div class="col-lg-4 order-lg-3 order-1">
-<div class="event_image">
-<img src="images/event_1.jpg" alt="https://unsplash.com/@theunsteady5">
-</div>
-</div>
-</div>
-</div>
-</div>
+     
 
-<div class="row event_item">
-<div class="col">
-<div class="row d-flex flex-row align-items-end">
-<div class="col-lg-2 order-lg-1 order-2">
-<div class="event_date d-flex flex-column align-items-center justify-content-center">
-<div class="event_day">07</div>
-<div class="event_month">January</div>
-</div>
-</div>
-<div class="col-lg-6 order-lg-2 order-3">
-<div class="event_content">
-<div class="event_name"><a class="trans_200" href="#">Open day in the Univesrsity campus</a></div>
-<div class="event_location">Grand Central Park</div>
-<p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor.</p>
-</div>
-</div>
-<div class="col-lg-4 order-lg-3 order-1">
-<div class="event_image">
-<img src="images/event_2.jpg" alt="https://unsplash.com/@claybanks1989">
-</div>
-</div>
-</div>
-</div>
+        <div class="row event_item">
+        <div class="col">
+        <div class="row d-flex flex-row align-items-end">
+        <!-- <div class="col-lg-2 order-lg-1 order-2">
+        <div class="event_date d-flex flex-column align-items-center justify-content-center">
+        <div class="event_day">07</div>
+        <div class="event_month">January</div>
+        </div>
+        </div> -->
+        <div class="col-lg-6 order-lg-2 order-3">
+        <div class="event_content">
+        <div class="event_name">
+            <!-- <a class="trans_200" href="#">First Online Education</a> -->
+            <h3 class="h33">First Online Education</h3>
+          </div>
+        <!-- <div class="event_location">Grand Central Park</div> -->
+        <p>First Online Education platform.</p>
+        <div class="button1 button_line_2 text-center trans_200"><a href="https://egy-x.com/" target="_blank">Read More</a></div>
+        </div>
+        </div>
+        <div class="col-lg-4 order-lg-3 order-1">
+        <div class="event_image">
+        <img src="images/e-learning.jfif" alt="E-learning platform">
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+
+         
+        </div> 
+    </div>
 </div>
 
-<div class="row event_item">
-<div class="col">
-<div class="row d-flex flex-row align-items-end">
-<div class="col-lg-2 order-lg-1 order-2">
-<div class="event_date d-flex flex-column align-items-center justify-content-center">
-<div class="event_day">07</div>
-<div class="event_month">January</div>
-</div>
-</div>
-<div class="col-lg-6 order-lg-2 order-3">
-<div class="event_content">
-<div class="event_name"><a class="trans_200" href="#">Student Graduation Ceremony</a></div>
-<div class="event_location">Grand Central Park</div>
-<p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor.</p>
-</div>
-</div>
-<div class="col-lg-4 order-lg-3 order-1">
-<div class="event_image">
-<img src="images/event_3.jpg" alt="https://unsplash.com/@juanmramosjr">
-</div>
-</div>
-</div>
-</div>
-</div>
-</div> -->
-</div>
-</div>
 
 <?php
 include 'includes/footer.php';
