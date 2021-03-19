@@ -12,7 +12,7 @@ https://elhussein.000webhostapp.com/
 
 
 
-# Our progress
+# First Our progress
     -Choose UI/UX Design  
     -Edit Navbar [Home-about-Services-ContactUs-JoinUS]
     -Add Logo for Website
@@ -51,8 +51,7 @@ https://elhussein.000webhostapp.com/
 # Next progress in website
 
     ~~Edit About Page Header~~
-    -
-    -
+    
     -Add hover Action for Each Tab
     -Apply New Email in Site
     -Improve Seo in Site
@@ -78,6 +77,9 @@ https://elhussein.000webhostapp.com/
     -MMedical website (SHop)
     -Edit in E-learning Website
     -Add SSl into Egy-x website
+    -Create Massager API
+    -Create Email for EGy-x
+    -
 
 
 
