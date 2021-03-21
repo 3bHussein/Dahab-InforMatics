@@ -6,26 +6,6 @@
 *
 * Contexts
 */
-
-
-
-@media (min-width: 320px) {
-	.he{
-height: 120px!important;
-	}
-}
-@media (min-width: 1024px) {
-	.he{
-		height: 160px!important;
-	}
-}
-@media (min-width: 1440px) {
-	.he{
-		height: 150px!important;
-	}
-}
- 
-
 a:focus,
 button:focus {
 	outline: none !important;
@@ -7571,8 +7551,6 @@ textarea.textarea-lg {
 @media (min-width: 1200px) {
 	.breadcrumbs-custom {
 		padding: 150px 0;
-		height: 160px!important;
-
 	}
 }
 
@@ -17318,7 +17296,7 @@ html.rd-navbar-fixed-linked .page {
 .swiper-container-horizontal > .swiper-pagination .swiper-pagination-bullet {
 	margin: 0 10px;
 }
-/*this for height of slider egy-x*/
+
 .swiper-slide {
 	position: relative;
 	display: flex;
@@ -17329,36 +17307,7 @@ html.rd-navbar-fixed-linked .page {
 	height: 100%;
 	white-space: nowrap;
 	background-position: 50% 50%;
-	height: 600px!important;
 }
-
-@media (max-width: 280px) {
- 
-	.swiper-slide {
-		height: 415px!important;
-
-	}
-
-}
-@media (max-width: 320px) {
- 
-	.swiper-slide {
-		height: 450px!important;
-
-	}
-
-}
-@media (max-width: 540px) {
- 
-	.swiper-slide {
-		height: 400px!important;
-
-	}
-
-}
- 
-/*  */
-
 
 .swiper-slide:before {
 	content: '';
@@ -17628,9 +17577,7 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .swiper-slider-modern {
-	/* Egy-x */
-	/* min-height: 44.27083vw; */
-	min-height: 38vw;
+	min-height: 44.27083vw;
 }
 
 .swiper-slider-modern .swiper-slide {

@@ -1132,6 +1132,40 @@ input:last-of-type
 /*********************************
 12. Services
 *********************************/
+ .logo{
+	width: 170px!important;
+	height:74px;
+ }
+
+	@media only screen and (max-width: 320px)
+ 
+{
+	.logo{
+		width: 170px!important;
+		height:60px!important;
+
+	}
+}
+
+@media only screen and (max-width: 375px)
+ 
+{
+	.logo{
+		width: 170px!important;
+		height:60px!important;
+
+	}
+}
+@media only screen and (max-width: 425px)
+ 
+{
+	.logo{
+		width: 170px!important;
+		height:60px!important;
+
+	}
+}
+
 
 .services
 {
