@@ -118,7 +118,7 @@ include 'includes/header.php';
 
 <div class="col-lg-6 service_item text-left d-flex flex-column align-items-start justify-content-start">
 <div class="icon_container d-flex flex-column justify-content-end">
-<img src="images/web.png" alt="">
+<img src="images/web.png" style="width:500px;height:500px;" alt="">
 </div>
 <h3>Web Applications Development</h3>
 <p>Designing and developing high quality scalable web applications.</p>
@@ -126,7 +126,7 @@ include 'includes/header.php';
 
 <div class="col-lg-6 service_item text-left d-flex flex-column align-items-start justify-content-start">
 <div class="icon_container d-flex flex-column justify-content-end">
-<img src="images/mobile.png" alt="">
+<img src="images/mobile.png" style="width:500px;height:250px;" alt="">
 </div>
 <h3>Mobile Applications Development</h3>
 <p>Building and designing an optimized and native android applications.</p>
@@ -149,6 +149,24 @@ include 'includes/header.php';
 <h1>Our Technologies</h1>
 <p style="font-size: 15px; color: #333333;">Our software engineers have expertise in all the technologies needed to deliver comprehensive web developments services for companies across industries.</p>
 </div>
+
+<div class="latest-news-slider  animate">
+    <div class="row">
+        <div class="col-lg-2 col aos-item aos-init aos-animate" data-aos="fade-up" data-aos-delay="0">
+            <div class="client-logo-card">
+                <picture>
+                <img class="offer-image" src="images/ourtechnology/php.svg"style="width: 59px;height: 62px;">
+                     </picture>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
 
 
 
@@ -233,10 +251,7 @@ include 'includes/header.php';
         </div>
         
         <div class="event_items">
-
-     
-
-        <div class="row event_item">
+    <div class="row event_item">
         <div class="col">
         <div class="row d-flex flex-row align-items-end">
         <!-- <div class="col-lg-2 order-lg-1 order-2">

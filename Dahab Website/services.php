@@ -35,7 +35,7 @@ include 'includes/header.php';
 <div class="pbar_container">
 <div class="progress_bar_container col_12 clearfix">
 <div class="pb_item">
-<li>-Dahab makes Android apps development services</li>
+<li>Dahab makes Android apps development services</li>
 
 </div>
 <div class="pb_item">
@@ -44,9 +44,12 @@ include 'includes/header.php';
 
 
 <div class="pb_item">
-<li> We provide quality Android apps for any Android Mobile, Tablet with cool graphics</li>
+<li> We provide  Android apps for any Android Mobile</li>
 </div>
 
+<div class="pb_item">
+<li> Our experts can help you in designing</li>
+</div>
 </br>
 </br>
 
@@ -119,7 +122,8 @@ include 'includes/header.php';
 
 </div>
 <div class="pb_item">
-<li>Role-wise user authentication (Student, Teacher, Staff, Parent) </li>
+<li>User authentication for Students and Teachers </li>
+</br>
 </div>
 
 
@@ -132,7 +136,7 @@ include 'includes/header.php';
 </div>
 <div class="col-lg-4 course_box">
 <div class="card">
-<img class="card-img-top" src="images/medical.jpg" alt="https://unsplash.com/@kellitungay">
+<img class="card-img-top" src="images/med2.jpg" alt="https://unsplash.com/@kellitungay">
 <div class="card-body text-center">
 <div class="card-title"><a href="#" style="pointer-events:none;">Medical Application</a></div>
 
@@ -155,8 +159,11 @@ include 'includes/header.php';
 
 </li>
 <div class="pb_item">
-<li>View doctor profiles, their photos, publications, and records or credentials</li>
+<li>View doctor profiles and records or credentials</li>
+
 </div>
+</br>
+</br>
 </br>
 </li>
 </div>
@@ -178,24 +185,22 @@ include 'includes/header.php';
 <div class="progress_bar_container col_12 clearfix">
 <div class="pb_item">
 <li>Create,edit the stock order in your system</li>
-
 </div>
+
 <div class="pb_item">
 <li>Returns, refunds and store credit features </li>
 </div>
 
-</li>
 <div class="pb_item">
 <li>Searchable customer database</li>
 </div>
 
-</li>
 <div class="pb_item">
-<li>Sales monitoring and reporting</li>
-<br/>
-</br>
+<li>Sales monitoring and reporting </li>
 </div>
-
+</br>
+</br>
+</br>
 </li>
 </div>
 </div>
@@ -232,7 +237,7 @@ include 'includes/header.php';
 <li>Start work with 24 hour support</li>
 </div>
 </br>
-</br
+</br>
 
 </li>
 </div>
@@ -241,27 +246,11 @@ include 'includes/header.php';
 </div>
 </div>
 
-
-
-
-
 <div class="container">
 <div class="section_title text-center">
 <h1>Hardware Services</h1>
 </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
 
 <div class="col-lg-4 course_box">
 <div class="card">
@@ -288,9 +277,9 @@ include 'includes/header.php';
 <li>Audio support</li>
 </div>
 <div class="pb_item">
-<li>Touch support that you can open and close applications, meet with others </li>
+<li>Touch support that you can open and close apps</li>
 </div>
-
+</br>
 
 </li>
 </div>
@@ -342,13 +331,7 @@ include 'includes/header.php';
 <div class="card-title"><a href="#" style="pointer-events:none;">Camera Embedded System</a></div>
 
 </div>
-<!-- <div class="price_box d-flex flex-row align-items-center">
-<div class="course_author_image">
-<img src="images/author.jpg" alt="https://unsplash.com/@mehdizadeh">
-</div>
-<div class="course_author_name">Michael Smith, <span>Author</span></div>
-<div class="course_price d-flex flex-column align-items-center justify-content-center"><span>$29</span></div>
-</div> -->
+
 <div class="elements_progress_bars">
 <div class="pbar_container">
 <div class="progress_bar_container col_12 clearfix">
@@ -358,13 +341,14 @@ include 'includes/header.php';
 </div>
 
 <div class="pb_item">
-<li>Night vision which makes the picture visible during the evening</li>
+<li>Visions which make pictures visible during night</li>
 
 </div>
 <div class="pb_item">
-<li>Motion Detection that create an alert if  movement happens </li>
+<li>Detection creates an alert if movement happens </li>
 </div>
-
+</br>
+</br>
 </li>
 
 
