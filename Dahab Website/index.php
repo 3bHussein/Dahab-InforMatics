@@ -96,43 +96,59 @@ h1.test{
 </style>
 <div class="home">
 <!-- Slider section -->
-<div class="hero_slider_container">
-<div class="hero_slider owl-carousel">
+   <div class="hero_slider_container">
+        <div class="hero_slider owl-carousel">
 
-<div class="hero_slide">
-<div class="hero_slide_background" style="background-image:url(images/it1.jpg)"></div>
-<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
-<div class="hero_slide_content text-center">
-<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Welcome To <span>Dahab In4matic</span></h1>
-</div>
-</div>
-</div>
+            <div class="hero_slide">
+                <div class="hero_slide_background" style="background-image:url(images/home.jpeg)"></div>
+                <!--<div class="hero_slide_background" style="background-image:url(images/background.jpg)"></div>-->
+                <!--<div class="hero_slide_background" style="background-image:url(images/it1.jpg)"></div>-->
+                <div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
+                    <div class="hero_slide_content text-center">
+                        <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Welcome To <span>Dahab Informatics</span></h1>
+                        
+                        <h2 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut"style="color:#FFFF; padding-top : 10%;" class="">
+                            E-Learing Tools </h2>
+                    </div>
+                </div>
+            </div>
+             <div class="hero_slide">
+                <!--<div class="hero_slide_background" style="background-image:url(images/e-l.jpg)"></div>-->
+                <div class="hero_slide_background" style="background-image:url(images/e-l.jpg)"></div>
+                <div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
+                    <div class="hero_slide_content text-center">
+                        <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">
+                            Developing <span>E-learning</span> <span>tools</span></h1>
+                    </div>
+                </div>
+            </div>
 
-<div class="hero_slide">
-<div class="hero_slide_background" style="background-image:url(images/bb.jpg)"></div>
-<!-- <div class="hero_slide_background" style="background-image:url(images/bb.png)"></div> -->
+            <div class="hero_slide">
+                <div class="hero_slide_background" style="background-image:url(images/web5.jpg)"></div>
+                <!--<div class="hero_slide_background" style="background-image:url(images/bb.jpg)"></div>-->
+                <div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
+                    <div class="hero_slide_content text-center">
+                        <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">
+                            Developing <span>Web</span> <span>  Applications</span></h1>
+                    </div>
+                </div>
+            </div>
 
-<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
-<div class="hero_slide_content text-center">
-<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">
- Developing <span>Web</span> <span>  Applications</span></h1>
-</div>
-</div>
-</div>
-
-<div class="hero_slide">
-<div class="hero_slide_background" style="background-image:url(images/it.jpg)"></div>
-<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
-<div class="hero_slide_content text-center">
-<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut"> Developing <span>Android</span>
-<span>Applications</span></h1>
-</div>
-</div>
-</div>
-</div>
-<div class="hero_slider_left hero_slider_nav trans_200"><span class="trans_200">prev</span></div>
-<div class="hero_slider_right hero_slider_nav trans_200"><span class="trans_200">next</span></div>
-</div>
+            <div class="hero_slide">
+                <div class="hero_slide_background" style="background-image:url(images/and.jpg)"></div>
+                <!--<div class="hero_slide_background" style="background-image:url(images/it.jpg)"></div>-->
+                <div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
+                    <div class="hero_slide_content text-center">
+                        <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut"> Developing <span>Android</span>
+                            <span>Applications</span></h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Remove slider -->
+        <!-- <div class="hero_slider_left hero_slider_nav trans_200"><span class="trans_200">prev</span></div>
+        <div class="hero_slider_right hero_slider_nav trans_200"><span class="trans_200">next</span></div> -->
+    </div>
 </div>
 
 <!-- Services section -->
