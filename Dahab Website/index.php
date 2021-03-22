@@ -5,6 +5,20 @@ include 'includes/header.php';
 <!-- Style for Ourtechnology Section -->
 <!-- Maybe Make Error with Responsive -->
 <style>
+    
+    .example-modal .modal {
+		position: relative;
+		top: auto;
+		bottom: auto;
+		right: auto;
+		left: auto;
+		display: block;
+		z-index: 1;
+		}	
+
+	.example-modal .modal {
+		background: transparent !important;
+		}
     .design-services .design-items {
         text-align: center;
         -js-display: flex;
@@ -21,13 +35,14 @@ include 'includes/header.php';
         margin-bottom: 13px;
         
     }
-    .h33{
-        font-family: 'Roboto', sans-serif;
-    font-size: 22px;
-    font-weight: 500;
-    color: #1a1a1a;
-    margin-bottom: 13px;
-    }
+    h1.test {
+  animation: color-change 1s infinite;
+     }
+   @keyframes color-change {
+   0% { color: red; }
+   50% { color: blue; }
+   100% { color: red; }
+}
 
     .button_line_2 {
     background: 0 0;
@@ -51,6 +66,32 @@ include 'includes/header.php';
     display: block;
     font-size: 16px;
     font-weight: 700;
+}
+h1.test{
+ letter-spacing: 6px;
+
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+.icon_container {
+    height: 41px;
+    width: auto;
+    margin-bottom: 30px;
+}
+
+.flex-column {
+    -ms-flex-direction: column!important;
+    flex-direction: column!important;
+}
+.d-flex {
+    display: -ms-flexbox!important;
+    display: flex!important;
 }
 </style>
 <div class="home">
@@ -100,80 +141,87 @@ include 'includes/header.php';
 <div class="row">
 <div class="col">
 <div class="section_title text-center">
-<h1>Software Development Company</h1>
-<p style="font-size: 15px; color: #333333;">We are a dynamic team of skilled developers, designers, and support experts dedicated to providing the web solution you need to achieve success.</p>
-</div>
-</div>
-</div>
 
-<div class="row services_row">
-
-<div class="col-lg-12 service_item text-left d-flex flex-column align-items-start justify-content-start">
-<div class="icon_container d-flex flex-column justify-content-end">
-<img src="images/elearning.png" alt="">
-</div>
-<h3>E-Learning Platforms</h3>
-<p>Designed to be responsive and accessible for students, the platform interface is easy to navigate on both desktop and mobile devices.</p>
-</div>
-
-<div class="col-lg-6 service_item text-left d-flex flex-column align-items-start justify-content-start">
-<div class="icon_container d-flex flex-column justify-content-end">
-<img src="images/web.png" style="width:500px;height:500px;" alt="">
-</div>
-<h3>Web Applications Development</h3>
-<p>Designing and developing high quality scalable web applications.</p>
-</div>
-
-<div class="col-lg-6 service_item text-left d-flex flex-column align-items-start justify-content-start">
-<div class="icon_container d-flex flex-column justify-content-end">
-<img src="images/mobile.png" style="width:500px;height:250px;" alt="">
-</div>
-<h3>Mobile Applications Development</h3>
-<p>Building and designing an optimized and native android applications.</p>
-</div>
-
+<h1 >Software Development Company</h1>
+</br>
+<p style="font-size: 15.4px; color: #333333;">We are a dynamic team of skilled developers, designers, and support experts dedicated to providing the web solution you need to achieve success.</p>
 </div>
 </div>
 </div>
 
 
+<div class="row" style="margin-left:-30px;margin-right:-30px;margin-top:20px">
+ <div class="col-lg-4 col-12">
+ <div class="box" style="border-radius: 25px;">
+ <img src="images/elearning.png"  class="icon_container d-flex flex-column justify-content-end center" alt="">
 
-
-
-<!-- ourtechnology  Section -->
-<!-- dimension for logo 77*62 -->
+ <h3 class="box-title" style="font-weight=400; margin-top: -20px; font-size: 1.75rem;font-family: inherit;
+ font-weight: bold;text-align: center;">E- learning Platform </h3>
+            <div class="box-body">
+            <p>Designed to be responsive and accessible for students on both desktop and mobile devices.</p>
+              <!-- sample modal content -->
+		<div class="modal fade bs-example-modal-lg" tabindex="-1"
+         role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" style="display: none;">
+		<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+		<div class="modal-header">
+		</div>
+		</div>			<!-- /.modal-content -->
+		</div>			<!-- /.modal-dialog -->
+		</div>
+	<!-- /.modal --> </div>
+          </div>
+        </div>
+        <!-- /.col web application-->
+        <div class="col-lg-4 col-12">
+          <div class="box" style="border-radius: 25px;">
+          <img src="images/web.png"  class="icon_container d-flex flex-column justify-content-end center" alt="">
+          <h3 class="box-title" style="font-weight=400; margin-top: -20px; font-size: 1.75rem;font-family: inherit;
+             font-weight: bold;text-align: center;">Web Development </h3>
+        
+    <div class="box-body">
+    <p> Designing and developing high quality scalable web applications by tallented designers</p>
+     <!-- sample modal content -->
+    <div  class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+    <div class="modal-content">
+	<div class="modal-header">
+						</div>
+						</div>
+						</div>
+						</div>
+				<!-- /.modal -->
+             
+            </div>
+          </div>
+        </div><!-- /.col -->
+        <div class="col-lg-4 col-12">
+          <div class="box" style="border-radius: 25px;">
+          <img src="images/mobile.png"  class="icon_container d-flex flex-column justify-content-end center" alt="">
+          <h3 class="box-title" style="font-weight=400; margin-top: -20px; font-size: 1.75rem;font-family: inherit;
+             font-weight: bold;text-align: center;">Mobile APP Development </h3>
+            <div class="box-body">
+            <p>Building and designing an optimized and native android applications.</p>
+             <!-- sample modal content -->
+			<div class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true" style="display: none;">
+			<div class="modal-dialog modal-sm">
+			
+				   </div>
+				   </div>
+		           </div>
+                   </div>
+                   </div>
+                   </div>
+</br>
 <section class="design-services">
   <div class="container">
 
   <div class="section_title text-center">
-<h1>Our Technologies</h1>
+<h1 class="test">Our Technologies</h1>
+</br>
 <p style="font-size: 15px; color: #333333;">Our software engineers have expertise in all the technologies needed to deliver comprehensive web developments services for companies across industries.</p>
 </div>
 
-<div class="latest-news-slider  animate">
-    <div class="row">
-        <div class="col-lg-2 col aos-item aos-init aos-animate" data-aos="fade-up" data-aos-delay="0">
-            <div class="client-logo-card">
-                <picture>
-                <img class="offer-image" src="images/ourtechnology/php.svg"style="width: 59px;height: 62px;">
-                     </picture>
-</div>
-</div>
-</div>
-</div>
-
-
-
-
-
-
-
-
-
-  <!-- <h2 style="text-align: center;">Our Technologies</h2>
-  <p class="solutions-page__descr" style="text-align: center; margin-bottom: 30px;">
-  <span style="font-weight: 400;">Our software engineers have expertise in all the technologies needed to deliver comprehensive web developments services for companies across industries.</span>
-  </p> -->
   <p>&nbsp;</p>
   <ul class="design-items form-row col">
  

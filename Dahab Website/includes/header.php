@@ -19,6 +19,12 @@
 <link rel="stylesheet" type="text/css" href="plugins/owl/animate.css">
 <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
 <link rel="stylesheet" type="text/css" href="styles/responsive.css">
+<link rel="stylesheet" href="assets/vendor_components/bootstrap/dist/css/bootstrap.css">
+<link rel="stylesheet" href="assets/vendor_components/font-awesome/css/font-awesome.css">
+<link rel="stylesheet" href="assets/vendor_components/Ionicons/css/ionicons.css">
+<link rel="stylesheet" href="styles\bootstrap4/master_style.css">
+<link rel="stylesheet" href="styles/_all-skins.css">
+
 <!-- //to prevent Right click  -->
 
  

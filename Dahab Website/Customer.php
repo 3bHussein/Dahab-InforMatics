@@ -26,10 +26,10 @@ include 'includes/header.php';
 <div class="col">
 <marquee behavior="scroll" direction="left">
 <a href="https://www.aboukir-institutes.edu.eg/compInst">
-    <img src="images/logos/hicis.jpg" width="300" height="250" alt="hicis" />
+    <img src="images/logos/hasebat.png" width="300" height="250" alt="hicis" />
 </a>
 <a href="https://www.aboukir-institutes.edu.eg/tourInst">
-    <img src="images/logos/hithr.jpg" width="300" height="250"  alt="hithr" />
+    <img src="images/logos/syaha.png" width="300" height="250"  alt="hithr" />
 </a>
 <a href="https://mmedicalegypt.com/">
     <img src="images/logos/mmedical.jfif" width="300" height="250" alt="mmedical" />
