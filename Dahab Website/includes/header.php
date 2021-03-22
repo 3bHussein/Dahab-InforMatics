@@ -28,12 +28,12 @@
 <!-- //to prevent Right click  -->
 
  
-<script>
-window.addEventListener('contextmenu', function (e) {
+ <script>
+// window.addEventListener('contextmenu', function (e) {
   
-  e.preventDefault();
-}, false);
-</script>
+//   e.preventDefault();
+// }, false);
+ </script>
 
 </script>
 
@@ -49,8 +49,10 @@ window.addEventListener('contextmenu', function (e) {
 
 <!-- Navbar for Desktop Version -->
 
+ 
 <header class="header d-flex flex-row">
-<div class="header_content d-flex flex-row align-items-center">
+<!--<div class="header_content d-flex flex-row align-items-center">-->
+<div class="header_content  flex-row align-items-center">
 
 <div class="logo_container">
 <div class="logo">
@@ -97,7 +99,8 @@ window.addEventListener('contextmenu', function (e) {
 </div>
 </nav>
 </div>
-<div class="header_side d-flex flex-row justify-content-center align-items-center">
+<div class="header_side flex-row justify-content-center align-items-center">
+<!--<div class="header_side d-flex flex-row justify-content-center align-items-center">-->
 <img src="images/phone-call.svg" alt="">
 
 <!-- Add linker inTo Number -->
