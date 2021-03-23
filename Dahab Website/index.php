@@ -1,154 +1,54 @@
 <?php
 include 'includes/header.php';
 ?>
-
+<link rel="stylesheet" href="assets/vendor_components/bootstrap/dist/css/bootstrap.css">
+<link rel="stylesheet" href="assets/vendor_components/font-awesome/css/font-awesome.css">
+<link rel="stylesheet" href="assets/vendor_components/Ionicons/css/ionicons.css">
+<link rel="stylesheet" href="styles\bootstrap4/master_style.css">
+<link rel="stylesheet" href="styles/_all-skins.css">
+<link rel="stylesheet" href="styles/testanimation.css">
 <!-- Style for Ourtechnology Section -->
 <!-- Maybe Make Error with Responsive -->
-<style>
-    
-    .example-modal .modal {
-		position: relative;
-		top: auto;
-		bottom: auto;
-		right: auto;
-		left: auto;
-		display: block;
-		z-index: 1;
-		}	
-
-	.example-modal .modal {
-		background: transparent !important;
-		}
-    .design-services .design-items {
-        text-align: center;
-        -js-display: flex;
-        display: -webkit-box;
-        display: -ms-flexbox;
-        display: flex;
-        -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-        justify-content: space-between;
-        font-family: 'Roboto', sans-serif;
-        font-size: 22px;
-        font-weight: 500;
-        color: #1a1a1a;
-        margin-bottom: 13px;
-        
-    }
-    h1.test {
-  animation: color-change 1s infinite;
-     }
-   @keyframes color-change {
-   0% { color: red; }
-   50% { color: blue; }
-   100% { color: red; }
-}
-
-    .button_line_2 {
-    background: 0 0;
-    border: solid 2px #1a1a1a;
-        }
-
-        .button1 {
-    display: inline-block;
-    width: 188px;
-    height: 53px;
-    vertical-align: middle;
-    margin-right: 9px;
-    margin-bottom: 15px;
-        }
-        .button_line_2 a {
-    color: #1a1a1a;
-}
-
-.button1 a {
-    line-height: 53px;
-    display: block;
-    font-size: 16px;
-    font-weight: 700;
-}
-h1.test{
- letter-spacing: 6px;
-
-}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-
-}
-
-.icon_container {
-    height: 41px;
-    width: auto;
-    margin-bottom: 30px;
-}
-
-.flex-column {
-    -ms-flex-direction: column!important;
-    flex-direction: column!important;
-}
-.d-flex {
-    display: -ms-flexbox!important;
-    display: flex!important;
-}
-</style>
+<
 <div class="home">
 <!-- Slider section -->
-   <div class="hero_slider_container">
-        <div class="hero_slider owl-carousel">
+<div class="hero_slider_container">
+<div class="hero_slider owl-carousel">
 
-            <div class="hero_slide">
-                <div class="hero_slide_background" style="background-image:url(images/home.jpeg)"></div>
-                <!--<div class="hero_slide_background" style="background-image:url(images/background.jpg)"></div>-->
-                <!--<div class="hero_slide_background" style="background-image:url(images/it1.jpg)"></div>-->
-                <div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
-                    <div class="hero_slide_content text-center">
-                        <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Welcome To <span>Dahab Informatics</span></h1>
-                        
-                        <h2 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut"style="color:#FFFF; padding-top : 10%;" class="">
-                            E-Learing Tools </h2>
-                    </div>
-                </div>
-            </div>
-             <div class="hero_slide">
-                <!--<div class="hero_slide_background" style="background-image:url(images/e-l.jpg)"></div>-->
-                <div class="hero_slide_background" style="background-image:url(images/e-l.jpg)"></div>
-                <div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
-                    <div class="hero_slide_content text-center">
-                        <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">
-                            Developing <span>E-learning</span> <span>tools</span></h1>
-                    </div>
-                </div>
-            </div>
+<div class="hero_slide">
+<div class="hero_slide_background" style="background-image:url(images/it1.jpg)"></div>
+<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
+<div class="hero_slide_content text-center">
+<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Welcome To <span>Dahab In4matic</span></h1>
+</div>
+</div>
+</div>
 
-            <div class="hero_slide">
-                <div class="hero_slide_background" style="background-image:url(images/web5.jpg)"></div>
-                <!--<div class="hero_slide_background" style="background-image:url(images/bb.jpg)"></div>-->
-                <div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
-                    <div class="hero_slide_content text-center">
-                        <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">
-                            Developing <span>Web</span> <span>  Applications</span></h1>
-                    </div>
-                </div>
-            </div>
+<div class="hero_slide">
+<div class="hero_slide_background" style="background-image:url(images/bb.jpg)"></div>
+<!-- <div class="hero_slide_background" style="background-image:url(images/bb.png)"></div> -->
 
-            <div class="hero_slide">
-                <div class="hero_slide_background" style="background-image:url(images/and.jpg)"></div>
-                <!--<div class="hero_slide_background" style="background-image:url(images/it.jpg)"></div>-->
-                <div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
-                    <div class="hero_slide_content text-center">
-                        <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut"> Developing <span>Android</span>
-                            <span>Applications</span></h1>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Remove slider -->
-        <!-- <div class="hero_slider_left hero_slider_nav trans_200"><span class="trans_200">prev</span></div>
-        <div class="hero_slider_right hero_slider_nav trans_200"><span class="trans_200">next</span></div> -->
-    </div>
+<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
+<div class="hero_slide_content text-center">
+<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">
+ Developing <span>Web</span> <span>  Applications</span></h1>
+</div>
+</div>
+</div>
+
+<div class="hero_slide">
+<div class="hero_slide_background" style="background-image:url(images/it.jpg)"></div>
+<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
+<div class="hero_slide_content text-center">
+<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut"> Developing <span>Android</span>
+<span>Applications</span></h1>
+</div>
+</div>
+</div>
+</div>
+<div class="hero_slider_left hero_slider_nav trans_200"><span class="trans_200">prev</span></div>
+<div class="hero_slider_right hero_slider_nav trans_200"><span class="trans_200">next</span></div>
+</div>
 </div>
 
 <!-- Services section -->
@@ -157,19 +57,24 @@ h1.test{
 <div class="row">
 <div class="col">
 <div class="section_title text-center">
-
+<div id="test">
 <h1 >Software Development Company</h1>
+</div>
+
 </br>
 <p style="font-size: 15.4px; color: #333333;">We are a dynamic team of skilled developers, designers, and support experts dedicated to providing the web solution you need to achieve success.</p>
 </div>
 </div>
 </div>
+</br>
+</br>
+</br>
 
 
 <div class="row" style="margin-left:-30px;margin-right:-30px;margin-top:20px">
  <div class="col-lg-4 col-12">
  <div class="box" style="border-radius: 25px;">
- <img src="images/elearning.png"  class="icon_container d-flex flex-column justify-content-end center" alt="">
+ <img src="images/elearning.png"  class="icon_container justify-content-end center" alt="">
 
  <h3 class="box-title" style="font-weight=400; margin-top: -20px; font-size: 1.75rem;font-family: inherit;
  font-weight: bold;text-align: center;">E- learning Platform </h3>
@@ -191,7 +96,7 @@ h1.test{
         <!-- /.col web application-->
         <div class="col-lg-4 col-12">
           <div class="box" style="border-radius: 25px;">
-          <img src="images/web.png"  class="icon_container d-flex flex-column justify-content-end center" alt="">
+          <img src="images/web.png"  class="icon_container justify-content-end center" alt="">
           <h3 class="box-title" style="font-weight=400; margin-top: -20px; font-size: 1.75rem;font-family: inherit;
              font-weight: bold;text-align: center;">Web Development </h3>
         
@@ -213,7 +118,7 @@ h1.test{
         </div><!-- /.col -->
         <div class="col-lg-4 col-12">
           <div class="box" style="border-radius: 25px;">
-          <img src="images/mobile.png"  class="icon_container d-flex flex-column justify-content-end center" alt="">
+          <img src="images/mobile.png"  class="icon_container  justify-content-end center" alt="">
           <h3 class="box-title" style="font-weight=400; margin-top: -20px; font-size: 1.75rem;font-family: inherit;
              font-weight: bold;text-align: center;">Mobile APP Development </h3>
             <div class="box-body">
@@ -231,7 +136,9 @@ h1.test{
 </br>
 <section class="design-services">
   <div class="container">
-
+  </br>
+  </br>
+  </br>
   <div class="section_title text-center">
 <h1 class="test">Our Technologies</h1>
 </br>
@@ -278,7 +185,8 @@ h1.test{
   </div>
   </section>
 
-
+</div>
+</div>
 
 <!-- End ourtechnology  Section -->
 

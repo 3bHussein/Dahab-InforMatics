@@ -3,7 +3,24 @@ include 'includes/header.php';
 ?>
 <link rel="stylesheet" type="text/css" href="styles/elements_styles.css">
 <link rel="stylesheet" type="text/css" href="styles/elements_responsive.css">
+ <style>
+     h2.qoutation{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+     }
  
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+ </style>
 
 <div class="home">
 <div class="home_background_container prlx_parent">
@@ -44,18 +61,17 @@ include 'includes/header.php';
 </div>
 </div>
 <!-- #FFFCF4 -->
-<div class="first">
-<div class="parten1" 
-style="width:100%; height:150px;background-color:#FFFDD0; padding:60px">
-<img src="images/logos/qoute1.jpeg" width="80" height="100"position:relative   alt="">
+<div class="col-lg-12">
+<div class="first" style="width: 100%; height:350px;background-color:#FFFDD0;">
+<img src="images/logos/qout.png" width="80" height="100" style=" position: absolute; left:40px;  top:50px;"  alt="">
+
+  <div class="center">
+<h2 >"Never try to copy ideas from others, be authentic with your ideas,
+     only then can you become a successful entrepreneur"</h2>
+
 </div>
-<div class="parten1" 
-style="width:100%; height:150px;background-color:#FFFDD0; ">
-<h1 style="padding-left:170px">Never try to copy ideas from others, be authentic with your ideas, only then can you become a successful entrepreneur.</h1>
-</div>
-<div class="parten2" 
-style="width:100%; height:150px;background-color:#FFFDD0; padding-left:1200px">
-<img src="images/qoute.jpeg" width="80" height="100"position:relative   alt="">
+<img src="images/qout2.png" width="80" height="100"style=" position: absolute; right:40px;  bottom:70px;"   alt="">
+
 </div>
 </div>
 <?php

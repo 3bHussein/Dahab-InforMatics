@@ -229,13 +229,19 @@ include 'includes/header.php';
 
 </li>
 <div class="pb_item">
-<li>We collect all data input from customer  ,analyze it to target the right audience</li>
+<li>Focus on developing secure, reliable, applications</li>
+</div>
+
+</li>
+<div class="pb_item">
+<li>Having full access to original development team</li>
 </div>
 
 </li>
 <div class="pb_item">
 <li>Start work with 24 hour support</li>
 </div>
+</br>
 </br>
 </br>
 
@@ -249,6 +255,9 @@ include 'includes/header.php';
 <div class="container">
 <div class="section_title text-center">
 <h1>Hardware Services</h1>
+</br>
+</br>
+</br>
 </div>
 </div>
 
