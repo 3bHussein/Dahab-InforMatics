@@ -6,7 +6,7 @@
 <div class="single-footer-widget">
 <div class="widget-logo">
 <a href="index.php">
-<img src="assets/images/logo.png" alt="image">
+<img src="assets/images/faq/dahab2.png"style="width:200px;height:85px" alt="image">
 </a>
 </div>
 <p>We are a dynamic team of skilled developers, designers, and support experts dedicated to providing the web solution you need to achieve success..</p>

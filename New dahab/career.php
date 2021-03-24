@@ -51,7 +51,10 @@ include 'assets/includes/header.php';
 </div>
 <div class="col-lg-6 col-md-6">
 <div class="form-group">
-<textarea name="message" class="form-control" id="message" cols="10" rows="3" required data-error="Write your message" placeholder="Message"></textarea>
+<form action="/career.php">
+<input name="message" class="form-control"  name="myfile" id="message"  type="file"
+cols="10" rows="3" required data-error="Write your message" placeholder="Message"></input>
+</form>
 <div class="help-block with-errors"></div>
 </div>
 </div>

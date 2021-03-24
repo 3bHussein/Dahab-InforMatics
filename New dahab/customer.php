@@ -42,7 +42,7 @@ include 'assets/includes/header.php';
 
 <a href="https://quizcis.aboukir-institutes.com/login/index.php" target="_blank">
 <div class="image">
-<img src="assets/images/faq/HICIS.png" alt="image">
+<img src="assets/images/faq/hicis.jpeg" style="height:260px" alt="image">
 </a>
 </div>
 <div class="content">

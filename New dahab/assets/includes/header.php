@@ -43,7 +43,7 @@
 </div>
 </div>
 
-<div class="header-information">Header Information</div>
+<!-- <div class="header-information">Header Information</div> -->
 <!-- 
 <div class="top-header-area bg-color-wrap">
     
@@ -95,9 +95,9 @@
 <div class="main-responsive-nav">
 <div class="container">
 <div class="main-responsive-menu">
-<div class="logo">
-<a href="index.php">
-<img src="assets/images/logo.png" alt="logo">
+<div class="logo" >
+<a href="index.php" >
+<img src="assets/images/faq/dahab2.png"  alt="logo" style="width:300px;height:85px">
 </a>
 </div>
 </div>
@@ -105,9 +105,9 @@
 </div>
 <div class="main-navbar">
 <div class="container">
-<nav class="navbar navbar-expand-md navbar-light">
-<a class="navbar-brand" href="index.php">
-<img src="assets/images/logo.png" alt="logo">
+<nav class="navbar navbar-expand-md navbar-light" >
+<a class="navbar-brand" href="index.php" >
+<img src="assets/images/faq/dahab2.png" alt="logo" style="width:300px;height:85px">
 </a>
 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
 <ul class="navbar-nav m-auto">
