@@ -8,13 +8,13 @@ include 'assets/includes/header.php';
 <div class="col-lg-5 col-md-12">
 <div class="main-banner-content">
 <div class="tag wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1000ms">
-<img src="assets/images/main-banner/banner-one/tag-icon.png" alt="image">
-# Plod Best Startup Company.
+<!-- <img src="assets/images/main-banner/banner-one/tag-icon.png" alt="image">
+Dahab Best Startup Company. -->
 </div>
-<h1 class="wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1000ms">We Are Here, To Help Your Startup Business</h1>
-<p class="wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1000ms">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio at ut tincidunt porttitor molestie aliquet quam cursus. Rhoncus donec libero et volutpat erat posuere sagittis cursus posuere</p>
+<h1 class="wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1000ms">Software Development Company</h1>
+<p class="wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1000ms"> We are a dynamic team of skilled developers, designers, and support experts dedicated to providing the web solution you need to achieve success.</p>
 <div class="banner-btn">
-<a href="about-1.html" class="default-btn wow fadeInRight" data-wow-delay="200ms" data-wow-duration="1000ms">Read More <i class="ri-arrow-right-line"></i><span></span></a>
+<a href="about.php" class="default-btn wow fadeInRight" data-wow-delay="200ms" data-wow-duration="1000ms">Read More <i class="ri-arrow-right-line"></i><span></span></a>
 </div>
 </div>
 </div>
@@ -63,7 +63,7 @@ include 'assets/includes/header.php';
 <a href="#"><img src="assets/images/partner/partner-1.png" alt="image"></a>
 </div>
 <div class="single-partner">
-<a href="#"><img src="assets/images/partner/partner-2.png" alt="image"></a>
+<a href="#"><img src="assets/images/partner/php.svg" style="width:150px" alt="image"></a>
 </div>
 <div class="single-partner">
 <a href="#"><img src="assets/images/partner/partner-3.png" alt="image"></a>
@@ -108,36 +108,30 @@ include 'assets/includes/header.php';
 <div class="single-features">
 <a href="services-details.html"><img src="assets/images/features/features-1.png" alt="image"></a>
 <h3>
-<a href="services-details.html">Strategic Planning</a>
+<a href="services-details.html">E- learning Platform</a>
 </h3>
-<p>Best Strategic planning dolor sit amet, consectetur adipiscing elit. Scelerisque amet odio velit, eu, auctor. Aliquet nam elit nulla eget sodales dui pulvinar.</p>
-<div class="features-btn">
-<a href="services-details.html" class="default-btn">Read More <i class="ri-arrow-right-line"></i><span></span></a>
-</div>
+<p>Platforms are designed to be responsive and accessible for students and doctors on both desktop and mobile devices.</p>
+
 </div>
 </div>
 <div class="col-lg-4 col-md-6">
 <div class="single-features">
 <a href="services-details.html"><img src="assets/images/features/features-2.png" alt="image"></a>
 <h3>
-<a href="services-details.html">Research & Development</a>
+<a href="services-details.html">Web Development</a>
 </h3>
-<p>Plod is totally desigital techonology based creative agency ipsum dolor sit amet, consectetur adipiscing elit. Scelerisque amet odio velit, eu, auctor.</p>
-<div class="features-btn">
-<a href="services-details.html" class="default-btn">Read More <i class="ri-arrow-right-line"></i><span></span></a>
-</div>
+<p>Designing and developing high quality scalable web applications by tallented designer.</p>
+
 </div>
 </div>
 <div class="col-lg-4 col-md-6">
 <div class="single-features">
 <a href="services-details.html"><img src="assets/images/features/features-3.png" alt="image"></a>
 <h3>
-<a href="services-details.html">Design & Implimentation</a>
+<a href="services-details.html">Mobile APP Development</a>
 </h3>
-<p>Best Strategic planning dolor sit amet, consectetur adipiscing elit. Scelerisque amet odio velit, eu, auctor. Aliquet nam elit nulla eget sodales dui pulvinar.</p>
-<div class="features-btn">
-<a href="services-details.html" class="default-btn">Read More <i class="ri-arrow-right-line"></i><span></span></a>
-</div>
+<p>Building and designing an optimized and native android applications.</p>
+
 </div>
 </div>
 </div>
@@ -158,6 +152,7 @@ include 'assets/includes/header.php';
 
 
 <div class="experiences-area">
+<!-- 
 <div class="container">
 <div class="row align-items-center">
 <div class="col-lg-6">
@@ -214,18 +209,22 @@ include 'assets/includes/header.php';
 </div>
 <div class="experiences-shape-7" data-speed="0.08" data-revert="true">
 <img src="assets/images/experiences/shape-5.png" alt="image">
-</div>
+</div> -->
 </div>
 
 
 <div class="services-area pt-100 pb-70">
 <div class="container">
 <div class="section-title">
-<h2>Services We Offer</h2>
-<p>Best Strategic planning dolor sit amet consectetur adipiscing elit. Scelerisque amet odio velit auctor nam elit nulla eget sodales dui pulvina</p>
+<h2>Our Technologies</h2>
+<p>
+Our software engineers have expertise in all the technologies needed to deliver comprehensive web developments services for companies across industries</p>
 </div>
-<div class="row justify-content-center">
+<!-- services>>> -->
+
+<!-- <div class="row justify-content-center">
 <div class="col-lg-4 col-md-6">
+
 <div class="single-services">
 <div class="icon">
 <i class="ri-quill-pen-line"></i>
@@ -297,8 +296,9 @@ include 'assets/includes/header.php';
 <a href="services-details.html" class="services-btn">Read More <i class="ri-arrow-right-line"></i></a>
 </div>
 </div>
+</div> -->
 </div>
-</div>
+
 <div class="services-shape-1" data-speed="0.02" data-revert="true">
 <img src="assets/images/services/shape-1.png" alt="image">
 </div>
@@ -315,6 +315,7 @@ include 'assets/includes/header.php';
 
 
 <div class="support-area">
+<!--     
 <div class="container">
 <div class="support-content">
 <div class="tag">
@@ -342,11 +343,12 @@ include 'assets/includes/header.php';
 </div>
 <div class="support-shape-6" data-speed="0.02" data-revert="true">
 <img src="assets/images/support/shape-6.png" alt="image">
-</div>
+</div> -->
 </div>
 
 
 <div class="cases-area ptb-100">
+<!-- 
 <div class="container">
 <div class="section-title">
 <h2>Our Realizations / Recent Cases</h2>
@@ -438,12 +440,13 @@ include 'assets/includes/header.php';
 <img src="assets/images/cases-study/shape-4.png" alt="image">
 </div>
 <div class="cases-shape-7" data-speed="0.04" data-revert="true">
-<img src="assets/images/cases-study/shape-5.png" alt="image">
+<img src="assets/images/cases-study/shape-5.png" alt="image"> -->
 </div>
 </div>
 
 
-<div class="clients-area ptb-100">
+<!-- <div class="clients-area ptb-100">
+
 <div class="container">
 <div class="section-title">
 <h2>Our Respected Clients</h2>
@@ -677,10 +680,11 @@ include 'assets/includes/header.php';
 <div class="clients-shape-3" data-speed="0.08" data-revert="true">
 <img src="assets/images/clients/shape-3.png" alt="image">
 </div>
-</div>
+</div> -->
 
-
+<!-- 
 <div class="plans-area pt-100 pb-100">
+
 <div class="container">
 <div class="section-title">
 <h2>Choose Your Best Plans</h2>
@@ -837,9 +841,9 @@ include 'assets/includes/header.php';
 <div class="plans-shape-3" data-speed="0.08" data-revert="true">
 <img src="assets/images/plans/shape-3.png" alt="image">
 </div>
-</div>
+</div> -->
 
-
+<!-- 
 <div class="blog-area pt-100 pb-70">
 <div class="container">
 <div class="section-title">
@@ -927,16 +931,16 @@ March 14, 2021
 <div class="blog-shape-2" data-speed="0.08" data-revert="true">
 <img src="assets/images/blog/shape-2.png" alt="image">
 </div>
- </div>
+ </div> -->
 
 
 <div class="overview-area pb-100">
 <div class="container">
 <div class="overview-box">
 <div class="overview-content">
-<h3>Let's Make Something Amazing Together</h3>
+<h3>Upcoming Events</h3>
 <div class="overview-btn">
-<a href="contact.html" class="overview-btn-one">Get Started</a>
+<a href="https://egy-x.com/" class="overview-btn-one">First Online Education platform.</a>
 <img src="assets/images/overview/bar.png" alt="image">
 </div>
 </div>

@@ -47,18 +47,6 @@ include 'assets/includes/header.php';
 <div class="help-block with-errors"></div>
 </div>
 </div>
-<div class="col-lg-6 col-md-6">
-<div class="form-group">
-<input type="text" name="phone_number" id="phone_number" required data-error="Please enter your number" class="form-control" placeholder="Phone">
-<div class="help-block with-errors"></div>
-</div>
-</div>
-<div class="col-lg-6 col-md-6">
-<div class="form-group">
-<input type="text" name="msg_subject" id="msg_subject" class="form-control" required data-error="Please enter your subject" placeholder="Subject">
-<div class="help-block with-errors"></div>
-</div>
-</div>
 <div class="col-lg-12 col-md-12">
 <div class="form-group">
 <textarea name="message" class="form-control" id="message" cols="30" rows="5" required data-error="Write your message" placeholder="Message"></textarea>
@@ -87,38 +75,39 @@ include 'assets/includes/header.php';
 <ul class="address-info">
 <li>
 <i class="ri-customer-service-line"></i>
-<a href="tel:3128959800">(312) 895-9800</a>
+<a href="tel:+20 121 180 9000">(+20) 121 180 9000</a>
 </li>
 <li>
 <i class="ri-global-line"></i>
-<a href="/cdn-cgi/l/email-protection#e68e838a8a89c88b83a6968a8982c885898b"><span class="__cf_email__" data-cfemail="1f777a73737031727a5f6f73707b317c7072">[email&#160;protected]</span></a>
+<a href=" info@dahab-informatics.com">info@dahab-informatics.com</span></a>
 </li>
 <li>
 <i class="ri-map-pin-line"></i>
-121 St, Melbourne VIC 3000, Australia
+8 El Farana Street, Alexandria, Egypt
 </li>
 </ul>
+
 <ul class="address-social">
 <li>
-<a href="#" target="_blank">
+<a href="https://www.facebook.com/DahabInformatics" target="_blank">
 <i class="ri-facebook-line"></i>
 </a>
 </li>
 <li>
-<a href="#" target="_blank">
+<a href="https://twitter.com/DahabInformatic" target="_blank">
 <i class="ri-twitter-fill"></i>
 </a>
 </li>
 <li>
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/dahabinformatics/" target="_blank">
 <i class="ri-linkedin-fill"></i>
 </a>
 </li>
-<li>
+<!-- <li>
 <a href="#" target="_blank">
 <i class="ri-messenger-line"></i>
 </a>
-</li>
+</li> -->
 </ul>
 </div>
 </div>

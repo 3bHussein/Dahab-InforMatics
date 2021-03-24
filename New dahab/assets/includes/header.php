@@ -28,7 +28,7 @@
 <link rel="stylesheet" href="assets/css/style.css">
 
 <link rel="stylesheet" href="assets/css/responsive.css">
-<title>Plod - Technology & IT Startups HTML Template</title>
+<title>Dahab Informatics Organization</title>
 <link rel="icon" type="image/png" href="assets/images/favicon.png">
 </head>
 <body>
@@ -44,10 +44,14 @@
 </div>
 
 <div class="header-information">Header Information</div>
+<!-- 
 <div class="top-header-area bg-color-wrap">
+    
 <div class="container">
 <div class="row align-items-center">
+    
 <div class="col-lg-7 col-md-6">
+    
 <ul class="top-header-content">
 <li>
 <i class="ri-customer-service-line"></i>
@@ -79,7 +83,7 @@
 </div>
 </div>
 </div>
-</div>
+</div> -->
 
 
 

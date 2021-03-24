@@ -31,6 +31,9 @@ include 'assets/includes/header.php';
 
 <div class="services-area pt-100 pb-70">
 <div class="container">
+<div class="section-title">
+<h2>Software Services</h2>
+</div>
 <div class="row justify-content-center">
 <div class="col-lg-4 col-md-6">
 <div class="single-services-item">
@@ -38,10 +41,12 @@ include 'assets/includes/header.php';
 <i class="ri-quill-pen-line"></i>
 </div>
 <h3>
-<a href="services-details.html">Brand Identity Design</a>
+<a href="services-details.html">Android Application</a>
 </h3>
-<p>Branding just like your personal identity makes you uniquely you your brand identity is the special sauce of your business that sets you apart from every other Tom Dick and Harry Inc.</p>
-<a href="services-details.html" class="services-btn">Read More <i class="ri-arrow-right-line"></i></a>
+<p>Dahab makes Android apps development services,
+We make customized applications for your brand and
+Our experts help you in designing</p>
+
 </div>
 </div>
 <div class="col-lg-4 col-md-6">
@@ -50,10 +55,13 @@ include 'assets/includes/header.php';
 <i class="ri-pie-chart-line"></i>
 </div>
 <h3>
-<a href="services-details.html">Digital Marketing</a>
+<a href="services-details.php">E-learning Application</a>
 </h3>
-<p>Plod offering you the best digital marketing services to just like your personal identity makes you uniquely you, your brand identity is the special sauce of your to our customer.</p>
-<a href="services-details.html" class="services-btn">Read More <i class="ri-arrow-right-line"></i></a>
+<p>Modern and easy to use interface,
+It has Personalised Dashboard,
+Secure authentication and mass enrolment and
+Manage user roles and permissions.</p>
+
 </div>
 </div>
 <div class="col-lg-4 col-md-6">
@@ -62,10 +70,13 @@ include 'assets/includes/header.php';
 <i class="ri-lightbulb-line"></i>
 </div>
 <h3>
-<a href="services-details.html">Design and Development</a>
+<a href="services-details.html">Education Management System</a>
 </h3>
-<p>Plod offering you the best digital marketing services to just like your personal identity makes you uniquely you, your brand identity is the special sauce of your to our customer.</p>
-<a href="services-details.html" class="services-btn">Read More <i class="ri-arrow-right-line"></i></a>
+<p>Human Resource Management,
+Finance Management,
+Add / edit / delete unlimited users and
+User authentication for Students and Teachers.</p>
+
 </div>
 </div>
 <div class="col-lg-4 col-md-6">
@@ -74,10 +85,13 @@ include 'assets/includes/header.php';
 <i class="ri-customer-service-2-line"></i>
 </div>
 <h3>
-<a href="services-details.html">IT Consulting Service</a>
+<a href="services-details.html">Medical Application</a>
 </h3>
-<p>Plod offering you the best digital marketing services to just like your personal identity makes you uniquely you, your brand identity is the special sauce of your to our customer.</p>
-<a href="services-details.html" class="services-btn">Read More <i class="ri-arrow-right-line"></i></a>
+<p>View the schedule of doctors,
+Patients can book, change, and cancel appointments,
+Access lab test results and
+View doctor profiles and records or credentials.</p>
+</br>
 </div>
 </div>
 <div class="col-lg-4 col-md-6">
@@ -86,10 +100,13 @@ include 'assets/includes/header.php';
 <i class="ri-cloud-line"></i>
 </div>
 <h3>
-<a href="services-details.html">Cloud Computing</a>
+<a href="services-details.html">Commercial Application</a>
 </h3>
-<p>Plod offering you the best digital marketing services to just like your personal identity makes you uniquely you, your brand identity is the special sauce of your to our customer.</p>
-<a href="services-details.html" class="services-btn">Read More <i class="ri-arrow-right-line"></i></a>
+<p>Create,edit the stock order in your system,
+Returns, refunds and store credit features,
+Searchable customer database and
+Sales monitoring and reporting.</p>
+
 </div>
 </div>
 <div class="col-lg-4 col-md-6">
@@ -98,10 +115,13 @@ include 'assets/includes/header.php';
 <i class="ri-layout-row-line"></i>
 </div>
 <h3>
-<a href="services-details.html">Domain and Hosting</a>
+<a href="services-details.html">Custom Application</a>
 </h3>
-<p>Plod offering you the best digital marketing services to just like your personal identity makes you uniquely you, your brand identity is the special sauce of your to our customer.</p>
-<a href="services-details.html" class="services-btn">Read More <i class="ri-arrow-right-line"></i></a>
+<p>Software will be designed for your specific needs,
+Focus on developing secure, reliable, applications,
+Having full access to original development team and
+Start work with 24 hour support.</p>
+
 </div>
 </div>
 </div>
@@ -123,7 +143,79 @@ include 'assets/includes/header.php';
 </div>
 </div>
 
+<!-- hardware -->
+<div class="services-area pt-100 pb-70">
+<div class="container">
+<div class="section-title">
+<h2>Hardware Services</h2>
+</div>
+<div class="row justify-content-center">
+<div class="col-lg-4 col-md-6">
+<div class="single-services-item">
+<div class="icon">
+<i class="ri-quill-pen-line"></i>
+</div>
+<h3>
+<a href="services-details.html">Smart Board</a>
+</h3>
+<p>Remote control to interactive display,
+Writing and drawing support,
+Audio support and
+Touch support that you can access every thing like open,control and close apps.</p>
 
+
+</div>
+</div>
+
+
+<div class="col-lg-4 col-md-6">
+<div class="single-services-item">
+<div class="icon bg-FF6D3D">
+<i class="ri-customer-service-2-line"></i>
+</div>
+<h3>
+<a href="services-details.html">Projector Embedded System</a>
+</h3>
+<p>The ability to produce crisp, clear images,
+High resolution,
+Ease of installation and use and
+Higher color light output.</p>
+
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-services-item">
+<div class="icon bg-8932F8">
+<i class="ri-cloud-line"></i>
+</div>
+<h3>
+<a href="services-details.html">Camera Embedded System</a>
+</h3>
+<p>Remote monitoring,
+Visions which make pictures visible during night and
+Detection creates an alert if movement happens.</p>
+</div>
+</div>
+
+</div>
+</div>
+<div class="services-shape-1" data-speed="0.06" data-revert="true">
+<img src="assets/images/services/shape-1.png" alt="image">
+</div>
+<div class="services-shape-2" data-speed="0.06" data-revert="true">
+<img src="assets/images/services/shape-2.png" alt="image">
+</div>
+<div class="services-shape-3" data-speed="0.06" data-revert="true">
+<img src="assets/images/services/shape-3.png" alt="image">
+</div>
+<div class="services-shape-4" data-speed="0.06" data-revert="true">
+<img src="assets/images/services/shape-4.png" alt="image">
+</div>
+<div class="services-shape-5" data-speed="0.06" data-revert="true">
+<img src="assets/images/services/shape-5.png" alt="image">
+</div>
+</div>
+<!-- end hardware -->
 <div class="process-area pb-100">
 <div class="container">
 <div class="process-inner-box">
@@ -160,8 +252,8 @@ include 'assets/includes/header.php';
 </div>
 </div>
 
-
-<div class="support-area">
+<!-- 
+<div class="support-area">  
 <div class="container">
 <div class="support-content">
 <div class="tag">
@@ -190,9 +282,9 @@ include 'assets/includes/header.php';
 <div class="support-shape-6" data-speed="0.02" data-revert="true">
 <img src="assets/images/support/shape-6.png" alt="image">
 </div>
-</div>
+</div> -->
 
-
+<!-- 
 <div class="clients-area bg-white-color ptb-100">
 <div class="container">
 <div class="section-title">
@@ -428,8 +520,8 @@ include 'assets/includes/header.php';
 <img src="assets/images/clients/shape-3.png" alt="image">
 </div>
 </div>
-
-
+ -->
+<!-- 
 <div class="overview-area pb-100">
 <div class="container">
 <div class="overview-box">
@@ -440,7 +532,7 @@ include 'assets/includes/header.php';
 <img src="assets/images/overview/bar.png" alt="image">
 </div>
 </div>
-</div>
+</div> -->
 </div>
 <div class="overview-shape-1" data-speed="0.08" data-revert="true">
 <img src="assets/images/overview/shape-1.png" alt="image">

@@ -2,79 +2,53 @@
 <footer class="footer-area pt-100">
 <div class="container">
 <div class="row justify-content-center">
-<div class="col-lg-3 col-sm-6">
+<div class="col-lg-4 col-sm-6">
 <div class="single-footer-widget">
 <div class="widget-logo">
 <a href="index.php">
 <img src="assets/images/logo.png" alt="image">
 </a>
 </div>
-<p>Best solution for your it startup business consecteturadipiscing elit. Scelerisque amet odio velit auctor. nam elit nulla.</p>
+<p>We are a dynamic team of skilled developers, designers, and support experts dedicated to providing the web solution you need to achieve success..</p>
 <ul class="widget-info">
 <li>
 <i class="ri-customer-service-line"></i>
-<a href="tel:3128959800">(312) 895-9800</a>
+<a href="tel:+20 121 180 9000">(+20) 121 180 9000</a>
 </li>
 <li>
 <i class="ri-global-line"></i>
-<a href="/cdn-cgi/l/email-protection#4e262b22222160232b0e3e22212a602d2123"><span class="__cf_email__" data-cfemail="432b262f2f2c6d2e2603332f2c276d202c2e">[email&#160;protected]</span></a>
+<a href=" info@dahab-informatics.com">info@dahab-informatics.com</span></a>
 </li>
 <li>
 <i class="ri-map-pin-line"></i>
-121 St, Melbourne VIC 3000, Australia
+8 El Farana Street, Alexandria, Egypt
 </li>
 </ul>
 </div>
 </div>
-<div class="col-lg-2 col-sm-3">
+
+<div class="col-lg-2 col-sm-4">
 <div class="single-footer-widget">
-<h3>Quick Link</h3>
+<h3>Menu</h3>
 <ul class="footer-links-list">
-<li><a href="gallery.php">Gallery</a></li>
-<li><a href="about-1.php">About Us</a></li>
-<li><a href="contact.php">Contact</a></li>
-<li><a href="purchase-guide.php">Purchase Guide</a></li>
-<li><a href="terms-of-service.php">Terms of Service</a></li>
-<li><a href="faq.php">Faq’s</a></li>
-<li><a href="privacy-policy.php">Privacy Policy</a></li>
+<li><a href="index.php">Home</a></li>
+<li><a href="about.php">About Us</a></li>
+<li><a href="service.php">Services</a></li>
+<li><a href="customer.php">Our Customers</a></li>
+<li><a href="contact.php">Contact Us</a></li>
+<li><a href="career.php">Career</a></li>
+
 </ul>
 </div>
 </div>
-<div class="col-lg-2 col-sm-3">
+
+<div class="col-lg-4 col-sm-6">
 <div class="single-footer-widget">
-<h3>About Us</h3>
-<ul class="footer-links-list">
-<li><a href="gallery.php">Gallery</a></li>
-<li><a href="about-1.php">About Us</a></li>
-<li><a href="contact.php">Contact</a></li>
-<li><a href="purchase-guide.php">Purchase Guide</a></li>
-<li><a href="terms-of-service.php">Terms of Service</a></li>
-<li><a href="faq.php">Faq’s</a></li>
-<li><a href="privacy-policy.php">Privacy Policy</a></li>
-</ul>
-</div>
-</div>
-<div class="col-lg-2 col-sm-6">
-<div class="single-footer-widget">
-<h3>Services</h3>
-<ul class="footer-links-list">
-<li><a href="pricing.php">Pricing</a></li>
-<li><a href="services-details.php">Digital Marketing</a></li>
-<li><a href="purchase-guide.php">Purchase Guide</a></li>
-<li><a href="contact.php">Support</a></li>
-<li><a href="testimonials.php">Testimonials</a></li>
-<li><a href="services-details.php">Cloud Computing</a></li>
-<li><a href="privacy-policy.php">Privacy Policy</a></li>
-</ul>
-</div>
-</div>
-<div class="col-lg-3 col-sm-6">
-<div class="single-footer-widget">
-<h3>Newsletter</h3>
+<h3>Get in Touch</h3>
 <div class="widget-newsletter">
-<div class="newsletter-content">
+<!-- <div class="newsletter-content">
 <p>Best solution for your it startup business consecteturadipiscing elit.</p>
-</div>
+</div> -->
 <form class="newsletter-form" data-bs-toggle="validator">
 <input type="email" class="input-newsletter" placeholder="Enter email" name="EMAIL" required autocomplete="off">
 <button type="submit"><i class="ri-send-plane-2-line"></i></button>
@@ -83,25 +57,25 @@
 </div>
 <ul class="widget-social">
 <li>
-<a href="#" target="_blank">
+<a href="https://www.facebook.com/DahabInformatics" target="_blank">
 <i class="ri-facebook-line"></i>
 </a>
 </li>
 <li>
-<a href="#" target="_blank">
+<a href="https://twitter.com/DahabInformatic" target="_blank">
 <i class="ri-twitter-fill"></i>
 </a>
 </li>
 <li>
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/dahabinformatics/" target="_blank">
 <i class="ri-linkedin-fill"></i>
 </a>
 </li>
-<li>
+<!-- <li>
 <a href="#" target="_blank">
 <i class="ri-messenger-line"></i>
 </a>
-</li>
+</li> -->
 </ul>
 </div>
 </div>
@@ -111,8 +85,8 @@
 <div class="container">
 <div class="copyright-area-content">
 <p>
-Copyright © 2021 Plod. All Rights Reserved by
-<a href="https://envytheme.com/" target="_blank">EnvyTheme</a>
+Copyright © 2021 Dahab Informatics. All Rights Reserved by
+<a href="https://www.dahab-informatics.com" target="_blank">Dahab Informatics</a>
 </p>
 </div>
 </div>
