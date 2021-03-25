@@ -99,9 +99,9 @@ Dahab Best Startup Company. -->
 <div class="row justify-content-center">
 <div class="col-lg-4 col-md-6">
 <div class="single-features">
-<a href="services-details.html"><img src="assets/images/features/features-1.png" alt="image"></a>
+<a href="services-details.php"><img src="assets/images/features/features-2.png" alt="image"></a>
 <h3>
-<a href="services-details.html">E- learning Platform</a>
+<a href="services-details.php">E- learning Platform</a>
 </h3>
 <p>Platforms are designed to be responsive and accessible for students and doctors on both desktop and mobile devices.</p>
 
@@ -109,9 +109,9 @@ Dahab Best Startup Company. -->
 </div>
 <div class="col-lg-4 col-md-6">
 <div class="single-features">
-<a href="services-details.html"><img src="assets/images/features/features-2.png" alt="image"></a>
+<a href="services-details.php"><img src="assets/images/features/features-1.png" alt="image"></a>
 <h3>
-<a href="services-details.html">Web Development</a>
+<a href="services-details.php">Web Development</a>
 </h3>
 <p>Designing and developing high quality scalable web applications by tallented designer.</p>
 
@@ -119,9 +119,9 @@ Dahab Best Startup Company. -->
 </div>
 <div class="col-lg-4 col-md-6">
 <div class="single-features">
-<a href="services-details.html"><img src="assets/images/features/features-3.png" alt="image"></a>
+<a href="services-details.php"><img src="assets/images/features/features-3.png" alt="image"></a>
 <h3>
-<a href="services-details.html">Mobile APP Development</a>
+<a href="services-details.php">Mobile APP Development</a>
 </h3>
 <p>Building and designing an optimized and native android applications.</p>
 

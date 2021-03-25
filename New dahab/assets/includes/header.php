@@ -29,7 +29,7 @@
 
 <link rel="stylesheet" href="assets/css/responsive.css">
 <title>Dahab Informatics Organization</title>
-<link rel="icon" type="image/png" href="assets/images/favicon.png">
+<link rel="icon" type="" href="assets/images/titlelogo.jpg">
 </head>
 <body>
 
@@ -42,53 +42,6 @@
 </div>
 </div>
 </div>
-
-<!-- <div class="header-information">Header Information</div> -->
-<!-- 
-<div class="top-header-area bg-color-wrap">
-    
-<div class="container">
-<div class="row align-items-center">
-    
-<div class="col-lg-7 col-md-6">
-    
-<ul class="top-header-content">
-<li>
-<i class="ri-customer-service-line"></i>
-<a href="tel:3128959800">(312) 895-9800</a>
-</li>
-<li>
-<i class="ri-earth-line"></i>
-<a href="/cdn-cgi/l/email-protection#3159545d5d5e1f5c5471415d5e551f525e5c"><span class="__cf_email__" data-cfemail="0169646d6d6e2f6c6441716d6e652f626e6c">[email&#160;protected]</span></a>
-</li>
-</ul>
-</div>
-<div class="col-lg-5 col-md-6">
-<ul class="top-header-optional">
-<li>
-<a href="#" target="_blank">
-<i class="ri-facebook-fill"></i>
-</a>
-<a href="#" target="_blank">
-<i class="ri-twitter-fill"></i>
-</a>
-<a href="#" target="_blank">
-<i class="ri-linkedin-fill"></i>
-</a>
-<a href="#" target="_blank">
-<i class="ri-messenger-fill"></i>
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div> -->
-
-
-
-
-
 
 
 <div class="navbar-area">
@@ -107,7 +60,7 @@
 <div class="container">
 <nav class="navbar navbar-expand-md navbar-light" >
 <a class="navbar-brand" href="index.php" >
-<img src="assets/images/faq/dahab2.png" alt="logo" style="width:300px;height:85px">
+<img src="assets/images/faq/dahab2.png" alt="logo" style="width:200px">
 </a>
 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
 <ul class="navbar-nav m-auto">
@@ -216,12 +169,12 @@
 <div class="modal-body">
 <div class="title">
 <a href="index.php">
-<img src="assets/images/logo.png" alt="logo">
+<img src="assets/images/faq/dahab2.png" alt="logo" style="width: 180px;">
 </a>
 </div>
 <div class="sidebar-content">
 <h3>About Us</h3>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<p>We enable progressive businesses to transform, scale and gain competitive advantage, through the expert delivery of innovative, tailor-made software. Our elegant, data-driven solutions help organizations and people around the world to perform more effectively and achieve better outcomes.</p>
 <!-- <div class="sidebar-btn">
 <a href="contact.php" class="default-btn">Let’s Talk <i class="ri-message-line"></i><span></span></a>
 </div> -->
@@ -229,16 +182,42 @@
 <div class="sidebar-contact-info">
 <h3>Contact Information</h3>
 <ul class="info-list">
-<li><i class="ri-phone-fill"></i> <a href="tel:+11234567890">+1 (123) 456 7890</a></li>
-<li><i class="ri-mail-line"></i> <a href="/cdn-cgi/l/email-protection#2c44494040436c5c404348024f4341"><span class="__cf_email__" data-cfemail="86eee3eaeae9c6f6eae9e2a8e5e9eb">[email&#160;protected]</span></a></li>
-<li><i class="ri-map-pin-line"></i> 121 King St, Melbourne VIC <br> 3000, Australia.</li>
+<li><i class="ri-phone-fill"></i><a href="tel:+20 121 180 9000">(+20) 121 180 9000</a>
+</li>
+<li><i class="ri-mail-line"></i> <a href=" info@dahab-informatics.com">info@dahab-informatics.com</span></a>
+</li>
+<li><i class="ri-map-pin-line"></i> 8 El Farana Street, Alexandria, Egypt.
+</li>
 </ul>
 </div>
-<ul class="sidebar-social-list">
+<!-- <ul class="sidebar-social-list">
 <li><a href="#" target="_blank"><i class="ri-facebook-fill"></i></a></li>
 <li><a href="#" target="_blank"><i class="ri-twitter-fill"></i></a></li>
 <li><a href="#" target="_blank"><i class="ri-linkedin-fill"></i></a></li>
 <li><a href="#" target="_blank"><i class="ri-instagram-fill"></i></a></li>
+</ul> -->
+<ul class="sidebar-social-list">
+<li>
+<a href="https://www.facebook.com/DahabInformatics" target="_blank">
+<i class="ri-facebook-line"></i>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/DahabInformatic" target="_blank">
+<i class="ri-twitter-fill"></i>
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/dahabinformatics/" target="_blank">
+<i class="ri-instagram-fill"></i>
+</a>
+</li>
+<li>
+<a href="https://www.linkedin.com/in/dahabinformatics/" target="_blank">
+<i class="ri-linkedin-fill"></i>
+</a>
+</li>
+
 </ul>
 </div>
 </div>

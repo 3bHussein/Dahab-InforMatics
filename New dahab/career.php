@@ -8,7 +8,7 @@ include 'assets/includes/header.php';
 <h2>Career</h2>
 <ul>
 <li>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 </li>
 <li>Career</li>
 </ul>
@@ -49,11 +49,11 @@ include 'assets/includes/header.php';
 <div class="help-block with-errors"></div>
 </div>
 </div>
-<div class="col-lg-6 col-md-6">
+<div class="col-lg-12">
 <div class="form-group">
 <form action="/career.php">
-<input name="message" class="form-control"  name="myfile" id="message"  type="file"
-cols="10" rows="3" required data-error="Write your message" placeholder="Message"></input>
+<input name="text" class="form-control"  name="myfile" id="message"  type="file"
+cols="10" rows="3" required data-error="Choose your file"></input>
 </form>
 <div class="help-block with-errors"></div>
 </div>

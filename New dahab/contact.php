@@ -8,7 +8,7 @@ include 'assets/includes/header.php';
 <h2>Contact</h2>
 <ul>
 <li>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 </li>
 <li>Contact</li>
 </ul>
@@ -70,8 +70,7 @@ include 'assets/includes/header.php';
 <div class="row">
 <div class="col-lg-4 col-md-12">
 <div class="contact-address">
-<h3>Contact Address:</h3>
-<p>The IT industry offers a sea of options, from platforms, programming languages, methodologies, technologies, tools, and more.</p>
+<h3>Contact Address</h3>
 <ul class="address-info">
 <li>
 <i class="ri-customer-service-line"></i>
@@ -79,7 +78,7 @@ include 'assets/includes/header.php';
 </li>
 <li>
 <i class="ri-global-line"></i>
-<a href=" info@dahab-informatics.com">info@dahab-informatics.com</span></a>
+<a href="#">info@dahab-informatics.com</span></a>
 </li>
 <li>
 <i class="ri-map-pin-line"></i>
@@ -113,8 +112,7 @@ include 'assets/includes/header.php';
 </div>
 <div class="col-lg-8 col-md-12">
 <div id="map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.8385385572983!2d144.95358331584498!3d-37.81725074201705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4dd5a05d97%3A0x3e64f855a564844d!2s121%20King%20St%2C%20Melbourne%20VIC%203000%2C%20Australia!5e0!3m2!1sen!2sbd!4v1612419490850!5m2!1sen!2sbd"></iframe>
-</div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d426.5930756104552!2d29.908615000000005!3d31.200094000000004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14f5c38e7df033a9%3A0x64c33d9c32bf0468!2s8%20Al%20Faraana%2C%20Bab%20Sharqi%20WA%20Wabour%20Al%20Meyah%2C%20Qism%20Bab%20Sharqi%2C%20Alexandria%20Governorate!5e0!3m2!1sen!2seg!4v1616587870430!5m2!1sen!2seg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></div>
 </div>
 </div>
 </div>

@@ -5,12 +5,12 @@ include 'assets/includes/header.php';
 <div class="page-banner-area">
 <div class="container">
 <div class="page-banner-content">
-<h2>Services One</h2>
+<h2>Services </h2>
 <ul>
 <li>
-<a href="index.html">Home</a>
+<a href="index.php">Home</a>
 </li>
-<li>Services One</li>
+<li>Services</li>
 </ul>
 </div>
 </div>
@@ -38,10 +38,10 @@ include 'assets/includes/header.php';
 <div class="col-lg-4 col-md-6">
 <div class="single-services-item">
 <div class="icon">
-<i class="ri-quill-pen-line"></i>
+<i class="ri-android-line"></i>
 </div>
 <h3>
-<a href="services-details.html">Android Application</a>
+Android Application
 </h3>
 <p>Dahab makes Android apps development services,
 We make customized applications for your brand and
@@ -52,10 +52,10 @@ Our experts help you in designing</p>
 <div class="col-lg-4 col-md-6">
 <div class="single-services-item">
 <div class="icon bg-36CC72">
-<i class="ri-pie-chart-line"></i>
+<i class="ri-computer-line"></i>
 </div>
 <h3>
-<a href="services-details.php">E-learning Application</a>
+E-learning Application
 </h3>
 <p>Modern and easy to use interface,
 It has Personalised Dashboard,
@@ -67,10 +67,10 @@ Manage user roles and permissions.</p>
 <div class="col-lg-4 col-md-6">
 <div class="single-services-item">
 <div class="icon bg-FF414B">
-<i class="ri-lightbulb-line"></i>
+<i class="ri-book-line"></i>
 </div>
 <h3>
-<a href="services-details.html">Education Management System</a>
+Education Management System
 </h3>
 <p>Human Resource Management,
 Finance Management,
@@ -82,10 +82,10 @@ User authentication for Students and Teachers.</p>
 <div class="col-lg-4 col-md-6">
 <div class="single-services-item">
 <div class="icon bg-FF6D3D">
-<i class="ri-customer-service-2-line"></i>
+<i class="ri-stethoscope-line"></i>
 </div>
 <h3>
-<a href="services-details.html">Medical Application</a>
+Medical Application
 </h3>
 <p>View the schedule of doctors,
 Patients can book, change, and cancel appointments,
@@ -96,11 +96,11 @@ View doctor profiles and records or credentials.</p>
 </div>
 <div class="col-lg-4 col-md-6">
 <div class="single-services-item">
-<div class="icon bg-8932F8">
-<i class="ri-cloud-line"></i>
+<div class="icon bg-36CC72">
+<i class="ri-shopping-cart-fill"></i>
 </div>
 <h3>
-<a href="services-details.html">Commercial Application</a>
+commercial Application
 </h3>
 <p>Create,edit the stock order in your system,
 Returns, refunds and store credit features,
@@ -112,10 +112,10 @@ Sales monitoring and reporting.</p>
 <div class="col-lg-4 col-md-6">
 <div class="single-services-item">
 <div class="icon bg-FFCA40">
-<i class="ri-layout-row-line"></i>
+<i class="ri-user-3-line"></i>
 </div>
 <h3>
-<a href="services-details.html">Custom Application</a>
+Custom Application
 </h3>
 <p>Software will be designed for your specific needs,
 Focus on developing secure, reliable, applications,
@@ -153,10 +153,10 @@ Start work with 24 hour support.</p>
 <div class="col-lg-4 col-md-6">
 <div class="single-services-item">
 <div class="icon">
-<i class="ri-quill-pen-line"></i>
+<i class="ri-tv-2-line"></i>
 </div>
 <h3>
-<a href="services-details.html">Smart Board</a>
+Smart Board
 </h3>
 <p>Remote control to interactive display,
 Writing and drawing support,
@@ -171,10 +171,10 @@ Touch support that you can access every thing like open,control and close apps.<
 <div class="col-lg-4 col-md-6">
 <div class="single-services-item">
 <div class="icon bg-FF6D3D">
-<i class="ri-customer-service-2-line"></i>
+<i class="ri-projector-2-line"></i>
 </div>
 <h3>
-<a href="services-details.html">Projector Embedded System</a>
+Projector Embedded System
 </h3>
 <p>The ability to produce crisp, clear images,
 High resolution,
@@ -186,17 +186,16 @@ Higher color light output.</p>
 <div class="col-lg-4 col-md-6">
 <div class="single-services-item">
 <div class="icon bg-8932F8">
-<i class="ri-cloud-line"></i>
+<i class="ri-camera-line"></i>
 </div>
 <h3>
-<a href="services-details.html">Camera Embedded System</a>
+Camera Embedded System
 </h3>
 <p>Remote monitoring,
 Visions which make pictures visible during night and
 Detection creates an alert if movement happens.</p>
 </div>
 </div>
-
 </div>
 </div>
 <div class="services-shape-1" data-speed="0.06" data-revert="true">
@@ -528,7 +527,7 @@ Detection creates an alert if movement happens.</p>
 <div class="overview-content">
 <h3>Let's Make Something Amazing Together</h3>
 <div class="overview-btn">
-<a href="contact.html" class="overview-btn-one">Get Started</a>
+<a href="contact.php" class="overview-btn-one">Get Started</a>
 <img src="assets/images/overview/bar.png" alt="image">
 </div>
 </div>

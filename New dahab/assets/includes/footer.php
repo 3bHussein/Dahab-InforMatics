@@ -2,11 +2,11 @@
 <footer class="footer-area pt-100">
 <div class="container">
 <div class="row justify-content-center">
-<div class="col-lg-4 col-sm-6">
+<div class="col-lg-4 col-sm-6" style="padding-right:50px">
 <div class="single-footer-widget">
-<div class="widget-logo">
+<div class="widget-logo" style="margin-top: -10px; ">
 <a href="index.php">
-<img src="assets/images/faq/dahab2.png"style="width:200px;height:85px" alt="image">
+<img src="assets/images/faq/dahab2.png"style="width:160px;" alt="image">
 </a>
 </div>
 <p>We are a dynamic team of skilled developers, designers, and support experts dedicated to providing the web solution you need to achieve success..</p>
@@ -34,9 +34,9 @@
 <li><a href="index.php">Home</a></li>
 <li><a href="about.php">About Us</a></li>
 <li><a href="service.php">Services</a></li>
-<li><a href="customer.php">Our Customers</a></li>
-<li><a href="contact.php">Contact Us</a></li>
+<li><a href="customer.php">Customers</a></li>
 <li><a href="career.php">Career</a></li>
+<li><a href="contact.php">Contact Us</a></li>
 
 </ul>
 </div>
@@ -67,15 +67,16 @@
 </a>
 </li>
 <li>
+<a href="https://www.instagram.com/dahabinformatics/" target="_blank">
+<i class="ri-instagram-fill"></i>
+</a>
+</li>
+<li>
 <a href="https://www.linkedin.com/in/dahabinformatics/" target="_blank">
 <i class="ri-linkedin-fill"></i>
 </a>
 </li>
-<!-- <li>
-<a href="#" target="_blank">
-<i class="ri-messenger-line"></i>
-</a>
-</li> -->
+
 </ul>
 </div>
 </div>
