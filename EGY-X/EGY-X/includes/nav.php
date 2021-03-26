@@ -13,6 +13,9 @@
     <link rel="stylesheet" href="css/fonts.css">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="css/style.css" id="main-styles-link">
+       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.min.js"></script>
+
     <!--[if lt IE 10]>
     <div style="background: #212121; padding: 10px 0; box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3); clear: both; text-align:center; position: relative; z-index:1;"><a href="https://windows.microsoft.com/en-US/internet-explorer/"><img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
     <script src="js/html5shiv.min.js"></script>
@@ -64,7 +67,8 @@
                     </div> -->
                     <!-- RD Navbar Nav-->
                     <ul class="rd-navbar-nav">
-                    <li class="rd-nav-item "><a class="rd-nav-link" href="/home" style="font-size: 20px;">Home</a>
+                       <li class="rd-nav-item "><a class="rd-nav-link" href="/About" style="font-size: 20px;">About us</a>
+                    
                       </li>
                       <!-- <li class="rd-nav-item"><a class="rd-nav-link" href="courses.php">Courses</a>
                       </li> -->
@@ -178,26 +182,84 @@
 
 
                         </ul> -->
-                        <ul class="rd-menu rd-navbar-megamenu">
-                          <li class="rd-megamenu-item">
-                            <div>
+<!--                        <ul class="rd-menu rd-navbar-megamenu">-->
+<!--                          <li class="rd-megamenu-item">-->
+<!--                            <div>-->
                               <!-- <h5 class="rd-megamenu-title">Elements</h5> -->
-                              <ul class="rd-megamenu-list">
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#"style="font-size: 18.5px;">Online Exams</a></li>
-                              </ul>
-                            </div>
-                          </li>
+<!--                              <ul class="rd-megamenu-list">-->
+<!--                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#"style="font-size: 18.5px;">Online Exams</a></li>-->
+<!--                              </ul>-->
+<!--                            </div>-->
+<!--                          </li>-->
 <!--                      -->
-                          <li class="rd-megamenu-item">
-                            <div>
+<!--                          <li class="rd-megamenu-item">-->
+<!--                            <div>-->
                               <!-- <h5 class="rd-megamenu-title">Additional pages</h5> -->
-                              <ul class="rd-megamenu-list">
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#"style="font-size: 18.5px;">  Educational Platforms  </a></li>
-                         </ul>
-                            </div>
-                          </li>
-                        </ul>
+<!--                              <ul class="rd-megamenu-list">-->
+<!--                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#"style="font-size: 18.5px;">Shared  Educational Platforms  </a></li>-->
+<!--                         </ul>-->
+<!--                            </div>-->
+<!--                          </li>-->
+<!--                        </ul>-->
                       </li>
+
+
+
+                      <!-- Login Section -->
+                     <!-- @guest
+                        @if (Route::has('login'))
+                        <li class="rd-nav-item"><a class="rd-nav-link" href="{{ route('login') }}">{{ __('Login') }}</a></li>
+
+                        @endif
+
+                        @if (Route::has('register'))
+
+                        <li class="rd-nav-item"><a class="rd-nav-link" href="{{ route('register') }}">{{ __('Register') }}</a>
+
+                            @endif
+                            @else
+                        <li class="rd-nav-item"><a class="rd-nav-link" href="#">{{ Auth::user()->name }}</a>
+
+                            <ul class="rd-menu rd-navbar-megamenu">
+                                <li class="rd-megamenu-item">
+                                    <div>
+                                         <ul class="rd-megamenu-list">
+                                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="{{ route('logout') }}"
+                                                                                 onclick="event.preventDefault();
+                                                     document.getElementById('logout-form').submit();">
+                                                    {{ __('Logout') }}</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+
+
+                                <li class="rd-megamenu-item">
+                                    <div>
+                                         <ul class="rd-megamenu-list">
+                                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/editprofile">
+                                                    {{ __('Edit profile') }}</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="rd-megamenu-item">
+                                                    <div>
+                                                         <ul class="rd-megamenu-list">
+                                                            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="/mycourses">
+                                                                    {{ __('My Courses') }}</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </li>
+
+                            </ul>
+                        </li>
+
+                        <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
+                            @csrf
+                        </form>
+                        @endguest -->
+
+                                              <!-- Login Section -->
+
                     </ul>
                   </div>
 <!--<a href="/contactus">  <i class='fas fa-comments' style='font-size:48px;color:#4261e4'></i></a>-->
