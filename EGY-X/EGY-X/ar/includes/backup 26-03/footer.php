@@ -17,19 +17,13 @@
             </div>
           </div>
         </div>
-        <div class="footer-variant-2-bottom-panel ">
-          <div class="container row">
+        <div class="footer-variant-2-bottom-panel">
+          <div class="container">
             <!-- Rights-->
-          
-            <div class="group-sm group-sm-justify col-10">
-              <p class="rights" style="font-size: 15px;padding-left:10% ;"><span>&copy;&nbsp;</span><span class="copyright-year"></span> <a href="https://www.dahab-informatics.com/">Dahab Informatics</a>. All rights reserved
+            <div class="group-sm group-sm-justify">
+              <p class="rights" style="font-size: 15px;"><span>&copy;&nbsp;</span><span class="copyright-year"></span> <a href="https://www.dahab-informatics.com/">Dahab Informatics</a>. All rights reserved
               </p>
             </div>
-         
-            <div class="col-2">
-            <a href="ar/" class="text-">العربية</a>
-            </div>
-
           </div>
         </div>
       </footer>

@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html class="wide wow-animation" lang="en">
+<!DOCTYPE html dir="rtl">
+<html class="wide wow-animation" dir="rtl" lang="en">
 <head>
     <title>EGY-X Org</title>
     <meta name="format-detection" content="telephone=no">
@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="css/style.css" id="main-styles-link">
     <style>
         .reserv{
-            border-radius:20px;
+            bo-er-radius:20px;
             background-color: #4261e4;
 
 
@@ -85,10 +85,12 @@
                                 <ul class="rd-navbar-nav">
                                     <!--<li class="rd-nav-item "><a class="rd-nav-link" href="/">Home</a>-->
                                     <!--</li>-->
-                                      <li class="rd-nav-item"><a class="rd-nav-link" href="/About" style="">About us</a>
+                                    <li class="rd-nav-item "><a class="rd-nav-link" href="/About" style=" ">من نحن</a></li>
                                     <!-- <li class="rd-nav-item"><a class="rd-nav-link" href="courses.php">Courses</a>
                                     </li> -->
-                                    <li class="rd-nav-item"><a class="rd-nav-link" href="#">Courses</a>
+                                    <!-- <li class="rd-nav-item"><a class="rd-nav-link" href="#">Courses</a> -->
+                                    <li class="rd-nav-item"><a class="rd-nav-link" href="#" style=" ">الكورسات</a>
+
                                         <!-- RD Navbar Megamenu-->
                                         <ul class="rd-menu rd-navbar-megamenu">
                                             <li class="rd-megamenu-item">
@@ -125,7 +127,7 @@
                                     </li>
                                     <!-- <li class="rd-nav-item"><a class="rd-nav-link" href="library.php">Library</a>
                                     </li> -->
-                                    <li class="rd-nav-item"><a class="rd-nav-link" href="#">Library</a>
+                                    <li class="rd-nav-item"><a class="rd-nav-link" href="#">المكتبة</a>
                                         <!-- RD Navbar Megamenu-->
                                         <!-- <ul class="rd-menu rd-navbar-megamenu">
                                           <li class="rd-megamenu-item">
@@ -171,62 +173,18 @@
                                             </li>
                                         </ul>
                                     </li>
-                                    <li class="rd-nav-item"><a class="rd-nav-link" href="/partners">Partners</a>
+                                    <li class="rd-nav-item"><a class="rd-nav-link" href="/partners">شركائنا</a>
                                     </li>
                                     <!-- <li class="rd-nav-item " style="background-color: #4261e4;"><a class="rd-nav-link" href="reserved.php" style="color: white;"> Reserved Area</a>
                                     </li> -->
 
-                                    <li class="rd-nav-item"><a class="rd-nav-link" href="/contactus">Contact Us</a>
+                                    <li class="rd-nav-item"><a class="rd-nav-link" href="/contactus">تواصل معنا</a>
                                     </li>
-                                    <li class="rd-nav-item reserv" ><a class="rd-nav-link lin" href="/platforms" style="color: #ffffff; font-family:Cursive;" >Reserved Area</a>
+                                    <li class="rd-nav-item reserv"style="border-radius:20px;" ><a class="rd-nav-link lin" href="/platforms" style="color: #ffffff; font-family:Cursive;" >احجز مكان</a>
                                         <!-- RD Navbar Megamenu-->
 
 
-                                        <!-- <ul class="rd-menu rd-navbar-megamenu">
-                                          <li class="rd-megamenu-item">
-                                            <div style="max-width: 500px;text-align:center">
-                                            <h4 class="rd-megamenu-title"></h4>
-                                              <ul class="rd-megamenu-list"style="columns:1;padding-right:30%; direction:rtl;">
-                                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#"style="font-size: 20px;">إمتحانات أون لاين</a></li>
-                                                <br>
-                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#"style="font-size: 20px;"> أبحاث أون لاين</a></li>
-                                                <br>
-                                                 <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#"style="font-size: 20px;">منصة تعليمية </a></li>
-                                                <br>
-
-                                                </ul>
-                                            </div>
-                                          </li>
-
-
-                                        </ul> -->
-                                        <!--<ul class="rd-menu rd-navbar-megamenu">-->
-                                        <!--    <li class="rd-megamenu-item">-->
-                                        <!--        <div>-->
-                                                    <!-- <h5 class="rd-megamenu-title">Elements</h5> -->
-                                        <!--            <ul class="rd-megamenu-list">-->
-                                        <!--                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#"style="font-size: 18.5px;">Online books</a></li>-->
-                                        <!--            </ul>-->
-                                        <!--        </div>-->
-                                            </li>
-<!-- {{--                                            <li class="rd-megamenu-item">--}}
-{{--                                                <div>--}}
- {{--                                                    <ul class="rd-megamenu-list">--}}
-{{--                                                        <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link rgihtrtl  " href="#"style="font-size: 18.5px;"></a></li>--}}
-{{--                                                    </ul>--}}
-{{--                                                </div>--}}
-{{--                                            </li>--}} -->
-                                            <!--<li class="rd-megamenu-item">-->
-                                            <!--    <div>-->
-                                                    <!-- <h5 class="rd-megamenu-title">Additional pages</h5> -->
-                                            <!--        <ul class="rd-megamenu-list">-->
-                                            <!--            <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="#"style="font-size: 18.5px;">Shared Educational Platform </a></li>-->
-                                            <!--        </ul>-->
-                                            <!--    </div>-->
-                                            <!--</li>-->
-                                           
-                                        <!--</ul>-->
-                                    </li>
+                      
 
 
                                                           <!-- Login Section -->
@@ -290,15 +248,7 @@
                                 </ul>
                                 
                             </div>
-                            <!--<a href="/contactus">  <i class='fas fa-comments' style='font-size:48px;color:#4261e4;'></i></a>-->
-
-                            <!-- {{--                            <div class="rd-navbar-project-hamburger" data-multitoggle=".rd-navbar-main" data-multitoggle-blur=".rd-navbar-wrap" data-multitoggle-isolate>--}}
-{{--                                <div class="project-hamburger"><span class="project-hamburger-arrow-top"></span><span class="project-hamburger-arrow-center"></span><span class="project-hamburger-arrow-bottom"></span></div>--}}
-{{--                                <div class="project-hamburger-2"><span class="project-hamburger-arrow"></span><span class="project-hamburger-arrow"></span><span class="project-hamburger-arrow"></span>--}}
-{{--                                </div>--}}
-{{--                                <div class="project-close"><span></span><span></span></div>--}}
-{{--                            </div>--}} -->
-                        </div>
+                         </div>
                         <div class="rd-navbar-project rd-navbar-modern-project">
                             <div class="rd-navbar-project-modern-header">
                                 <h4 class="rd-navbar-project-modern-title">Get in Touch</h4>
@@ -439,7 +389,7 @@
                                 <div class="box-icon-ruby-icon linearicons-bookmark2"></div>
                             </div>
                             <div class="unit-body">
-                                <h5 class="box-icon-ruby-title">Online Educational platforms</h5>
+                                <h5 class="box-icon-ruby-title">منصات تعليمية على الإنترنت</h5>
                                 <p class="box-icon-ruby-text"></p>
                             </div>
                         </div>
@@ -452,7 +402,7 @@
                                 <div class="box-icon-ruby-icon linearicons-medal-first"></div>
                             </div>
                             <div class="unit-body">
-                                <h5 class="box-icon-ruby-title">Online Courses</h5>
+                                <h5 class="box-icon-ruby-title">دروس مباشرة على الإنترنت</h5>
                                 <p class="box-icon-ruby-text"></p>
                             </div>
                         </div>
@@ -465,7 +415,7 @@
                                 <div class="box-icon-ruby-icon linearicons-bookmark"></div>
                             </div>
                             <div class="unit-body">
-                                <h5 class="box-icon-ruby-title">Online books</h5>
+                                <h5 class="box-icon-ruby-title">كتب على الإنترنت</h5>
                                 <p class="box-icon-ruby-text"></p>
                             </div>
                         </div>
@@ -480,7 +430,7 @@
         <div class="container">
             <div class="oh">
                 <div class="title-decoration-lines wow slideInUp" data-wow-delay="0s">
-                    <h6 class="title-decoration-lines-content">Popular Courses</h6>
+                    <h6 class="title-decoration-lines-content">احدث الدروس</h6>
                 </div>
             </div>
         </div>
@@ -555,14 +505,14 @@
     <!--</section>-->
     <center>
     <div class="col-8" >
-      <section class="section section-sm section-fluid bg-default">
+      <section class="section section-sm section-fluid bg-default"dir="ltr">
         <div class="oh">
                 <div class="title-decoration-lines wow slideInUp" data-wow-delay="0s">
-                    <h6 class="title-decoration-lines-content">Reserved Area</h6>
+                    <h6 class="title-decoration-lines-content">منصات محجوزة</h6>
                 </div>
             </div>
         <!-- Owl Carousel-->
-        <div class="owl-carousel owl-classic owl-timeline" data-items="1" data-md-items="3" data-lg-items="3" data-xl-items="3" data-margin="30" data-autoplay="true" data-nav="true" data-dots="true">
+        <div class="owl-carousel owl-classic owl-timeline" data-items="1" data-md-items="2" data-lg-items="3" data-xl-items="3" data-margin="30" data-autoplay="true" data-nav="true" data-dots="true">
           <div class="owl-item">
             <!-- Thumbnail Classic-->
            <article class="box-sportlight box-sportlight-sm wow slideInLeft" data-wow-delay="0s"><a class="box-sportlight-figure" href="https://quizcis.aboukir-institutes.com/login/index.php"><img src="images/hicis.jpg" alt="" width="370" height="332"/></a>

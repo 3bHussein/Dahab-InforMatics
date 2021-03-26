@@ -1,4 +1,4 @@
-<footer class="section footer-variant-2 footer-modern context-dark">
+<footer class="section footer-variant-2 footer-modern context-dark" dir="">
         <div class="footer-variant-2-content">
           <div class="container">
             <div class="row row-40 justify-content-between">
@@ -8,7 +8,10 @@
                     <pre>
 
                     </pre>
-                    <p style="font-size: 20px;color: white;">Providing professional online business education for students from all over the world.</p>
+                    <p style="font-size: 20px;color: white;">
+                    توفير تعليم تجاري احترافي عبر الإنترنت للطلاب من جميع أنحاء العالم.
+                    <!-- Providing professional online business education for students from all over the world. -->
+                  </p>
 
                   </div>
                 </div>
@@ -17,19 +20,19 @@
             </div>
           </div>
         </div>
-        <div class="footer-variant-2-bottom-panel ">
-          <div class="container row">
+        <div class="footer-variant-2-bottom-panel">
+          <div class="container">
             <!-- Rights-->
-          
-            <div class="group-sm group-sm-justify col-10">
-              <p class="rights" style="font-size: 15px;padding-left:10% ;"><span>&copy;&nbsp;</span><span class="copyright-year"></span> <a href="https://www.dahab-informatics.com/">Dahab Informatics</a>. All rights reserved
+            <div class="group-sm group-sm-justify">
+              <p class="rights" style="font-size: 15px;">              
+              جميع الحقوق محفوظة 
+              <span>&copy;&nbsp;</span><span class="copyright-year"></span> 
+              <a href="https://www.dahab-informatics.com/">دهب المعلوماتية.</a>
+               <!-- © 2021  -->
+              <!-- . جميع الحقوق محفوظة -->
+
               </p>
             </div>
-         
-            <div class="col-2">
-            <a href="ar/" class="text-">العربية</a>
-            </div>
-
           </div>
         </div>
       </footer>
