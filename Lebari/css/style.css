@@ -10923,3 +10923,9 @@ img{
 	font-weight:500;
 	text-transform:uppercase;
 }
+.centeralized{
+	text-align: center;
+}
+.text .righting{
+	text-align: right;
+}

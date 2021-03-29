@@ -86,31 +86,99 @@
 							
 								<li class="dropdown has-mega-menu"><a href="#"><span>المكتبة <i class="fa fa-arrow-down"></i></span></a>
 									<ul>
-										<li><a href="course.php">Courses</a></li>
-										<li><a href="course-2.php">Courses 02</a></li>
-										<li><a href="course-3.php">Courses 03</a></li>
-										<li><a href="course-4.php">Courses 04</a></li>
-										<li><a href="course-detail.php">Courses Detail</a></li>
+									
+										<li class="dropdown has-mega-menu"><a href="#">المرحله الابتدائيه</a>
+										  <ul>
+										        <li><a href="#">الصف الثالث الابتدائى</a></li>
+												<li><a href="#">الصف الرابع الابتدائى</a></li>
+												<li><a href="#">الصف الخامس الابتدائى</a></li>
+												<li><a href="#">الصف السادس الابتدائى</a></li>
+									      </ul>
+								       </li>
+										<li class="dropdown has-mega-menu"><a href="#"> المرحله الاعداديه</a>
+										  <ul>
+										        <li><a href="#">الصف الاول الاعدادى</a></li>
+												<li><a href="#">الصف الثانى الاعدادى</a></li>
+												<li><a href="#">الصف الثالث الاعدادى</a></li>
+									      </ul>
+										</li>
+										<li class="dropdown"><a href="#"> المرحله الثانويه</a>
+										  <ul>
+										    	<li><a href="#">الصف الاول الثانوى</a></li>
+												<li><a href="#">الصف الثانى الثانوى</a></li>
+												<li><a href="#">الصف الثالث الثانوى</a></li>
+
+										 </ul>	
+										</li>
 									</ul>
 								</li>
 							
 								<li class="dropdown has-mega-menu"><a href="#"><span>التطبيقات والإختبارات <i class="fa fa-arrow-down"></i></span></a>
-									<ul>
-										<li><a href="course.php">Courses</a></li>
-										<li><a href="course-2.php">Courses 02</a></li>
-										<li><a href="course-3.php">Courses 03</a></li>
-										<li><a href="course-4.php">Courses 04</a></li>
-										<li><a href="course-detail.php">Courses Detail</a></li>
-									</ul>
+								<ul>
+									<li class="dropdown has-mega-menu"><a href="#">المرحله الابتدائيه</a>
+									  <ul>
+									<!-- shayfa de -->
+										<li class="dropdown has2-mega-menu"><a href="#">الصف  1</a>
+										<ul>
+											<li><a href="#"> الاول </a></li>
+											<li><a href="#"> الثانى </a></li>
+											<li><a href="#"> الثالث </a></li>
+									  </ul>
+										</li>
+                              <!-- de kman -->
+										<li class="dropdown has2-mega-menu "><a href="#">الصف  2</a>
+										<ul>
+											<li><a href="#"> الرابع</a></li>
+											<li><a href="#"> الخميس</a></li>
+											<li><a href="#"> السادس</a></li>
+									  </ul>
+										</li>
+									  </ul>
+								   </li>
+									<li class="dropdown has-mega-menu"><a href="#"> المرحله الاعداديه</a>
+									  <ul>
+											<li><a href="#">الصف الاول الاعدادى</a></li>
+											<li><a href="#">الصف الثانى الاعدادى</a></li>
+											<li><a href="#">الصف الثالث الاعدادى</a></li>
+									  </ul>
+									</li>
+									<li class="dropdown"><a href="#"> المرحله الثانويه</a>
+									  <ul>
+											<li><a href="#">الصف الاول الثانوى</a></li>
+											<li><a href="#">الصف الثانى الثانوى</a></li>
+											<li><a href="#">الصف الثالث الثانوى</a></li>
+
+									  </ul>	
+									</li>
+								</ul>
 								</li>
 								
 								<li class="dropdown has-mega-menu"><a href="#"><span>الدروس التعليمية <i class="fa fa-arrow-down"></i></span></a>
-									<ul>
-										<li><a href="course.php">Courses</a></li>
-										<li><a href="course-2.php">Courses 02</a></li>
-										<li><a href="course-3.php">Courses 03</a></li>
-										<li><a href="course-4.php">Courses 04</a></li>
-										<li><a href="course-detail.php">Courses Detail</a></li>
+								<ul>
+									
+										<li class="dropdown has-mega-menu"><a href="#">المرحله الابتدائيه</a>
+										  <ul>
+										        <li class="dropdown has-mega-menu"><a href="#">الصف الثالث الابتدائى</a></li>
+												<li class="dropdown has-mega-menu"><a href="#">الصف الرابع الابتدائى</a></li>
+												<li class="dropdown has-mega-menu"><a href="#">الصف الخامس الابتدائى</a></li>
+												<li class="dropdown has-mega-menu"><a href="#">الصف السادس الابتدائى</a></li>
+									      </ul>
+								       </li>
+										<li class="dropdown has-mega-menu"><a href="#"> المرحله الاعداديه</a>
+										  <ul>
+										        <li><a href="#">الصف الاول الاعدادى</a></li>
+												<li><a href="#">الصف الثانى الاعدادى</a></li>
+												<li><a href="#">الصف الثالث الاعدادى</a></li>
+									      </ul>
+										</li>
+										<li class="dropdown"><a href="#"> المرحله الثانويه</a>
+										  <ul>
+										    	<li><a href="#">الصف الاول الثانوى</a></li>
+												<li><a href="#">الصف الثانى الثانوى</a></li>
+												<li><a href="#">الصف الثالث الثانوى</a></li>
+
+										  </ul>	
+										</li>
 									</ul>
 								</li>
 								<li class="dropdown"><a href="#">من نحن؟</a>
