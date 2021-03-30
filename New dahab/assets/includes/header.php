@@ -108,7 +108,7 @@
 </div>
 </div>
 <div class="option-item">
-<a href="contact.php" class="default-btn">Let’s Talk <i class="ri-message-line"></i><span></span></a>
+<a href="https://www.facebook.com/DahabInformatics" class="default-btn" style="background-color: #0064fb;"> <i class="ri-messenger-line"></i><span></span>Let's Talk </a>
 </div>
 <div class="option-item">
 <div class="side-menu-btn">
@@ -146,14 +146,14 @@
 </div>
 </div>
 </div>
-<div class="option-item">
-<a href="contact.php" class="default-btn">Let’s Talk <i class="ri-message-line"></i><span></span></a>
+<!-- <div class="option-item">
+<a href="contact.php" class="default-btn">Messenger <i class="ri-messenger-line"></i><span></span></a>
 </div>
 <div class="option-item">
 <div class="side-menu-btn">
 <i class="ri-menu-4-line" data-bs-toggle="modal" data-bs-target="#sidebarModal"></i>
 </div>
-</div>
+</div> -->
 </div>
 </div>
 </div>

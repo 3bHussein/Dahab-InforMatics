@@ -30,53 +30,7 @@ include 'assets/includes/header.php';
 
 
 <div class="features-area pt-100 pb-70">
-<!-- 
-<div class="container">
-<div class="row justify-content-center">
-<div class="col-lg-4 col-md-6">
-<div class="single-features">
-<a href="services-details.php"><img src="assets/images/features/features-1.png" alt="image"></a>
-<h3>
-<a href="services-details.php">Strategic Planning</a>
-</h3>
-<p>Best Strategic planning dolor sit amet, consectetur adipiscing elit. Scelerisque amet odio velit, eu, auctor. Aliquet nam elit nulla eget sodales dui pulvinar.</p>
-<div class="features-btn">
-<a href="services-details.php" class="default-btn">Read More <i class="ri-arrow-right-line"></i><span></span></a>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6">
-<div class="single-features">
-<a href="services-details.php"><img src="assets/images/features/features-2.png" alt="image"></a>
-<h3>
-<a href="services-details.php">Research & Development</a>
-</h3>
-<p>Plod is totally desigital techonology based creative agency ipsum dolor sit amet, consectetur adipiscing elit. Scelerisque amet odio velit, eu, auctor.</p>
-<div class="features-btn">
-<a href="services-details.php" class="default-btn">Read More <i class="ri-arrow-right-line"></i><span></span></a>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6">
-<div class="single-features">
-<a href="services-details.php"><img src="assets/images/features/features-3.png" alt="image"></a>
-<h3>
-<a href="services-details.php">Design & Implimentation</a>
-</h3>
-<p>Best Strategic planning dolor sit amet, consectetur adipiscing elit. Scelerisque amet odio velit, eu, auctor. Aliquet nam elit nulla eget sodales dui pulvinar.</p>
-<div class="features-btn">
- <a href="services-details.php" class="default-btn">Read More <i class="ri-arrow-right-line"></i><span></span></a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="features-shape-1" data-speed="0.08" data-revert="true">
-<img src="assets/images/features/shape-1.png" alt="image">
-</div>
-<div class="features-shape-2" data-speed="0.08" data-revert="true">
-<img src="assets/images/features/shape-2.png" alt="image">
-</div> -->
+
 </div>
 
 <div class="support-area">
@@ -213,7 +167,7 @@ include 'assets/includes/header.php';
 </div>
 <div class="col-lg-4 col-md-12">
 <div class="faq-image">
-<img src="assets/images/faq/drali.jpg" alt="image">
+<img src="assets/images/faq/drali2.jpg" style="border-radius: 50%; width:300px" alt="image">
 </div>
 </div>
 
