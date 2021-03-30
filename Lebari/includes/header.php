@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html >
+<html>
 <head>
 <meta charset="utf-8">
-<title>LeBari Education HTML-5 Template | Homepage 01</title>
+<title>Our School</title>
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
@@ -19,6 +19,11 @@
 
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
 <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+<style>
+
+</style>
+
+
 </head>
 
 <body class="hidden-bar-wrapper" >
@@ -36,7 +41,7 @@
         	<div class="outer-container clearfix">
             	
 				<div class="pull-left logo-box">
-					<!-- <div class="logo"><a href="index.php"><img src="images/logo.png" alt="" title=""></a></div> -->
+					<div class="logo"><a href="index.php"><img src="images/logo.png" alt="" title=""></a></div>
 				</div>
 				
 				<div class="nav-outer clearfix">
@@ -55,39 +60,12 @@
 						
 						<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
 							<ul class="navigation clearfix">
-								<!-- <li class="dropdown has-mega-menu"><a href="#"><span>Courses <i class="fa fa-arrow-down"></i></span></a>
-									<div class="mega-menu">
-										<div class="upper-box">
-											<div class="page-links-box">
-												<a href="course.php" class="link"><span class="icon flaticon-bullhorn"></span>Marketing</a>
-												<a href="course-2.php" class="link"><span class="icon flaticon-cyclist"></span>Lifestyle</a>
-												<a href="course-3.php" class="link"><span class="icon flaticon-bar-chart"></span>Business</a>
-												<a href="course-4.php" class="link"><span class="icon flaticon-software"></span>Software</a>
-												<a href="course-3.php" class="link"><span class="icon flaticon-atom"></span>Science</a>
-												<a href="course.php" class="link"><span class="icon flaticon-webpage"></span>IT Management</a>
-												<a href="course-2.php" class="link"><span class="icon flaticon-language"></span>Language</a>
-												<a href="course-3.php" class="link"><span class="icon flaticon-team"></span>Human Resources</a>
-												<a href="course-4.php" class="link"><span class="icon flaticon-healthcare"></span>Health Care</a>
-											</div>
-										</div>
-										<div class="lower-box">
-											<h3>Become an Instructor</h3>
-											<div class="text">Top instructors from around the Neque convallis a cras semper auctor. <br> Libero id faucibus nisl tincidunt egetnvallis </div>
-											<div class="btn-box">
-												<a href="#" class="theme-btn btn-style-five">Start teaching today</a>
-											</div>
-											<div class="side-icon">
-												<img src="images/resource/mega-menu-icon.png" alt="" />
-											</div>
-										</div>
-									</div>
-								</li> -->
-								<li><a href="contact.php">إتصل بنا</a></li>
 							
-								<li class="dropdown has-mega-menu"><a href="#"><span>المكتبة <i class="fa fa-arrow-down"></i></span></a>
+								<li class="dropdown has-mega-menu"><a href="contact.php"><span>اتصل بنا<i class="fa fa-arrow-down"></i></span></a></li>
+							
+								<li class="dropdown has-mega-menu"><a href="#" ><span> المكتبة <i class="fa fa-arrow-down"></i></span></a>
 									<ul>
-									
-										<li class="dropdown has-mega-menu"><a href="#">المرحله الابتدائيه</a>
+									<li class="dropdown has-mega-menu"><a href="#">المرحله الابتدائيه</a>
 										  <ul>
 										        <li><a href="#">الصف الثالث الابتدائى</a></li>
 												<li><a href="#">الصف الرابع الابتدائى</a></li>
@@ -114,54 +92,13 @@
 								</li>
 							
 								<li class="dropdown has-mega-menu"><a href="#"><span>التطبيقات والإختبارات <i class="fa fa-arrow-down"></i></span></a>
-								<ul>
+									<ul>
 									<li class="dropdown has-mega-menu"><a href="#">المرحله الابتدائيه</a>
-									  <ul>
-									<!-- shayfa de -->
-										<li class="dropdown has2-mega-menu"><a href="#">الصف  1</a>
-										<ul>
-											<li><a href="#"> الاول </a></li>
-											<li><a href="#"> الثانى </a></li>
-											<li><a href="#"> الثالث </a></li>
-									  </ul>
-										</li>
-                              <!-- de kman -->
-										<li class="dropdown has2-mega-menu "><a href="#">الصف  2</a>
-										<ul>
-											<li><a href="#"> الرابع</a></li>
-											<li><a href="#"> الخميس</a></li>
-											<li><a href="#"> السادس</a></li>
-									  </ul>
-										</li>
-									  </ul>
-								   </li>
-									<li class="dropdown has-mega-menu"><a href="#"> المرحله الاعداديه</a>
-									  <ul>
-											<li><a href="#">الصف الاول الاعدادى</a></li>
-											<li><a href="#">الصف الثانى الاعدادى</a></li>
-											<li><a href="#">الصف الثالث الاعدادى</a></li>
-									  </ul>
-									</li>
-									<li class="dropdown"><a href="#"> المرحله الثانويه</a>
-									  <ul>
-											<li><a href="#">الصف الاول الثانوى</a></li>
-											<li><a href="#">الصف الثانى الثانوى</a></li>
-											<li><a href="#">الصف الثالث الثانوى</a></li>
-
-									  </ul>	
-									</li>
-								</ul>
-								</li>
-								
-								<li class="dropdown has-mega-menu"><a href="#"><span>الدروس التعليمية <i class="fa fa-arrow-down"></i></span></a>
-								<ul>
-									
-										<li class="dropdown has-mega-menu"><a href="#">المرحله الابتدائيه</a>
 										  <ul>
-										        <li class="dropdown has-mega-menu"><a href="#">الصف الثالث الابتدائى</a></li>
-												<li class="dropdown has-mega-menu"><a href="#">الصف الرابع الابتدائى</a></li>
-												<li class="dropdown has-mega-menu"><a href="#">الصف الخامس الابتدائى</a></li>
-												<li class="dropdown has-mega-menu"><a href="#">الصف السادس الابتدائى</a></li>
+										        <li><a href="#">الصف الثالث الابتدائى</a></li>
+												<li><a href="#">الصف الرابع الابتدائى</a></li>
+												<li><a href="#">الصف الخامس الابتدائى</a></li>
+												<li><a href="#">الصف السادس الابتدائى</a></li>
 									      </ul>
 								       </li>
 										<li class="dropdown has-mega-menu"><a href="#"> المرحله الاعداديه</a>
@@ -177,30 +114,42 @@
 												<li><a href="#">الصف الثانى الثانوى</a></li>
 												<li><a href="#">الصف الثالث الثانوى</a></li>
 
-										  </ul>	
+										 </ul>	
+										</li>	
+									</ul>
+								</li>
+								
+								<li class="dropdown has-mega-menu"><a href="#"><span>الدروس التعليمية <i class="fa fa-arrow-down"></i></span></a>
+									<ul>
+									<li class="dropdown has-mega-menu"><a href="#">المرحله الابتدائيه</a>
+										  <ul>
+										        <li><a href="levels.php">الصف الثالث الابتدائى</a></li>
+												<li><a href="levels.php">الصف الرابع الابتدائى</a></li>
+												<li><a href="levels.php">الصف الخامس الابتدائى</a></li>
+												<li><a href="levels.php">الصف السادس الابتدائى</a></li>
+									      </ul>
+								       </li>
+										<li class="dropdown has-mega-menu"><a href="#"> المرحله الاعداديه</a>
+										  <ul>
+										        <li><a href="levels.php">الصف الاول الاعدادى</a></li>
+												<li><a href="levels.php">الصف الثانى الاعدادى</a></li>
+												<li><a href="levels.php">الصف الثالث الاعدادى</a></li>
+									      </ul>
+										</li>
+										<li class="dropdown"><a href="#"> المرحله الثانويه</a>
+										  <ul>
+										    	<li><a href="levels.php">الصف الاول الثانوى</a></li>
+												<li><a href="levels.php">الصف الثانى الثانوى</a></li>
+												<li><a href="levels.php">الصف الثالث الثانوى</a></li>
+
+										 </ul>	
 										</li>
 									</ul>
 								</li>
-								<li class="dropdown"><a href="#">من نحن؟</a>
-									<ul>
-										<li><a href="about.php">About Us</a></li>
-										<li><a href="faq.php">Faq</a></li>
-										<li><a href="teacher.php">Teacher</a></li>
-										<li><a href="profile.php">User Profile</a></li>
-										<li><a href="membership.php">Membership</a></li>
-									</ul>
+
+								<li class="dropdown has-mega-menu"><a href="about.php"><span>من نحن؟ <i class="fa fa-arrow-down"></i></span></a>
 								</li>
-								<li class="current dropdown"><a href="#"><span data-hover="Home">الرئيسية</span></a>
-									<ul>
-										<li><a href="index.php">Home page 01</a></li>
-										<li><a href="index-2.php">Home page 02</a></li>
-										<li class="dropdown"><a href="#">Header styles</a>
-											<ul>
-												<li><a href="index.php">Header Style 01</a></li>
-												<li><a href="index-2.php">Header Style 02</a></li>
-											</ul>
-										</li>
-									</ul>
+								<li class="dropdown has-mega-menu"><a href="index.php"><span >الرئيسية <i class="fa fa-arrow-down"></i></span></a>	
 								</li>
 							</ul>
 						</div>

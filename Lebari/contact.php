@@ -57,72 +57,83 @@ include 'includes/header.php';
 		<div class="pattern-layer-one" style="background-image: url(images/icons/icon-5.png)"></div>
 		<div class="pattern-layer-two" style="background-image: url(images/icons/icon-6.png)"></div>
 		<div class="pattern-layer-three" style="background-image: url(images/icons/icon-4.png)"></div>
-		<div class="auto-container">
+		<div class="auto-container" >
 			<!-- Page Breadcrumb -->
-			<ul class="page-breadcrumb">
-				<li><a href="index.php">Home</a></li>
-				<li>Contact us</li>
+			<div>
+			<ul class="page-breadcrumb" >
+				<!-- <li><a href="index.php">الرئيسية</a></li>
+				<li>تواصل معنا </li> -->
 			</ul>
-			<div class="content-box">
-				<h2>Contact Now</h2>
-				<div class="text">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur Duis aute irure dolor in reprehenderit in </div>
 			</div>
+			<center>
+			<div class="content-box">
+				<h2>تواصل معنا الآن !</h2>
+				<!-- <div class="text">بإمكانك التواصل معنا عن طريق البريد الإلكتروني أو الأرقام التالية </div> -->
+			</div>
+			</center>
 		</div>
 	</section>
 	<!-- End Contact Banner Section -->
 	
 	<!-- Contact Page Section -->
-    <section class="contact-page-section">
+    <section class="contact-page-section" dir="rtl">
 		<div class="pattern-layer-three" style="background-image: url(images/icons/icon-8.png)"></div>
 		<div class="auto-container">
 			<div class="row clearfix">
 				
 				<!-- Info Column -->
-				<div class="info-column col-lg-6 col-md-12 col-sm-12">
+				<!-- <div class="info-column col-lg-6 col-md-12 col-sm-12" >
 					<div class="inner-column">
-						<div class="title">GET IN TOUCH</div>
-						<h2>Visit one of our agency locations <br> or contact us today</h2>
-						<div class="text">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, </div>
-						<ul>
-							<li><span>Address</span>56 Glassford Street Glasgow G1 1UL New York</li>
-							<li><span>Our Phone</span>Telephone : 028577101<br>Mobile : 01781648101</li>
-							<li><span>Our Email</span>Telephone : 028577101<br>Mobile : 01781648101</li>
-							<li><span>Opening Hours</span>Monday to Saturday: 9.00am to 16.pm</li>
+						<div class="title" style="font-size:25px; float:right">إبق على تواصل</div>
+						<br><br>
+						<h2 style="float: right;">بيانات التواصل</h2>
+						<pre>
+
+						</pre>
+						<div class="text">بيانات التواصل كلآتي </div>
+						<ul >
+							<li style="padding-left:100%; width:max-content;">العنوان العنواااااااااااااان</li>
+							
+							<li style="padding-left:100%; width:max-content;">رقم التليفون رقم الهاااااااااااتف</li>
+						
+							<li style="padding-left:100%; width:max-content;">البريد الإلكتروني البريييييييد</li>
+				
+							<li style="padding-left:100%; width:max-content;">مواعيد العمل  مواعيد العممممممل</li>
 						</ul>
 					</div>
-				</div>
+				</div> -->
 				
 				<!-- Form Column -->
-				<div class="form-column col-lg-6 col-md-12 col-sm-12">
+				<div class="form-column col-12">
 					<div class="inner-column">
 						<div class="circle-layer"></div>
 						<div class="pattern-layer-one" style="background-image: url(images/icons/icon-7.png)"></div>
 						<div class="pattern-layer-two" style="background-image: url(images/icons/icon-9.png)"></div>
-						<h2>Leave a message</h2>
-						<div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut <br> blandit arcu in pretium.</div>
+						<h2>إترك رسالة الآن</h2>
+						<div class="text">يمكنك الإستفسار عن كل ماتريد الآن </div>
 						
 						<!-- Contact Form -->
 						<div class="contact-form">
 							<form method="post" action="sendemail.php" id="contact-form">
 								
 								<div class="form-group">
-									<input type="text" name="username" placeholder="Name" required="">
+									<input type="text" name="username" placeholder="الإسم" required="" style="font-size: 20px;">
 								</div>
 								
 								<div class="form-group">
-									<input type="email" name="email" placeholder="Email" required="">
+									<input type="email" name="email" placeholder="البريد الإلكتروني" required="" style="font-size: 20px;">
 								</div>
 								
 								<div class="form-group">
-									<input type="text" name="phone" placeholder="Phone" required="">
+									<input type="text" name="phone" placeholder="رقم الهاتف" required="" style="font-size: 20px;">
 								</div>
 								
 								<div class="form-group">
-									<textarea class="" name="message" placeholder="Comment"></textarea>
+									<textarea class="" name="message" placeholder="الرسالة" style="font-size: 20px;"></textarea>
 								</div>
 								
-								<div class="form-group">
-									<button class="theme-btn btn-style-five" type="submit" name="submit-form">Send Message</button>
+								<div class="form-group" >
+									<button class="theme-btn btn-style-five" type="submit" name="submit-form" style="display: block; font-size:22px">إرسل الرسالة  </button>
 								</div>
 								
 							</form>
@@ -153,7 +164,7 @@ include 'includes/header.php';
 	<!-- End Map Contact Section -->
 	
 	<!-- Main Footer -->
-    <footer class="main-footer">
+	<footer class="main-footer">
 		<div class="circle-layer"></div>
 		<div class="pattern-layer-one" style="background-image: url(images/background/pattern-12.png)"></div>
 		<div class="pattern-layer-two" style="background-image: url(images/background/pattern-13.png)"></div>
@@ -165,14 +176,14 @@ include 'includes/header.php';
             	<div class="row clearfix">
                 	
 					<!-- Footer Column -->
-					<div class="footer-column col-lg-5 col-md-12 col-sm-12">
+					<div class="footer-column col-lg-5 col-md-12 col-sm-12" style="text-align:right">
 						<div class="footer-widget logo-widget">
 							<div class="logo">
 								<a href="index.php"><img src="images/logo.png" alt="" /></a>
 							</div>
-							<ul class="info-list">
-								<li>Tel:<a href="tel:+0845-371-02-02"> 0845 371 02 02</a></li>
-								<li>Email:<a href="/cdn-cgi/l/email-protection#8ce5e2eae3ccf5e3f9feffe5f8e9a2efe3a2f9e7"> <span class="__cf_email__" data-cfemail="9df4f3fbf2dde4f2e8efeef4e9f8b3fef2b3e8f6">[email&#160;protected]</span></a></li>
+							<ul class="info-list" style="direction:rtl">
+								<li > رقم الموبايل <a href="tel:+0845-371-02-02">:0845 371 02 010</a></li>
+								<li >البريد الالكترونى<a href="/cdn-cgi/l/email-protection#8ce5e2eae3ccf5e3f9feffe5f8e9a2efe3a2f9e7">:School@gmail.com</a></li>
 							</ul>
 							<!-- Social Box -->
 							<ul class="social-box">
@@ -181,44 +192,43 @@ include 'includes/header.php';
 								<li class="facebook"><a target="_blank" href="http://facebook.com/" class="fa fa-facebook-f"></a></li>
 								<li class="dribbble"><a target="_blank" href="http://dribbble.com/" class="fa fa-dribbble"></a></li>
 							</ul>
-							<div class="text">Get started now and take advantage of <br> our 30 day free trial today.</div>
+							<!-- <div class="text">Get started now and take advantage of <br> our 30 day free trial today.</div> -->
 						</div>
 					</div>
 					
 					<!-- Footer Column -->
-					<div class="footer-column col-lg-7 col-md-12 col-sm-12">
+					<div class="footer-column col-lg-7 col-md-12 col-sm-12" style="text-align:right">
 						<div class="row clearfix">
 							<!-- Column -->
 							<div class="column col-lg-4 col-md-4 col-sm-12">
-								<h5>About</h5>
+								<h5>القائمه</h5>
 								<ul class="list">
-									<li><a href="#">About</a></li>
-									<li><a href="#">News</a></li>
-									<li><a href="#">Impact</a></li>
-									<li><a href="#">Our team</a></li>
-									<li><a href="#">Our interns</a></li>
+									<li><a href="#">الرئيسية</a></li>
+									<li><a href="#">من نحن</a></li>
+									<li><a href="#">الدروس التعليميه</a></li>
+									<li><a href="#">التطبيقات والاختبارات </a></li>
+									<li><a href="#"> المكتبة</a></li>
+									<li><a href="#"> اتصل بنا</a></li>
 								</ul>
 							</div>
 							<!-- Column -->
-							<div class="column col-lg-4 col-md-4 col-sm-12">
-								<h5>Need some help?</h5>
+							<div class="column col-lg-4 col-md-4 col-sm-12" style="text-align:right">
+								<h5>الدروس التعليمية</h5>
 								<ul class="list">
-									<li><a href="#">FAQs</a></li>
-									<li><a href="#">Child safety</a></li>
-									<li><a href="#">Help Centre</a></li>
-									<li><a href="#">Contact</a></li>
-									<li><a href="#">Academy</a></li>
+									<li><a href="#">اللغه العربيه</a></li>
+									<li><a href="#">اللغه الانجليزيه </a></li>
+									<li><a href="#">الدراسات الاجتماعيه </a></li>
+									<li><a href="#">العلوم</a></li>
 								</ul>
 							</div>
 							<!-- Column -->
-							<div class="column col-lg-4 col-md-4 col-sm-12">
-								<h5>Courses</h5>
+							<div class="column col-lg-4 col-md-4 col-sm-12" style="text-align:right">
+								<h5>أخر الاخبار</h5>
 								<ul class="list">
-									<li><a href="#">Khan Kids app</a></li>
-									<li><a href="#">Science & engineering</a></li>
-									<li><a href="#">Computing</a></li>
-									<li><a href="#">Arts & humanities</a></li>
-									<li><a href="#">Economics & finance</a></li>
+									<li><a href="#">ميعاد بدء العام الدراسى 2020-2021</a></li>
+									<li><a href="#">قرارات بدائل الإمتحانات للعام2020 ‏‎‎</a></li>
+									<li><a href="#"> آليات تسليم الأبحاث لطلاب سنوات النقل</a></li>
+									
 								</ul>
 							</div>
 							
@@ -233,7 +243,7 @@ include 'includes/header.php';
             	<div class="row clearfix">
 					<div class="col-lg-6 col-lg-6 col-sm-12">
 						<!-- Subscribe Form -->
-						<div class="subscribe-form">
+						<!-- <div class="subscribe-form">
 							<h6>Newsletter</h6>
 							<form method="post" action="contact.php">
 								<div class="form-group">
@@ -241,12 +251,9 @@ include 'includes/header.php';
 									<button type="submit" class="submit-btn"><span class="icon flaticon-right-arrow-2"></span></button>
 								</div>
 							</form>
-						</div>
+						</div> -->
 					</div>
-					<div class="col-lg-6 col-lg-6 col-sm-12">
-						<div class="text">Need to train your team? We offer flexible, cost-effective <br> group memberships for your business, school,</div>
-						<a href="#" class="singup">Free Singup</a>
-					</div>
+					
 				</div>
 			</div>
 			
@@ -256,16 +263,16 @@ include 'includes/header.php';
 					
 					<!-- Copyright Column -->
 					<div class="copyright-column col-lg-6 col-md-12 col-sm-12">
-						<div class="copyright">Copyright 2020, All Right Reserved</div>
+						<div class="copyright centered">Copyright 2020, All Right Reserved for Dahab Informatics</div>
 					</div>
 					
 					<!-- Nav Column -->
-					<div class="nav-column col-lg-6 col-md-12 col-sm-12">
+					<!-- <div class="nav-column col-lg-6 col-md-12 col-sm-12">
 						<ul>
 							<li><a href="about.php">SiteMap</a></li>
 							<li><a href="about.php">Privacy Policy</a></li>
 						</ul>
-					</div>
+					</div> -->
 					
 				</div>
 			</div>

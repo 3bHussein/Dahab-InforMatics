@@ -190,9 +190,7 @@ img{
 	-o-transition:all 0.3s ease;
 }
 
-.centered{
-	text-align:center;	
-}
+
 
 /* List Style One */
 
@@ -3979,6 +3977,7 @@ img{
 }
 
 .main-footer .widgets-section{
+	direction: rtl;
 	position:relative;
 	padding:70px 0px 4px;
 }
@@ -10927,5 +10926,16 @@ img{
 .text.righting{
 	text-align: right;
 }	
+.copyright .centered{
+	text-align: center;
+}
+.border-layer .centered{
+	text-align: center;
+}
 
-
+.centered{
+	text-align:center;	
+}
+.right-mode{
+	text-align: right;
+}

@@ -249,144 +249,13 @@ include 'includes/header.php';
 		<div class="circle-one paroller" data-paroller-factor="-0.20" data-paroller-factor-lg="0.20" data-paroller-type="foreground" data-paroller-direction="horizontal"></div>
 		<div class="circle-two paroller" data-paroller-factor="0.20" data-paroller-factor-lg="-0.20" data-paroller-type="foreground" data-paroller-direction="horizontal"></div>
 		<div class="auto-container">
-			<div class="sec-title centered">
-				<h2>You can learn anything, Explore <br> featured courses</h2>
-				<div class="text">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat <br> nulla pariatur Duis aute irure dolor in reprehenderit in</div>
-			</div>
-			<div class="row clearfix">
-				
-				<!-- Course Column -->
-				<div class="course-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<div class="image">
-							<a href="course-detail.php"><img src="images/resource/course-1.jpg" alt="" /></a>
-						</div>
-						<div class="lower-content">
-							<h4><a href="course-detail.php">Growth Mindsets for Teachers and Learners</a></h4>
-							<div class="uni-name">University of Roehampton</div>
-							<div class="rating">
-								<span class="fa fa-star"></span>
-								<span class="fa fa-star"></span>
-								<span class="fa fa-star"></span>
-								<span class="fa fa-star"></span>
-								<span class="fa fa-star-o"></span>
-								<strong>4.9</strong>
-								<i>(70 Review)</i>
-							</div>
-							<div class="price">$12 <span>$100.99</span></div>
-							<div class="clearfix">
-								<div class="pull-left">
-									<div class="hovers">11.5 total hours . All Levels  </div>
-								</div>
-								<div class="pull-right">
-									<a href="course-detail.php" class="enroll-now">ENROL NOW</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Course Column -->
-				<div class="course-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<div class="image">
-							<a href="course-detail.php"><img src="images/resource/course-2.jpg" alt="" /></a>
-						</div>
-						<div class="lower-content">
-							<h4><a href="course-detail.php">Programming for Everybody Getting Started with Python</a></h4>
-							<div class="uni-name">University of Roehampton</div>
-							<div class="rating">
-								<span class="fa fa-star"></span>
-								<span class="fa fa-star"></span>
-								<span class="fa fa-star"></span>
-								<span class="fa fa-star"></span>
-								<span class="fa fa-star-o"></span>
-								<strong>4.9</strong>
-								<i>(70 Review)</i>
-							</div>
-							<div class="price">$12 <span>$100.99</span></div>
-							<div class="clearfix">
-								<div class="pull-left">
-									<div class="hovers">11.5 total hours . All Levels  </div>
-								</div>
-								<div class="pull-right">
-									<a href="course-detail.php" class="enroll-now">ENROL NOW</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Course Column -->
-				<div class="course-block col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<div class="image">
-							<a href="course-detail.php"><img src="images/resource/course-3.jpg" alt="" /></a>
-						</div>
-						<div class="lower-content">
-							<h4><a href="course-detail.php">Introduction to Forensic Science</a></h4>
-							<div class="uni-name">University of Roehampton</div>
-							<div class="rating">
-								<span class="fa fa-star"></span>
-								<span class="fa fa-star"></span>
-								<span class="fa fa-star"></span>
-								<span class="fa fa-star"></span>
-								<span class="fa fa-star-o"></span>
-								<strong>4.9</strong>
-								<i>(70 Review)</i>
-							</div>
-							<div class="price">$12 <span>$100.99</span></div>
-							<div class="clearfix">
-								<div class="pull-left">
-									<div class="hovers">11.5 total hours . All Levels  </div>
-								</div>
-								<div class="pull-right">
-									<a href="course-detail.php" class="enroll-now">ENROL NOW</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-			</div>
-		</div>
+			
+	
 	</section>
 	<!-- End Courses Section -->
 	
 	<!-- Career Section -->
-	<section class="career-section">
-		<div class="auto-container">
-			<!-- Sec Title -->
-			<div class="sec-title">
-				<h2>Change careers courses <br> Thinking about a career change?</h2>
-			</div>
-			
-			<div class="row clearfix">
-				
-				<!-- Image Column -->
-				<div class="image-column col-lg-5 col-md-12 col-sm-12">
-					<div class="inner-column">
-						<div class="image titlt" data-tilt data-tilt-max="4">
-							<img src="images/resource/career.png" alt="" />
-						</div>
-					</div>
-				</div>
-				
-				<!-- Content Column -->
-				<div class="content-column col-lg-7 col-md-12 col-sm-12">
-					<div class="inner-column">
-						<h5>The International Admissions Bulletin</h5>
-						<div class="text">
-							<p>Ut enim ad minim veniam aliquip amet, nostrud exercitation ullamco. Pharetra massaultricies mi quis hendrerit. Elit eget gravida cum sociis.Ut enim ad minim veniam aliquip amet, </p>
-							<p>nostrud exercitation ullamco. Pharetra massaultricies mi quis hendrerit. Elit eget gravida cum sociis.</p>
-						</div>
-						<a href="about.php" class="theme-btn btn-style-three">Read it now <span class="fa fa-caret-right"></span></a>
-					</div>
-				</div>
-				
-			</div>
-		</div>
-	</section>
+	
 	<!-- End Career Section -->
 	
 	<!-- Skill Section -->
@@ -593,58 +462,7 @@ include 'includes/header.php';
 	<!-- News Section -->
 	<section class="news-section">
 		<div class="pattern-layer" style="background-image:url(images/background/pattern-11.png)"></div>
-		<div class="auto-container">
-			<!-- Sec Title -->
-			<div class="sec-title centered">
-				<div class="title">Our Blogs</div>
-				<h2>Latest articles & news</h2>
-				<div class="text">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu <br> fugiat nulla pariatur Duis aute irure dolor in reprehenderit in</div>
-			</div>
-			<div class="inner-container">
-				<div class="icon-layer-one" style="background-image:url(images/icons/icon-1.png)"></div>
-				<div class="icon-layer-two" style="background-image:url(images/icons/icon-2.png)"></div>
-				<div class="icon-layer-three" style="background-image:url(images/icons/icon-2.png)"></div>
-				<div class="row clearfix">
-				
-					<!-- News Block -->
-					<div class="news-block col-lg-6 col-md-6 col-sm-12">
-						<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-							<div class="image">
-								<a href="#"><img src="images/resource/news-1.jpg" alt="" /></a>
-							</div>
-							<div class="lower-content">
-								<div class="border-layer"></div>
-								<ul class="post-info">
-									<li>Technology</li>
-									<li>Updated  Sep 26, 2020</li>
-								</ul>
-								<h4><a href="#">All The Security & Privacy <br> Updates From Amazon’s</a></h4>
-								<a href="#" class="more">More <span class="fa fa-angle-double-right"></span></a>
-							</div>
-						</div>
-					</div>
-					
-					<!-- News Block -->
-					<div class="news-block col-lg-6 col-md-6 col-sm-12">
-						<div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-							<div class="image">
-								<a href="#"><img src="images/resource/news-2.jpg" alt="" /></a>
-							</div>
-							<div class="lower-content">
-								<div class="border-layer"></div>
-								<ul class="post-info">
-									<li>Education</li>
-									<li>Updated  Sep 26, 2020</li>
-								</ul>
-								<h4><a href="#">All The Security & Privacy Updates From Amazon’s</a></h4>
-								<a href="#" class="more">More <span class="fa fa-angle-double-right"></span></a>
-							</div>
-						</div>
-					</div>
-					
-				</div>
-			</div>
-		</div>
+		
 	</section>
 	<!-- End News Section -->
 	
