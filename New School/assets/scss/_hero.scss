@@ -1,0 +1,143 @@
+/*----------------------------------------*/
+/*  Hero 1 Style
+/*----------------------------------------*/
+.hero-area {
+    position: relative;
+    padding: 100px 0px;
+}
+
+.hero-V1 {
+    position: relative;
+    background-color: #f5f5f5;
+    padding: 160px 0px 0px;
+    z-index: 1;
+    overflow: hidden;
+    &:before {
+        position: absolute;
+        content: '';
+        height: 400px;
+        width: 400px;
+        background-color: #ffdada;
+        border-radius: 50%;
+        left: 100px;
+        bottom: 200px;
+    }
+    &:after {
+        position: absolute;
+        content: '';
+        height: 250px;
+        width: 250px;
+        background-color: #ffdada;
+        border-radius: 50%;
+        left: 0;
+        bottom: 25px;
+        z-index: -1;
+    }
+
+    .hero-content {
+        position: relative;
+        margin: 25px auto 0px;
+        .hero-img {
+            position: relative;
+            margin-left: -60px;
+        }
+        .hero-text {
+            position: relative;
+            margin: 50px auto 25px;
+            padding: 25px 0px;
+            h2 {
+                font-size: 55px;
+                letter-spacing: 0px;
+                line-height: 65px;
+                font-weight: 900;
+                color: $tertiaryColor;
+                .e-type-text {
+                    background-color: #4cc083;
+                    color: $primaryColor;
+                    padding: 0px 3px;
+                }
+                .typed-cursor {
+                    background-color: #4cc083;
+                    color: $primaryColor;
+                    padding: 0px;
+                    font-weight: 100;
+                }
+            }
+            p {
+                color: $secondaryColor;
+                font-size: 20px;
+                line-height: 32px;
+                margin: 30px auto;
+                letter-spacing: 0px;
+                padding-bottom: 11px;
+            }
+        }
+    }
+
+    
+
+    
+}
+
+
+/* ---------- Hero 1 Style END ---------- */
+
+
+
+
+
+/*----------------------------------------*/
+/*  Hero 2 Style
+/*----------------------------------------*/
+.hero-V2 {
+    background-image: url(../img/bg/hero-2-bg.jpg);
+    .hero-content {
+        position: relative;
+        margin: 50px auto;
+        .hero-text {
+            position: relative;
+            padding: 40px 0px;
+            margin: 25px auto;
+            h3 {
+                font-size: 48px;
+                line-height: 56px;
+            }
+            p {
+                font-size: 20px;
+                color: $secondaryColor;
+                line-height: 32px;
+                margin: 30px auto;
+                padding-bottom: 11px;
+            }
+        }
+        .hero-img {
+            position: relative;
+            text-align: right;
+            z-index: 1;
+            img.hero2-img {
+                max-width: 450px;
+            }
+            img.hero2-shape-1 {
+                position: absolute;
+                left: 0;
+                bottom: 40px;
+                width: 225px;
+                z-index: -1;
+            }
+            img.hero2-shape-2 {
+                position: absolute;
+                bottom: 0;
+                right: -80px;
+            }
+            img.hero2-shape-3 {
+                position: absolute;
+                right: -50px;
+                top: 100px;
+                width: 120px;
+            }
+        }
+    }
+    
+}
+
+/* ---------- Hero 2 Style END ---------- */

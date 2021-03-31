@@ -1,0 +1,357 @@
+
+/*----------------------------------------*/
+/*  Educus RTL Style
+/*----------------------------------------*/
+html[dir="rtl"] {
+    
+    .portfolio-details-info {
+        text-align: left;
+    }
+    
+    .portfolio-details-single {
+        text-align: right;
+    }
+    
+    .you-may-like-also {
+        text-align: right;
+    }
+    .teacher-text {
+        text-align: right;
+    }
+    .portfolio-singleV1 {
+        .ps-text {
+            text-align: right;
+        }
+    }
+    .single-event {
+        text-align: right;
+    }
+    .eds-widget {
+        text-align: right;
+    }
+    
+    .eds-widget {
+        ul.ed-list {
+            li {
+                padding-left: 0px;
+                padding-right: 90px;
+                span {
+                    right: 0;
+                    left: unset;
+                }
+            }
+        }
+    }
+    
+   
+    .events-details-single {
+        .ed-text {
+            text-align: right;
+        }
+        .ed-tag-social {
+            .ed-social {
+                text-align: left;
+            }
+        }
+    }
+    
+    .event-speaker-slider {
+        direction: ltr;
+        text-align: right;
+    }
+    
+    .event-ticket-form {
+        text-align: right;
+    }
+    .enroll-btn-wrapper {
+        margin-right: auto;
+        margin-left: 0;
+    }
+    
+    .cdc-text {
+        text-align: right;
+    }
+    
+    .what-will-learn {
+        text-align: right;
+    }
+    
+    
+    .what-will-learn {
+        ul {
+            li {
+                padding-right: 20px;
+                &:before {
+                    left: unset;
+                    right: 0;
+                }
+            }
+        }
+    }
+    
+    .instructor-box {
+        .instructor-info {
+            right: 0;
+            text-align: right;
+        }
+    }
+    
+    .recommended-courses-area {
+        .section-titleV1 {
+            margin-right: 0;
+            margin-left: auto;
+            text-align: right;
+        }
+    }
+    .single-ci {
+        margin-right: 0;
+        margin-left: auto;
+        text-align: right;
+        .sc-icon {
+            float: right;
+            margin-left: 10px;
+        }
+    }
+    .contact-form {
+        text-align: right;
+    }
+    
+    
+    .contact-info {
+        text-align: right;
+    }
+    .share-tag-area {
+        .share-post {
+            text-align: right;
+        }
+        .post-tag {
+            text-align: left;
+        }
+    }
+    
+    .footer-widget {
+        text-align: right;
+    }
+    .topbar-contact {
+        margin-left: -15px;
+        margin-right: 0px;
+        text-align: right;
+    }
+    
+    .educus-menu-wrapper {
+        border-left: none;
+        border-right: 1px solid #e1e1e1;
+    }
+
+    .hero-V1 {
+        .hero-content {
+            .hero-text {
+                direction: ltr;
+                text-align: right;
+            }
+        }
+    }
+    
+    .service-slider-area {
+        direction: ltr;
+    }
+
+    
+    .single-service {
+        text-align: right;
+        img.ss-hover-icon {
+            left: unset;
+            right: 0;
+        }
+        .ss-icon {
+            margin-left: auto;
+            margin-right: 0;
+        }
+    }
+    .single-courses {
+        .sc-text {
+            text-align: right;
+            .sc-enroll {
+                ul {
+                    li{
+                        &:last-child {
+                            text-align: left;
+                        }
+                    }
+                }
+            }
+        }
+        
+    }
+    .register-now-text {
+        .section-titleV1 {
+            text-align: right;
+        }
+        .section-text {
+            text-align: right;
+        }
+    }
+    
+    
+    .testimonial-area {
+        direction: ltr;
+    }
+    
+    .single-blog-V1 {
+        direction: ltr;
+        text-align: right;
+    }
+    
+    .footer-social {
+        text-align: left;
+    }
+    
+    .copyright-text {
+        text-align: right;
+    }
+    .hero-V2 {
+        .hero-content {
+            .hero-img {
+                text-align: left;
+                max-width: 400px;
+                margin: 0 auto 0 0;
+            }
+            .hero-text {
+                text-align: right;
+            }
+        }
+    }
+    
+    
+    .puc-single {
+        .puc-text {
+            text-align: right;
+        }
+    }
+    
+    .mfc-title {
+        .section-titleV2 {
+            text-align: right;
+        }
+    }
+    
+    .mfc-title {
+        text-align: right;
+        a.btn-style-a {
+            left: unset;
+            right: 40px;
+        }
+    }
+    
+    
+    
+    .register-now2-area {
+        .register-now-text {
+            text-align: right;
+            .section-titleV2 {
+                text-align: right;
+            }
+            
+        }
+    }
+    
+    .reg-form {
+        form.r-form {
+            label {
+                text-align: right;
+            }
+        }
+        
+    }
+    .testimonial-area2 {
+        direction: ltr;
+    }
+    
+    .single-testimonialV2 {
+        text-align: right;
+    }
+    
+    form.newsletter-form {
+        .nl-input {
+            input {
+                padding-right: 40px;
+            }
+        }
+    }
+    .innerpage-top {
+        .hero-content {
+            text-align: right;
+            .hero-img {
+                text-align: left;
+            }
+        }
+    }
+    
+    
+    .ap-sn {
+        text-align: right;
+    }
+    
+    .wwa-text {
+        text-align: right;
+    }
+    
+    .ov-text {
+        text-align: right;
+    }
+    
+    .single-team {
+        text-align: right;
+    }
+    .sidebar-widget {
+        text-align: right;
+    }
+    
+    .s-subscribe {
+        form {
+            input {
+                padding-right: 20px;
+            }
+        }
+    }
+    
+    .sidebar-social {
+        ul {
+            li{
+                &:first-child {
+                    margin-right: 0px;
+                }
+                &:last-child {
+                    margin-right: 8px;
+                }
+            }
+        }
+    }
+    
+    .single-blogV2 {
+        .sb-text {
+            text-align: right;
+        }
+        .sb-meta {
+            .sbm-author {
+                border: none;
+            }
+        }
+    }
+    
+    .register-now2-area .register-now-text .section-titleV2 p {
+        margin-right: 0;
+    }
+    .single-team .st-text {
+        text-align: center;
+    }
+}
+
+// .educus-rtl {
+//     direction: rtl;
+// }
+
+
+
+
+/* ---------- Educus RTL Style END ---------- */

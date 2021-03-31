@@ -1,0 +1,154 @@
+
+/*----------------------------------------*/
+/*  Contact Page Style
+/*----------------------------------------*/
+
+
+#googleMap {
+    height: 430px;
+    width: 100%;
+}
+
+.contact-area {
+    position: relative;
+    padding: 80px 0px;
+}
+
+.contact-wrapper {
+    position: relative;
+    h4 {
+        font-size: 30px;
+        letter-spacing: 0px;
+        font-weight: 600;
+        line-height: 40px;
+        margin-bottom: 25px;
+    }
+}
+
+.contact-form {
+    position: relative;
+    border-radius: 10px;
+    background-color: $primaryColor;
+    box-shadow: 0px 0px 32px 0px rgba(66, 65, 83, 0.09);
+    padding: 25px 30px;
+    margin-bottom: 60px;
+    form {
+        position: relative;
+        padding-bottom: 20px;
+        [type=submit] {
+            width: 100%;
+            background-color: $elementsColor;
+            border: 1px solid $elementsColor;
+            font-size: 18px;
+            letter-spacing: 0px;
+            color: $primaryColor;
+            padding: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .cf2-btn {
+            width: 160px;
+        }
+    }
+    
+}
+
+.cw-input {
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #ececec;
+    padding: 8px 20px;
+    font-size: 16px;
+    letter-spacing: 0px;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+
+textarea.cw-input {
+    height: 140px;
+}
+
+
+.contact-info-box {
+    position: relative;
+    .sci-head {
+        position: relative;
+        margin: 15px auto 30px;
+        img {
+            max-width: 40px;
+            display: inline-block;
+            margin-right: 5px;
+        }
+        h4 {
+            font-size: 24px;
+            display: inline-block;
+            line-height: 36px;
+            position: relative;
+            top: 7px;
+            margin-bottom: 0px;
+        }
+        
+    }
+}
+
+.contact-info {
+    position: relative;
+    padding-top: 25px;
+}
+
+.single-ci {
+    position: relative;
+    min-height: 60px;
+    margin: 25px auto;
+    max-width: 340px;
+    margin-left: 0px;
+    .sc-icon {
+        position: relative;
+        width: 60px;
+        height: 60px;
+        background-color: $elementsColor;
+        color: $primaryColor;
+        font-size: 24px;
+        text-align: center;
+        padding-top: 15px;
+        display: inline-block;
+        float: left;
+        margin-right: 15px;
+    }
+    .sc-text {
+        position: relative;
+        min-height: 60px;
+        height: 100%;
+        display: grid;
+        align-content: center;
+        p {
+            color: $denary;
+            font-size: 22px;
+            line-height: 30px;
+            letter-spacing: 0px;
+        }
+    }
+}
+
+
+.contact-map {
+    position: relative;
+    margin-top: 60px;
+}
+
+
+.cf-msg {
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 30px; 
+    p {
+        margin-bottom: 0;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0;
+        color: #717484;
+        text-transform: capitalize; 
+    }
+}
+/*--------- Contact Page Style END ------------*/

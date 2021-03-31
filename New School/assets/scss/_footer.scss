@@ -1,0 +1,167 @@
+/*----------------------------------------*/
+/*  Footer Style 1
+/*----------------------------------------*/
+.footer-area {
+    position: relative;
+}
+
+.footer-widget-area {
+    position: relative;
+    background-color: $senary;
+    padding: 160px 0px 50px;
+}
+
+.footer-widget {
+    position: relative;
+    max-width: 350px;
+    margin: 25px auto;
+    h4 {
+        color: $primaryColor;
+        font-size: 18px;
+        letter-spacing: 0px;
+        font-weight: 100;
+        margin-bottom: 20px;
+    }
+}
+
+.f-logo-text {
+    position: relative;
+    margin-top: -5px;
+    img {
+        margin-bottom: 20px;
+    }
+    p {
+        color: #c5c5c5;
+        font-size: 15px;
+        line-height: 22px;
+        letter-spacing: 0px;
+        font-weight: 300;
+        margin-top: 15px;
+        margin-right: 30px;
+    }
+}
+ul.f-links {
+    position: relative;
+    padding: 0;
+    list-style-type: none;
+    li {
+        position: relative;
+        a {
+            font-size: 16px;
+            line-height: 24px;
+            color: $elementsColorII;
+            font-weight: 400;
+            letter-spacing: 0px;
+            font-family: $tertiaryFont;
+            &:hover {
+                color: $primaryColor;
+            }
+            
+        }
+    }
+}
+.footer-copyright {
+    position: relative;
+    background-color: $tertiaryColor;
+    padding: 15px 0px 10px;
+}
+
+.copyright-text {
+    position: relative;
+    p {
+        color: $primaryColor;
+        font-size: 16px;
+        line-height: 22px;
+    }
+}
+
+.footer-social {
+    position: relative;
+    text-align: right;
+}
+
+ul.fsc-icon-list {
+    position: relative;
+    padding: 0px;
+    list-style-type: none;
+    li {
+        position: relative;
+        display: inline-block;
+        margin: 0px 4px;
+        a {
+            font-size: 20px;
+            color: $elementsColorII;
+            display: block;
+            line-height: 20px;
+            &:hover {
+                color: $elementsColor;
+            }
+        }
+        
+    }
+}
+/*----------- Footer Style END ------------*/
+
+
+/*----------------------------------------*/
+/*  Newsletter Style 
+/*----------------------------------------*/
+.newsletter-area {
+    position: relative;
+    z-index: 1;
+    margin-bottom: -100px;
+}
+.newsletter-wrapper {
+    position: relative;
+    background-color: $tertiaryColor;
+    padding: 40px 25px;
+    text-align: center;
+    h4 {
+        font-size: 30px;
+        color: $primaryColor;
+        letter-spacing: 0px;
+        line-height: 40px;
+        font-weight: 100;
+        margin: 15px auto;
+    }
+}
+
+form.newsletter-form {
+    position: relative;
+    max-width: 767px;
+    margin: 15px auto;
+    .nl-input {
+        position: relative;
+        input {
+            width: 100%;
+            font-size: 16px;
+            letter-spacing: 0px;
+            font-weight: 100;
+            padding: 10px 15px;
+            padding-left: 0px;
+            color: $primaryColor;
+            background-color: $tertiaryColor;
+            border: none;
+            border-bottom: 1px solid #43505d;
+        }
+        button {
+            position: absolute;
+            right: 5px;
+            top: 15px;
+            background-color: $tertiaryColor;
+            color: $primaryColor;
+            border: none;
+            padding: 0px;
+            font-size: 24px;
+            z-index: 1;
+            @include transition(all, .5s, ease);
+            cursor: pointer;
+            &:hover {
+                color: $elementsColor;
+            }
+        }
+    }
+    
+}
+
+/*----------- Newsletter Style END ------------*/

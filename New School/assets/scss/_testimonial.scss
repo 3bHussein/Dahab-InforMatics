@@ -1,0 +1,211 @@
+/*----------------------------------------*/
+/*  Testimonial 1 Style
+/*----------------------------------------*/
+
+.testimonial-area {
+    position: relative;
+    padding-top: 120px;
+    .section-titleV1 {
+        text-align: center;
+    }
+}
+
+.testimonial-carousel {
+    height: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    position: relative;
+    img {
+        vertical-align: middle;
+    }
+    .item {
+        position: relative;
+        margin-top: 165px;
+        img {
+            display: none;
+        }
+    }
+    .owl-thumb-item {
+        display: table-cell;
+        border: none;
+        background: none;
+        padding: 0;
+        opacity: .4;
+        margin: 10px;
+        height: 80px;
+        outline: none;
+        img {
+            width: 65px;
+            height: auto;
+            @include transition(all, .5s, ease);
+        }
+    }
+    .owl-thumb-item.active {
+        opacity: 1;
+        img {
+            width: 75px;
+        }
+    }
+   
+    .owl-thumbs {
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: table;
+        width: 100%;
+        text-align: center;
+    }
+    .label {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        background-color: #0a6cff;
+        color: white;
+        padding: 10px 20px;
+        z-index: 5;
+        text-align: center;
+    }
+    .owl-nav {
+        position: absolute;
+        bottom: 31%;
+        width: 100%;
+        [class*=owl-] {
+            background-color: $elementsColorIV;
+            font-size: 30px;
+            line-height: 30px;
+            height: 50px;
+            width: 50px;
+            border-radius: 50%;
+            padding-top: 10px;
+            text-align: center;
+            @include transition(all, .5s, ease);
+            &:hover {
+                background-color: $elementsColor;
+            }
+        }
+        .owl-prev {
+            float: left;
+        }
+        .owl-next {
+            float: right;
+        }
+    }
+}
+
+.single-testimonial {
+    position: relative;
+    max-width: 800px;
+    margin: 25px auto;
+    padding: 15px;
+    -webkit-box-shadow: 0px 0px 12px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 12px -4px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 12px -4px rgba(0,0,0,0.75);
+    .t-text {
+        position: relative;
+        text-align: center;
+        padding: 15px;
+        p {
+            font-size: 16px;
+            letter-spacing: 0px;
+            color: $secondaryColor;
+            line-height: 26px;
+            margin: 15px auto;
+        }
+        h4 {
+            font-size: 24px;
+            letter-spacing: 0px;
+            font-weight: 100;
+            color: $tertiaryColor;
+            line-height: 28px;
+            margin: 35px auto 0px;
+        }
+        span {
+            font-size: 18px;
+            letter-spacing: 0px;
+            color: $secondaryColor;
+            line-height: 24px;
+            margin: 5px auto;
+            display: inline-block;
+            margin: 5px auto 15px;
+        }
+        
+    }
+}
+
+.testimonial-area2 {
+    position: relative;
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+
+.single-testimonialV2 {
+    position: relative;
+    border: 1px solid #e1e1e1;
+    padding: 25px;
+    margin: 15px;
+    .t-text {
+        position: relative;
+        margin: 25px auto;
+        p {
+            font-size: 16px;
+            line-height: 26px;
+            letter-spacing: 0px;
+            color: $secondaryColor;
+            font-style: italic;
+        }
+    }
+    .t-avatar {
+        position: relative;
+        padding-left: 70px;
+        min-height: 60px;
+        margin-bottom: 25px;
+        img {
+            width: 60px;
+            border-radius: 50%;
+            display: inline-block;
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+        .ta-info {
+            position: relative;
+            padding-top: 5px;
+            h4 {
+                color: $tertiaryColor;
+                font-size: 22px;
+                letter-spacing: 0px;
+                font-weight: 600;
+                line-height: 30px;
+                a {
+                    color: inherit;
+                    font-size: inherit;
+                    letter-spacing: inherit;
+                    font-weight: inherit;
+                    line-height: inherit;
+                }
+            }
+            span {
+                font-size: 18px;
+                letter-spacing: 0px;
+                color: #3d4752;
+                line-height: 24px;
+                display: block;
+            }
+        }
+    }
+    &:after {
+        position: absolute;
+        content: '\f10e';
+        font-family: fontAwesome;
+        color: #ffe6e6;
+        font-size: 100px;
+        line-height: 100px;
+        top: 35px;
+        right: 25px;
+        z-index: -1;
+        transform: scaleY(-1);
+    }
+     
+}
+
+/* ---------- Testimonial 1 Style END ---------- */

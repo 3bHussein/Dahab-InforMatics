@@ -1,0 +1,351 @@
+/*----------------------------------------*/
+/*  Portfolio And Gallery Style
+/*----------------------------------------*/
+
+.portfolio-shuffle {
+    position: relative;
+    overflow: hidden;
+}
+
+.portfolio-page-wrapper {
+    position: relative;
+    padding: 80px 0px 40px;
+    text-align: center;
+}
+
+.educus-portfolio-filters {
+    position: relative;
+    margin: 25px auto;
+    text-align: center;
+    .btn-shuffle {
+        position: relative;
+        font-size: 20px;
+        letter-spacing: 0px;
+        color: #36354a;
+        line-height: 26px;
+        @include transition(all, .5s, ease);
+        outline: none !important;
+        box-shadow: none !important;
+        input {
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            opacity: 0;
+            cursor: pointer;
+        }
+        &:hover {
+            color: $elementsColor;
+        }
+    }
+    .btn-shuffle.active {
+        color: $elementsColor;
+    }
+}
+
+
+.portfolio-shuffle {
+    position: relative;
+    margin: 50px 0px;
+}
+
+.portfolio-singleV1 {
+    position: relative;
+    max-width: 340px;
+    margin: 15px auto;
+    overflow: hidden;
+    .ps-img {
+        position: relative;
+        a {
+            display: block;
+            position: relative;
+            &:before {
+                position: absolute;
+                content: "";
+                height: 100%;
+                width: 100%;
+                background-color: $elementsColor;
+                opacity: .85;
+                bottom: -100%;
+                left: 0;
+                z-index: 1;
+                transition: .85s ease;
+            }
+            img {
+                @include transition(all, .5s, ease)
+            }
+        }
+    }
+    .ps-text {
+        position: absolute;
+        bottom: 100%;
+        left: 0;
+        width: 100%;
+        z-index: 2;
+        text-align: left;
+        padding: 15px 20px;
+        transition: .85s ease;
+        h4 {
+            font-size: 22px;
+            letter-spacing: 0px;
+            color: $primaryColor;
+            line-height: 30px;
+            a {
+                font-size: inherit;
+                letter-spacing: inherit;
+                color: inherit;
+                line-height: inherit;
+                text-decoration: none;
+            }
+        }
+        p {
+            font-size: 16px;
+            letter-spacing: 0px;
+            color: $primaryColor;
+            line-height: 26px;
+            margin: 15px auto;
+        }
+        a {
+            font-size: 16px;
+            display: inline-block;
+            letter-spacing: 0px;
+            color: $primaryColor;
+            line-height: 22px;
+            text-decoration: underline;
+            &:hover {
+                color: $quaternary;
+            }
+        }
+    }
+    &:hover {
+        .ps-img {
+            a {
+                
+                &:before {
+                    bottom: 0;
+                }
+                img {
+                    transform: scale(1.10);
+                }
+                &:after {
+                    position: absolute;
+                    content: '\f0b2';
+                    font-family: "Font Awesome 5 Free";
+                    top: calc(50% - 15px);
+                    left: calc(50% - 15px);
+                    z-index: 2;
+                    color: #fff;
+                    font-weight: 600;
+                    font-size: 30px;
+                    opacity: .8;
+                }
+            }
+        }
+        .ps-text {
+            bottom: 0;
+            
+        }
+        &:before {
+            bottom: 0;
+        }
+    }
+    &:before {
+        position: absolute;
+        content: "";
+        height: 100%;
+        width: 100%;
+        background-color: $elementsColor;
+        opacity: .85;
+        bottom: -100%;
+        left: 0;
+        z-index: 1;
+        transition: .85s ease;
+    }
+    
+}
+
+
+.my-sizer-element {
+    z-index: -1;
+}
+
+
+.psV2 {
+    margin: 15px auto 20px;
+    .ps-text {
+        position: relative;
+        bottom: 0;
+        padding-left: 0px;
+        padding-right: 0px;
+        h4,
+        p,
+        a {
+            color: $tertiaryColor;
+        }
+        h4 {
+            &:hover {
+                color: $elementsColor;
+            }
+        }
+        a {
+            &:hover {
+                color: $elementsColor;
+            }
+        }
+    }
+    &:hover {
+        .ps-text {
+            bottom: 0;
+            // h4,
+            // a {
+            //     color: $elementsColor;
+            // }
+        }
+        &:before {
+            display: none;
+        }
+        
+    }
+    
+}
+.spV2 {
+    &:before {
+        display: none;
+    }
+}
+.gallery2 {
+    max-width: 255px;
+}
+// Portfolio Details
+.pd-hero {
+    padding-bottom: 200px;
+}
+
+.portfolio-details-info {
+    position: relative;
+    text-align: right;
+    margin: 60px auto 0px;
+    ul {
+        position: relative;
+        background-color: $elementsColorIII;
+        padding: 25px;
+        list-style-type: none;
+        max-width: 280px;
+        margin: 0px auto;
+        display: inline-block;
+        text-align: left;
+        li {
+            color: $primaryColor;
+            letter-spacing: 0px;
+            display: block;
+            font-size: 18px;
+            line-height: 25px;
+        }
+    }
+}
+
+.portfolio-details-single {
+    position: relative;
+    margin-top: -140px;
+    max-width: 1110px;
+    width: 100%;
+    .pd-qoute {
+        position: relative;
+        background-color: $elementsColor;
+        padding: 40px;
+        margin-bottom: 50px;
+        p {
+            margin-bottom: 0px;
+            color: $primaryColor;
+            font-size: 18px;
+            font-style: italic;
+        }
+    }
+    
+    .pd-img {
+        position: relative;
+        width: 100%;
+        margin-bottom: 25px;
+        img {
+            width: 100%;
+        }
+        
+    }
+    p {
+        font-size: 16px;
+        letter-spacing: 0px;
+        line-height: 26px;
+        color: $secondaryColor;
+        margin-bottom: 25px;
+    }
+    h4 {
+        color: #1d242c;
+        font-size: 30px;
+        letter-spacing: 0px;
+        line-height: 40px;
+        margin-bottom: 15px;
+    }
+    
+}
+
+.you-may-like-also {
+    position: relative;
+    border-top: 1px solid #dfdfdf;
+    margin-top: 40px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    h4 {
+        color: #1d242c;
+        font-size: 28px;
+        letter-spacing: 0px;
+        line-height: 40px;
+        margin-bottom: 15px;
+    }
+}
+
+.you-may-like-also 
+
+
+.spV2 {
+    position: relative;
+    &:before {
+        display: none;
+    }
+    .ps-img {
+        a {
+            display: block;
+            position: relative;
+            &:before {
+                position: absolute;
+                content: '';
+                height: 100%;
+                width: 100%;
+                background-color: rgba(254, 70, 70, .35);
+                top: 0;
+                left: 0;
+                @include transition(all, .5s, ease);
+                opacity: 0;
+                z-index: 1;
+            }
+        }
+        img {
+            @include transition(all, .5s, ease);
+        }
+    }
+    &:hover {
+        .ps-img {
+            img {
+                transform: scale(1.25);
+            }
+        }
+        a {
+            :before {
+                opacity:1;
+            }
+        }
+        
+    }
+}
+
+/*----------------------------------------*/
+/*  Portfolio And Gallery Style
+/*----------------------------------------*/

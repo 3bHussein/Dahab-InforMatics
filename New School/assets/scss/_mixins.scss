@@ -1,0 +1,45 @@
+// Mixins
+
+// Transition Mixins
+@mixin transition($what, $time, $how) {
+    -webkit-transition: $what $time $how;
+    -moz-transition:    $what $time $how;
+    -ms-transition:     $what $time $how;
+    -o-transition:      $what $time $how;
+    transition:         $what $time $how;
+}
+//@include transition($what, $time, $how);
+
+// generic transform mixin
+@mixin transform($transforms) {
+    -moz-transform: $transforms;
+      -o-transform: $transforms;
+     -ms-transform: $transforms;
+ -webkit-transform: $transforms;
+       transform: $transforms;
+}
+//@include transform($transforms);
+
+// Animation Mixin
+@mixin animation($animationName, $animationDelay, $animationDuration, $timingFunction) {
+    -webkit-animation: $animationName $animationDelay $animationDuration $timingFunction;
+    -moz-animation: $animationName $animationDelay $animationDuration $timingFunction;
+    -ms-animation: $animationName $animationDelay $animationDuration $timingFunction;
+    animation: $animationName $animationDelay $animationDuration $timingFunction;
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

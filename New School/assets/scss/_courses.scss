@@ -1,0 +1,584 @@
+/*----------------------------------------*/
+/*  Courses Style 1
+/*----------------------------------------*/
+
+.courses-page-wrapper {
+    position: relative;
+    padding: 80px 0px;
+}
+
+.cpw-head {
+    position: relative;
+    text-align: center;
+    margin-bottom: 25px;
+    h4 {
+        font-size: 28px;
+        letter-spacing: 0px;
+        line-height: 34px;
+    }
+}
+.teacher-details-area {
+    position: relative;
+    padding-top: 80px;
+}
+
+.teacher-text {
+    position: relative;
+    margin: 25px auto;
+    .tt-head {
+        position: relative;
+        border-bottom: 1px solid #5d608c;
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+        h4 {
+            font-size: 30px;
+            letter-spacing: 0px;
+            line-height: 38px;
+        }
+        p {
+            color: #fe4646;
+            font-size: 16px;
+            line-height: 22px;
+        }
+    }
+}
+
+ul.tsc-icon-list {
+    position: relative;
+    padding: 0;
+    list-style-type: none;
+    li {
+        position: relative;
+        display: inline-block;
+        a {
+            display: block;
+            position: relative;
+            color: #5d6083;
+            padding: 10px;
+            line-height: 14px;
+            font-size: 14px;
+            width: 30px;
+            height: 34px;
+            text-align: center;
+            &:hover {
+                color: #fe4646;
+            }
+        }
+    }
+}
+
+
+.popular-courses-area {
+    position: relative;
+    padding-bottom: 140px;
+    .section-titleV1 {
+        margin-bottom: 25px;
+    }
+    
+}
+
+
+.single-courses {
+    position: relative;
+    max-width: 350px;
+    margin: 15px auto;
+    .sc-img {
+        position: relative;
+        max-height: 350px;
+        overflow: hidden;
+        img {
+            @include transition(all, .5s, ease);
+        }
+    }
+    .sc-text{
+        position: relative;
+        padding: 15px;
+        border: 1px solid #ebebeb;
+        ul.sc-ratings {
+            position: relative;
+            padding: 0;
+            list-style-type: none;
+            display: inline-block;
+            li {
+                position: relative;
+                display: inline-block;
+                color: $nonary;
+                letter-spacing: 0px;
+                font-size: 16px;
+            }
+        }
+        h4 {
+            color: $tertiaryColor;
+            font-size: 24px;
+            letter-spacing: 0px;
+            line-height: 30px;
+            margin: 10px auto;
+            a {
+                color: inherit;
+                font-size: inherit;
+                letter-spacing: inherit;
+                line-height: inherit;
+                
+            }
+            
+        }
+        p {
+            color: $secondaryColor;
+            font-size: 16px;
+            line-height: 26px;
+            font-weight: 400;
+            margin: 10px auto;
+        }
+        .sc-rBox {
+            span {
+                color: $secondaryColor;
+                font-size: 14px;
+                letter-spacing: 0px;
+                line-height: 24px;
+                display: inline-block;
+                padding-left: 5px;
+            }
+        }
+        .sc-enroll {
+            ul {
+                position: relative;
+                padding: 0;
+                margin: 20px auto 5px;
+                li {
+                    position: relative;
+                    list-style-type: none;
+                    display: inline-block;
+                    width: 50%;
+                    margin-right: 0px;
+                    font-size: 14px;
+                    letter-spacing: 0px;
+                    color: $secondaryColor;
+                    svg {
+                        font-size: 18px;
+                        margin-right: 5px;
+                        margin-left: 5px;
+                        color: $elementsColor;
+                    }
+                    &:last-child {
+                        margin-right: 0px;
+                        margin-left: -10px;
+                        text-align: right;
+                    }
+                    
+                }
+            }
+        }
+    }
+    &:hover {
+        .sc-img {
+            img {
+                transform: scale(1.10);
+            }
+        }
+        h4 {
+            color: $elementsColor;
+            a {
+                color: $elementsColor;
+            }
+        }
+    }
+    
+}
+
+
+
+
+.most-effective-course-area {
+    position: relative;
+    padding-top: 90px;
+    padding-bottom: 160px;
+}
+
+.mfc-wrapper {
+    position: relative;
+    .row {
+        margin: 0 auto;
+    }
+    .col-md-4 {
+        padding: 0px;
+    }
+    
+}
+
+.mfc-title {
+    position: relative;
+    background-color: $tertiaryColor;
+    min-height: 400px;
+    padding-top: 20px;
+    .section-titleV2 {
+        margin: 0px auto;
+        text-align: left;
+        padding: 40px;
+        h3 {
+            color: $primaryColor;
+            font-size: 32px;
+            line-height: 36px;
+            font-weight: 500;
+        }
+        p {
+            color: $primaryColor;
+            font-size: 16px;
+            line-height: 26px;
+            font-weight: 400;
+            margin: 20px auto 10px;
+        }
+    }
+    a.btn-style-a {
+        left: 40px;
+        bottom: 20px;
+        
+    }
+}
+
+.scV2 {
+    position: relative;
+    max-width: 370px;
+    margin: 0 auto;
+    .sc-img {
+        position: relative;
+        max-height: 400px;
+        .sc-plan {
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            z-index: 1;
+            background-color: #fcc73e;
+            letter-spacing: 0px;
+            color: $primaryColor;
+            padding: 5px 15px;
+            font-size: 14px;
+            line-height: 22px;
+            display: inline-block;
+            span,
+            a {
+                color: $primaryColor;
+                font-size: 14px;
+                letter-spacing: 0px;
+            }
+        }
+    }
+    .sc-text {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background-color: rgba(0, 0, 0, .6);
+        z-index: 1;
+        h4,
+        h4 a {
+           color: $primaryColor;
+           @include transition(all, .5s, ease);
+       }
+       .sc-rBox {
+            span {
+                color: $primaryColor;
+            }
+       }
+    
+    }
+}
+
+
+a.scfc-wrapper {
+    position: relative;
+    &:hover {
+        .sc-text {
+            h4 {
+                color: $elementsColor;
+            }
+        }
+    }
+}
+
+/*--------- Courses Style 1 END ------------*/
+
+
+/*----------------------------------------*/
+/*  Courses Style 2
+/*----------------------------------------*/
+.popular-usefull-courses {
+    position: relative;
+    max-width: 1366px;
+    margin: 0 auto;
+    overflow: hidden;
+    .container-fluid {
+        padding: 0px;
+    }
+}
+
+.puc-single {
+    position: relative;
+    padding: 60px 0px;
+    img.puc-bg {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        top: 0;
+        left: 0;
+    }
+    .puc-text {
+        position: relative;
+        z-index: 1;
+        padding: 60px 40px;
+        max-width: 400px;
+        margin: 0px auto;
+        h4 {
+            color: $primaryColor;
+            font-size: 30px;
+            line-height: 40px;
+            margin-bottom: 30px;
+            letter-spacing: 0px;
+            font-weight: 100;
+        }
+        
+    }
+}
+
+/*--------- Courses Style 2 END ------------*/
+
+
+/*----------------------------------------*/
+/*  Courses Details Style 
+/*----------------------------------------*/
+
+.courses-enroll-area {
+    position: relative;
+    background-image: url(../img/bg/enroll-section-bg.jpg);
+    background-position: center center;
+    background-size: cover;
+    padding: 60px 0px;
+}
+.cea-text {
+    position: relative;
+    text-align: center;
+    margin: 25px auto;
+    max-width: 600px;
+    h3 {
+        font-size: 48px;
+        color: $primaryColor;
+        letter-spacing: 0px;
+        font-weight: 100;
+        line-height: 60px;
+        margin-bottom: 120px;
+        position: relative;
+        &:before {
+            position: absolute;
+            content: '';
+            height: 80px;
+            width: 3px;
+            background-color: $primaryColor;
+            bottom: -100px;
+            left: calc(50% - 2px);
+        }
+    }
+}
+
+.courses-details-page-wrapper {
+    position: relative;
+}
+
+.enroll-btn-wrapper {
+    position: relative;
+    padding: 50px 0px 0px;
+    margin: 60px auto 40px;
+    width: 100%;
+    max-width: 150px;
+    text-align: left;
+    margin-right: 0;
+    a {
+        margin-bottom: 3px;
+    }
+    span {
+        display: block;
+        color: #000000;
+        font-size: 18px;
+        letter-spacing: 0px;
+        font-weight: 500;
+        padding-left: 20px;
+        line-height: 26px;
+        position: relative;
+        &:before {
+            position: absolute;
+            content: '';
+            height: 15px;
+            width: 15px;
+            background-color: $elementsColor;
+            top: 6px;
+            left: 0;
+        }
+    }
+}
+
+
+.course-details-content {
+    position: relative;
+    padding-bottom: 80px;
+    .cdc-thumb {
+        position: relative;
+        background-color: $primaryColor;
+        margin-top: -80px;
+        box-shadow: 0px 0px 45.54px 0.46px rgba(39, 43, 60, 0.07);
+    }
+    
+}
+
+ul.course-info {
+    position: relative;
+    list-style-type: none;
+    padding: 25px;
+    li {
+        color: $octonary;
+        font-size: 16px;
+        letter-spacing: 0px;
+        line-height: 24px;
+        margin: 25px auto;
+        position: relative;
+        padding-left: 25px;
+        z-index: 1;
+        display: block;
+        img {
+            width: 16px;
+            height: 16px;
+            margin-right: 5px;
+            position: absolute;
+            left: 0;
+            top: 3px;
+        }
+        span {
+            width: 50%;
+            position: relative;
+            margin-top: -24px;
+            display: block;
+            margin-right: 0;
+            margin-left: auto;
+        }
+    }
+}
+
+
+.course-details-content {
+    h4 {
+        font-size: 26px;
+        line-height: 30px;
+        margin-bottom: 20px;
+        letter-spacing: 0px;
+        font-weight: 500;
+    }
+    
+    .cdc-text {
+        position: relative;
+        padding: 40px 0px;
+        h5 {
+            font-size: 30px;
+            line-height: 38px;
+            font-weight: 600;
+            margin-bottom: 20px;
+            letter-spacing: 0px;
+            color: $septenary;
+        }
+        
+    }
+}
+
+
+.what-will-learn {
+    position: relative;
+    ul {
+        position: relative;
+        margin: 25px auto;
+        padding: 0px;
+        list-style-type: none;
+        li {
+            font-size: 20px;
+            letter-spacing: 0px;
+            line-height: 22px;
+            margin: 25px auto;
+            position: relative;
+            display: block;
+            color: $octonary;
+            padding-left: 20px;
+            &:before {
+                position: absolute;
+                content: '';
+                height: 12px;
+                width: 12px;
+                border-radius: 50%;
+                background-color: $septenary;
+                left: 0;
+                top: 5px;
+            }
+        }
+    }
+}
+
+.meet-instructor {
+    position: relative;
+}
+
+.instructor-box {
+    position: relative;
+    box-shadow: 0px 0px 45.54px 0.46px rgba(39, 43, 60, 0.07);
+    padding: 12px;
+    img {
+        max-width: 160px;
+        display: inline-block;
+    }
+    .instructor-info {
+        position: absolute;
+        width: calc(100% - 180px);
+        display: inline-block;
+        padding: 15px;
+        h5 {
+            font-size: 30px;
+            letter-spacing: 0px;
+            color: $septenary;
+            line-height: 36px;
+            margin-top: 10px;
+            a {
+                font-size: inherit;
+                letter-spacing: inherit;
+                color: inherit;
+                line-height: inherit;;
+            }
+        }
+        p {
+            color: $septenary;
+            font-size: 18px;
+            font-weight: 500;
+            line-height: 24px;
+        }
+        .associated-rel {
+            position: relative;
+            margin-top: 20px;
+            p {
+                display: inline-block;
+                font-size: 16px;
+                letter-spacing: 0px;
+                color: $septenary;
+                margin-right: 20px;
+            }
+            img {
+                display: inline-block;
+            }
+        }
+    }
+    
+}
+
+.recommended-courses-area {
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    .section-titleV1 {
+        margin-left: 0px;
+    }
+}
+
+
+/*--------- Courses Details Style END ------------*/

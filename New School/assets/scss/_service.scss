@@ -1,0 +1,179 @@
+/*----------------------------------------*/
+/*  Service Style 1
+/*----------------------------------------*/
+.service-slider-area {
+    position: relative;
+    margin-top: -90px;
+    padding-bottom: 120px;
+}
+
+.service-carousel {
+    position: relative;
+    .item {
+        position: relative;
+    }
+    .owl-nav {
+        position: absolute;
+        width: calc(100% + 150px);
+        left: -75px;
+        margin: 0px auto;
+        top: calc(50% - 30px);
+        z-index: -1;
+        [class*=owl-] {
+            height: 50px;
+            width: 50px;
+            background-color: $elementsColorIV;
+            border-radius: 50%;
+            @include transition(all, .5s, ease);
+            font-size: 26px;
+            padding-top: 13px;
+            text-align: center;
+            &:hover {
+                background-color: $elementsColor;
+            }
+        }
+        .owl-prev {
+            float: left;
+        }
+        .owl-next {
+            float: right;
+        }
+    }
+}
+
+
+.single-service {
+    position: relative;
+    max-width: 380px;
+    background-color: $elementsColor;
+    padding: 25px;
+    z-index: 1;
+    @include transition(all, .5s, ease);
+    img.ss-hover-icon {
+        position: absolute;
+        max-width: 200px;
+        max-height: 185px;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        top: 15px;
+        left: 15px;
+        z-index: -1;
+        @include transition(all, .5s, ease);
+    }
+    &:hover {
+        //background-color: $tertiaryColor;
+        img.ss-hover-icon {
+            opacity: 0;
+        }
+        img {
+            transform: rotate(360deg);
+        }
+    }
+    .ss-icon {
+        max-width: 60px;
+        height: 60px;
+        img {
+            margin: 15px auto;
+            transition: .99s ease;
+        }
+        
+    }
+    .ss-text {
+        position: relative;
+        h4 {
+            font-size: 30px;
+            letter-spacing: 0px;
+            color: $primaryColor;
+            line-height: 40px;
+            font-weight: 300;
+            margin: 12px auto;
+        }
+        p {
+            font-size: 16px;
+            letter-spacing: 0px;
+            line-height: 24px;
+            color: $primaryColor;
+            font-weight: 300;
+            margin: 12px auto;
+        }
+        a {
+            display: inline-block;
+            font-size: 16px;
+            letter-spacing: 0px;
+            color: $primaryColor;
+            text-decoration: underline;
+            line-height: 24px;
+            &:hover {
+                color: $tertiaryColor;
+            }
+        }
+    }
+    
+}
+.ss-bg1 {
+    background-color: #3d84c6;
+}
+.ss-bg2 {
+    background-color: #4cc083;
+}
+.ss-bg3 {
+    background-color: #fcc73e;
+}
+.popular-learning-area {
+    position: relative;
+    padding-top: 70px;
+    .section-titleV2 {
+        padding-bottom: 40px;
+    }
+}
+
+.ssV2 {
+    background-color: $primaryColor;
+    border: 1px solid #e1e1e1;
+    margin-bottom: 30px;
+    .ss-text {
+        h4 {
+            color: $tertiaryColor;
+        }
+        p {
+            color: $secondaryColor;
+        }
+        a {
+            color: $tertiaryColor;
+        }
+        
+    }
+    .ss-icon {
+        img.hIcon {
+            display: none;
+        }
+    }
+    &:hover {
+        background-color: $elementsColorIV;
+        h4, p, a {
+            color: $primaryColor;
+        }
+        img.ss-hover-icon {
+            opacity: 0;
+        }
+    
+        .ss-icon img {
+            display: none;
+        }
+    
+        .ss-icon {
+            img.hIcon {
+                display: block;
+            }
+        }
+    }
+}
+
+
+.ss-icon {
+    img {
+        display: block;
+    }
+}
+/*--------- Service Style 1 END ------------*/
