@@ -1,0 +1,3509 @@
+/*Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 1491px) and (max-width: 1610px) {
+
+    .event-btn {padding: 15px 13px 15px 13px;}
+    .single-event .kids-care-btn {padding: 9px 6px;}
+    .intro-left {width: 50%;}
+    .intro-left h3 { line-height: 21px;}
+    .to-do-content {margin-top: 70px;}
+    .subscribe-link {padding-right: 0px;}
+    .event-btn .kids-care-btn {
+        padding: 9px 21px;
+        padding-left: 11px;
+    }
+    .class-are-inner-width {width: 78%;}
+    .facil-content {
+        padding-left: 70px;
+        padding-right: 15px;
+    }
+    .sin-fac p { padding-right: 10px;}
+    .news-det a {
+        width: 40px;
+        height: 40px;
+        font-size: 26px;
+        line-height: 40px;
+        margin-top: 6px;
+    }
+    .sin-staff-with-con {
+    margin-bottom: 40px;
+    }
+    .sin-staff-with-con {
+    height: 377px;
+}
+    .sin-staff {
+    height: 100%;
+}
+.sin-staff-right-con {
+    height: 100%;
+}
+    /*--------------------------------------------------*/
+}
+
+/* Extra large devices (large desktops, 1200px and up)                       */
+
+@media (min-width: 1331px) and (max-width: 1490px) {
+
+    .single-features h3 {
+        font-size: 23px;
+        margin-bottom: 13px;
+    }
+    .intro-left { width: 54%;}
+    .age {padding: 8px 9px; }
+    .single-testimonial {padding: 0 300px;}
+    .event-btn { padding: 15px 13px 15px 13px;}
+    .event-btn .kids-care-btn {
+        padding: 9px 21px;
+        padding-left: 5px;
+    }
+    .event-btn {padding: 15px 10px 15px 10px;}
+    .event-btn span {
+        font-size: 15px;
+        padding-top: 12px;
+    }
+    .to-do-content { margin-top: 50px;}
+    .to-do-content h3 {font-size: 22px;}
+    .subscribe-link {padding-right: 0px;}
+    .mainmenu li a {
+        font-size: 17px;
+        padding: 28px 15px;
+
+    }
+    .mega-menu {left: -54px;}
+    .mega-menu.mm-two {left: -326px;}
+    .wel3-oneside {
+        width: 100%;
+        padding-left: 0%;
+    }
+    .class-are-inner-width {
+        width: 89%;
+        margin: 0 auto;
+    }
+    .facil-content {
+        padding-left: 25px;
+        padding-right: 5px;
+    }
+    .heading-para {width: 60%;}
+    .ser-det {padding-left: 20px;}
+    .sin-ser img {width: 66px;}
+    .ser-det {padding-left: 20px;}
+    .sin-ser {margin-bottom: 40px;}
+    .ser-det h2 {font-size: 21px;}
+    .play-det {padding-left: 20px;}
+    .childcare-service .area-heading {font-size: 40px;}
+    .tab-carousel .owl-stage-outer,
+    .play-area .owl-carousel .owl-stage-outer::before { width: 411px;}
+    .tab-carousel {margin-top: 83px;}
+    .pro-price {
+        font-size: 17px;
+        margin-top: 7px;
+    }
+    a.pro-title {font-size: 23px;}
+    .price-range input[type="text"] {width: 66%; }
+    .news-det a {
+        position: absolute;
+        right: -15px;
+        top: 10px;
+        width: 29px;
+        height: 29px;
+        font-size: 24px;
+        line-height: 29px;
+    }
+    .con-top-sin {
+	padding-left: 34px;
+    }
+    .class-name.style-two::before {
+    border-width: 32px 0 25px 200px;
+     top:-32px;
+}
+.class-name::before {
+    border-width: 32px 200px 25px 0;
+
+    top: -32px;
+}
+    .class-name {
+    height: 60px;
+    width: 200px;
+}
+    
+    .sin-up-content {
+    padding: 30px 15px;
+}
+    .ln3-cont {
+    padding: 30px 20px 15px;
+}
+    .countdown-one .img-left-tes {
+    left: 100px;
+}
+.countdown-one .img-right-tes {
+    right: 0px;
+}
+    /*----------*/
+    .sin-staff-right-con p {
+	line-height: 25px;
+}
+    .sin-staff-right-con {
+	padding: 9px 12px;
+}
+    .sin-staff-qulity {
+	margin-top: 8px;
+}
+    .sin-staff-with-con .staff-soc ul li a {
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	font-size: 13px;
+}
+    .sin-staff-with-con {
+	margin-bottom: 30px;
+}
+    .sin-staff-with-con .staf-det h4 {
+	font-size: 17px;
+}
+    .nutrition-area table {
+	font-size: 16px;
+}
+    /*-----------------------------------------------*/
+}
+
+
+@media(max-width: 1430px) {
+
+
+    .top-contact-btn { margin-left: 30px;}
+    .slider-text.sldr-two h1 {font-size: 63px;}
+    .sldr-two p {
+        font-size: 30px;
+        margin-bottom: 24px;
+    }
+    .teacher-social li {margin-right: 14px; }
+    .teacher-detail h4 {font-size: 18px;
+    }
+    .teacher-social li a {font-size: 18px;}
+    .post-meta {top: 34px;}
+        .class-name.style-two::before {
+    border-width: 32px 0 25px 200px;
+     top:-32px;
+}
+.class-name::before {
+    border-width: 32px 200px 25px 0;
+
+    top: -32px;
+}
+    .class-name {
+    height: 60px;
+    width: 200px;
+}
+}
+
+
+
+@media (min-width: 1200px) and (max-width: 1330px) {
+
+    .mainmenu li a {
+        padding: 28px 8px;
+        font-size: 16px;
+    }
+    .mega-menu.mm-two {left: -379px;}
+    .mega-menu {left: -147px;}
+    .top-contact-btn {margin-left: 20px;}
+    .bg-1,
+    .bg-2,.bg-3 {
+        height: 562px;
+    }
+    .slider-text.sldr-two h1 {font-size: 60px;}
+    .slider-text {padding-top: 180px;}
+    .single-features h3 {
+        font-size: 19px;
+        margin-bottom: 13px;
+    }
+    .age {
+        padding: 0px 0px;
+        color: #8bc34a;
+        text-align: left;
+        background: #fff;
+    }
+    .intro-left span {margin-top: 2px;}
+    .intro-left {width: 100%;}
+    .single-class .intro-right {
+        float: left;
+        padding-top: 0px;
+    }
+    .teacher-social li a {
+        font-size: 17px;
+    }
+    .teacher-social li {
+        margin-right: 13px;
+    }
+    .teacher-detail h4 {
+        font-size: 17px;
+    }
+    .teacher-detail {
+        padding: 22px 15px;
+    }
+    .single-testimonial {
+        padding: 0 200px;
+    }
+    .img-left-tes {
+        width: 330px;
+        left: 100px;
+    }
+    .img-right-tes {
+        width: 390px;
+        right: 35px;
+    }
+    .intro-right {
+        float: left;
+        padding-top: 0px;
+    }
+    .event-btn .kids-care-btn {
+        font-size: 13px;
+        padding: 9px 14px;
+        padding-right: 24px;
+    }
+    .event-btn a::after {
+        top: 12px;
+        font-size: 17px;
+    }
+    .event-btn {
+        padding: 15px 5px 15px 8px;
+    }
+    .event-btn span {
+        font-size: 14px;
+    }
+    .single-event {
+        padding: 15px;
+    }
+    .to-do-content p {
+        font-size: 14px;
+        padding-top: 12px;
+    }
+    .to-do-content h3 {
+        font-size: 20px;
+    }
+    .to-do-content {
+        margin-top: 35px;
+    }
+    .newsletter-area p {
+        font-size: 14px;
+    }
+    .subscribe-link {
+        padding-right: 0px;
+    }
+    .single-widget p {
+        font-size: 14px;
+        margin-bottom: 12px;
+    }
+    .footer-about li {
+        font-size: 14px;
+    }
+    .footer-widget {
+        padding: 65px 0 60px;
+    }
+    .test-img {
+        width: 80px;
+        height: 80px;
+        border: 5px solid #fff;
+    }
+    .subscribe-link input {
+        width: 290px;
+    }
+    .footer-widget::after {
+        right: 76px;
+
+    }
+    .footer-widget:hover::after {
+        right: 150px;
+
+    }
+    /*----secound home page start---*/
+    .mainmenu-two li a {
+        padding: 13px 16px;
+    }
+    .con-top-sin {
+        padding-left: 24px;
+    }
+    .tab-carousel .owl-stage-outer {
+        width: 350px;
+    }
+    .play-area .owl-carousel .owl-stage-outer::before {
+        width: 350px;
+    }
+    .sin-wel-3-con h3 {
+        font-size: 23px;
+    }
+    .wel3-oneside {
+        width: 100%;
+        padding-left: 0%;
+    }
+    .class-are-inner-width {
+        width: 100%;
+    }
+    .facil-content {
+        padding-left: 0px;
+        padding-right: 15px;
+    }
+    .heading-para {
+        width: 75%;
+    }
+    .sin-fac {
+        padding-right: 10px;
+    }
+    .sin-ser img {
+        float: none;
+    }
+    .sin-ser {
+        text-align: center;
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    .ser-det {
+        width: 100%;
+        text-align: center;
+        margin-top: 20px;
+        padding-left: 0px;
+    }
+    .play-det {
+        padding-left: 15px;
+    }
+    .nl2-phone-number {
+        margin-left: 60px;
+    }
+    .newsletter-two span {
+        margin-right: 30px;
+    }
+    .subscribe-link.style-two input {
+        width: 240px;
+    }
+    .sin-quick-con p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .childcare-service .area-heading {
+        font-size: 38px;
+    }
+    .tab-carousel .owl-stage-outer,
+    .play-area .owl-carousel .owl-stage-outer::before {
+        width: 337px;
+    }
+    .tab-carousel {
+        margin-top: 154px;
+    }
+    .news-det a {
+        position: absolute;
+        right: 0;
+        top: 15px;
+    }
+    .wellcome-video-area .wellcome-content.style-two {
+        margin-top: 50px;
+    }
+    .sin-download a img {
+        width: 60px;
+    }
+    .down-text {
+        padding-left: 18px;
+        padding-right: 10px;
+        padding-top: 0px;
+    }
+    .video_content_two {
+        height: 302px;
+        padding-top: 83px;
+    }
+    .infant-care-inner {
+        width: 70%;
+    }
+    .video_content_two.bg-3 {
+        height: 319px;
+        padding-top: 95px;
+        margin-top: 23px;
+    }
+    .bottom-tut p {
+        font-size: 15px;
+
+        padding-left: 13px;
+    }
+    .tution-table-footer p {
+        font-size: 16px;
+    }
+    .dis-image {
+        margin-left: 106px;
+    }
+    .pro-price {
+        font-size: 15px;
+        margin-top: 4px;
+    }
+    a.pro-title {
+        font-size: 21px;
+    }
+    .price-range input[type="text"] {
+        width: 66%;
+
+    }
+    .rating i {
+        font-size: 14px;
+    }
+    .sm-img-right a.pro-title {
+        font-size: 16px;
+    }
+    .list-product {
+        min-height: 292px;
+    }
+    .list-product p {
+        font-size: 15px;
+        padding: 8px 0px 1px;
+
+    }
+    .variable-area {
+        width: 80%;
+    }
+    .sin-line {
+        padding: 37px 20px;
+    }
+    .writer-img img {
+        height: 92px;
+        width: 92px;
+        border: 2px solid #ebebeb;
+    }
+    .writer-img {
+        padding-top: 33px;
+    }
+    .text-bread-crumb.bc-style-two {
+        height: 305px;
+        padding-top: 214px;
+    }
+    .sin-sidebar {
+        padding: 35px 25px;
+    }
+    .related-post-area {
+        padding: 30px 25px;
+    }
+    .post-meta .meta-date a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .post-meta .meta-date a span {
+        font-size: 18px;
+        display: block;
+    }
+    .post-meta div {
+        height: 80px;
+
+    }
+    .post-meta .meta-date {
+        padding: 10px 12px;
+    }
+    .post-meta .meta-comments a {
+        font-size: 16px;
+    }
+    .post-meta {
+        width: 70px;
+        top: 41px;
+        left: -54px;
+    }
+    .video_content {
+	margin-top: 53px;
+    }
+        .class-name.style-two::before {
+    border-width: 32px 0 25px 180px;
+     top:-32px;
+}
+.class-name::before {
+    border-width: 32px 180px 25px 0;
+
+    top: -32px;
+}
+    .class-name {
+    height: 60px;
+    width: 180px;
+}
+    .ex-detail {
+    padding-left: 12px;
+}
+    .sin-up-content {
+    padding: 35px 15px;
+}
+    .sin-up-content p {
+    padding: 15px 0 20px;
+}
+    .ln3-cont {
+    padding: 30px 15px 15px;
+}
+ .footer-widget.style-three .single-widget {
+    padding: 0 0px;
+}
+     .footer-widget.style-three .footer-tab a {
+    font-size: 14px;
+    padding: 7px 7px;
+}
+    
+.footer-widget.style-three .post-brif a {
+    font-size: 14px;
+}
+    .sin-con a {
+    font-size: 14px;
+}
+    .footer-widget.style-three .sin-con:first-child {
+    padding-bottom: 0px;
+}
+    .footer-widget.style-three .single-widget h3 {
+    font-size: 28px;
+}
+    /*----------*/
+    .sin-staff-right-con p {
+	line-height: 25px;
+}
+    .sin-staff-right-con {
+	padding: 9px 12px;
+}
+    .sin-staff-qulity {
+	margin-top: 8px;
+}
+    .sin-staff-with-con .staff-soc ul li a {
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	font-size: 13px;
+}
+    .sin-staff-with-con {
+	margin-bottom: 30px;
+}
+    .sin-staff-with-con .sin-staff {
+	margin-top: 35px;
+}
+    .sin-staff-with-con .staf-det h4 {
+	font-size: 17px;
+}
+    .sin-sidebar {
+	padding: 20px 15px;
+}
+    /*---------------*/
+
+}
+
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    .top-bar span {
+        padding: 2px 0px;
+        margin-top: 0px;
+        font-size: 12px;
+    }
+    .first-span {
+        border-right: 0px solid #19b4fa;
+        width: 100%;
+    }
+
+    .mainmenu > ul > li i {
+        margin-left: 3px;
+    }
+    .mainmenu li a {
+        font-size: 15px;
+        padding: 28px 11px;
+    }
+    .mega-menu.mm-two {
+        left: -334px;
+    }
+    .mega-menu {
+	left: -230px;
+    }
+    .mega-menu.mega-menu-three {
+	left: -145px;
+}
+    .logo {
+        padding-top: 15px;
+        text-align: center;
+    }
+    .bg-1,
+    .bg-2,.bg-3 {
+        height: 450px;
+    }
+    .slider-text {
+        padding-top: 140px;
+    }
+    .slider-text.sldr-two {
+        padding-left: 87px;
+        padding-top: 96px;
+    }
+    .single-features {
+        margin-bottom: 30px;
+    }
+    .wellcome-area-wrapper {
+        padding: 42px 0px;
+        background-size: 83%;
+    }
+    .wellcome-content p {
+        color: #919889;
+        margin-bottom: 30px;
+    }
+    .call-to-action-area p {
+        font-size: 15px;
+        font-family: 'Museo-500';
+        line-height: 38px;
+    }
+    .custom-container {
+        max-width: 1050px;
+    }
+    .single-class img {
+        width: 100%;
+    }
+    .teacher-detail h4 {
+        font-size: 16px;
+    }
+    .teacher-social li {
+        margin-right: 10px;
+    }
+    .teacher-social li a {
+        font-size: 14px;
+    }
+    .img-left-tes {
+        width: 290px;
+        left: 45px;
+    }
+    .img-right-tes {
+        width: 311px;
+        right: 30px;
+    }
+    .test-img {
+        width: 80px;
+        height: 80px;
+        border: 5px solid #fff;
+    }
+    .single-testimonial {
+        padding: 0 100px;
+    }
+    .single-event {
+        margin-bottom: 45px;
+    }
+    .sin-gallery {
+        padding: 5px;
+    }
+    .sin-gallery .gallery-overlay {
+        padding: 5px;
+    }
+    .gallery-content h4 {
+        font-size: 18px;
+    }
+    .sin-gallery .gallery-content a {
+        margin-bottom: 0px;
+    }
+    .kids-care-routine-area table {
+        font-size: 15px;
+    }
+    .single-event img {
+        width: 100%;
+    }
+    .subscribe-link {
+        margin-top: 18px;
+    }
+    .subscribe-link input {
+        height: 40px;
+        width: 213px;
+    }
+    .subscribe-link .kids-care-btn {
+        padding: 7px 26px;
+        font-size: 14px;
+    }
+    .newsletter-area h4 {
+        font-size: 25px;
+    }
+    .newsletter-area p {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    .newsletter-area .subscribe-link {
+        padding-right: 0px;
+    }
+    .newsletter-area {
+        height: 150px;
+    }
+    .single-widget h3 {
+        font-size: 22px;
+        margin-bottom: 8px;
+    }
+    .single-widget p {
+        font-size: 14px;
+        margin-bottom: 10px;
+        padding-right: 0px;
+    }
+    .single-widget {
+        padding: 0 0px;
+    }
+    .footer-about li {
+        margin-bottom: 7px;
+        font-size: 14px;
+    }
+    .footer-widget {
+        padding: 60px 0 60px;
+    }
+    .footer-widget::after {
+        right: 51px;
+
+    }
+    .footer-widget:hover::after {
+        right: 150px;
+    }
+    .top-bar.style-two .cart-area {
+        background: none;
+    }
+    .con-top-sin p {
+        padding-left: 42px;
+        font-size: 15px;
+    }
+    .contact-area-two img {
+        width: 30px;
+    }
+    .con-top-sin {
+        padding-left: 9px;
+    }
+    .contact-area-two {
+        padding-top: 15px;
+    }
+    .mainmenu-two.style-two {
+        float: left !important;
+    }
+    .mainmenu-two li a {
+        font-size: 15px;
+        padding: 13px 11px;
+    }
+    .heading-para {
+        width: 70%;
+    }
+    .mainmenu-two li a::after {
+        content: '';
+    }
+    .mainmenu-two li a {
+        padding: 13px 9px;
+    }
+    .reg-area .search {
+        margin-right: 8px;
+    }
+    .menu-area-two .search-input {
+        top: -9px;
+    }
+    .sin-feature-two h3 {
+        font-size: 15px;
+        padding: 22px 0px 6px;
+    }
+    .feature-intro {
+        margin-top: 20px;
+    }
+    .heading-para {
+        width: 95%;
+    }
+    .wel3-oneside {
+        width: 100%;
+        padding-left: 0%;
+    }
+    .sin-counter p {
+        font-size: 35px;
+    }
+    .sin-counter span {
+        font-size: 18px;
+    }
+    .class-are-inner-width {
+        width: 100%;
+    }
+    .facil-content {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .fac-image {
+        margin-top: 87px;
+    }
+    .sin-ser img {
+        float: none;
+    }
+    .sin-ser {
+        text-align: center;
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    .ser-det {
+        width: 100%;
+        text-align: center;
+        margin-top: 20px;
+        padding-left: 0px;
+    }
+    .tab-carousel .owl-stage-outer,
+    .play-area .owl-carousel .owl-stage-outer::before {
+        width: 425px;
+        margin: 0 auto
+    }
+    .tab-carousel {
+        margin-top: 80px;
+    }
+    .news-det a {
+        position: absolute;
+        top: 5px;
+        right: 0;
+    }
+    .news-meta span {
+        padding-top: 4px;
+        display: block;
+    }
+    .news-meta {
+        position: relative;
+    }
+    .nl2-phone-number {
+        font-size: 25px;
+        margin-left: 25px;
+    }
+    .newsletter-two span {
+        font-size: 33px;
+        margin-right: 30px;
+    }
+    .subscribe-link input {
+        width: 193px;
+    }
+    .sin-tab-carousel.item {
+        height: 270px;
+    }
+    .video_content {
+        width: 437px;
+        height: 259px;
+        margin-top: 50px;
+    }
+    .wellcome-video-area .wellcome-content.style-two {
+        padding-left: 29px;
+    }
+    .even-area {
+        padding: 50px 0px 33px 30px;
+    }
+    .image-breadcrumb {
+        height: 150px;
+    }
+    .sin-faciliti p {
+        font-size: 14px;
+    }
+    .down-text {
+        padding-right: 30px;
+    }
+    .video_content_two {
+        width: 100%;
+        height: 300px;
+    }
+    .down-text {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .video_content_two {
+        height: 323px;
+    }
+    .sin-faciliti p {
+        font-size: 14px;
+    }
+    .video_content_two {
+
+        height: 200px;
+        padding-top: 45px;
+    }
+    .infant-care-inner {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .kindergarten-top-content {
+        background-position: bottom;
+    }
+    .staff-full-inner {
+        padding: 40px 0;
+    }
+    .sin-tes-one {
+        padding: 30px 15px;
+    }
+    .testtimonial-two-area {
+        padding: 70px 0;
+    }
+    .tution-dis h3 {
+        font-size: 19px;
+    }
+    .dis-wrapper {
+        width: 400px;
+    }
+    .dis-image {
+        margin-top: 15px;
+    }
+    .tution-dis {
+        padding: 50px 0;
+    }
+    .variable-area {
+        width: 100%;
+    }
+    .cart-plus-minus-button {
+        margin-right: 22px;
+
+    }
+    .pro-share {
+        font-size: 15px;
+    }
+    .sin-line {
+        padding: 38px 17px;
+    }
+    .caontact-page {
+        padding: 70px 0px;
+    }
+    .sin-sidebar {
+        padding: 30px 15px;
+    }
+    .writer-img {
+        width: 25%;
+    }
+    .writer-details {
+        width: 75%;
+        padding-left: 30px;
+    }
+    .text-bread-crumb.bc-style-two {
+        height: 300px;
+        padding-top: 200px;
+    }
+    .post-page {
+        padding: 60px 0px;
+    }
+    .post-meta .meta-date a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .post-meta .meta-date a span {
+        font-size: 18px;
+        display: block;
+    }
+    .post-meta div {
+        height: 80px;
+    }
+    .post-meta .meta-date {
+        padding: 10px 12px;
+    }
+    .post-meta .meta-comments a {
+        font-size: 16px;
+    }
+    .post-meta {
+        width: 70px;
+        top: 41px;
+        left: -54px;
+    }
+    .post-meta {
+        top: 15px;
+        left: 16px;
+    }
+    .welcome-boxed .wellcome-area-wrapper {
+    padding: 28px 30px;
+}
+    .ex-icon {
+    width: 18%;
+}
+    .sin-expect {
+    margin-bottom: 22px;
+}
+    .expect-area {
+    padding: 130px 0px;
+}
+    .feature-area-wrapper.style-two .single-features h3 {
+    font-size: 20px;
+}
+    .feature-area-wrapper.style-two .single-features {
+    padding: 15px;
+}
+    .sin-upc-event-two img {
+    width: 100%;
+}
+    .sin-upc-event-two {
+    margin-bottom: 30px;
+}
+    .sin-lat-n3 img {
+    width: 100%;
+}
+    .sin-lat-n3 {
+    margin-bottom: 30px;
+}
+.footer-widget.style-three .sin-con img {
+    margin-right: 8px;
+    width: 17px;
+    margin-top: 5px;
+} 
+    .footer-widget.style-three .sin-con p {
+    padding-right: 0;
+}
+.footer-widget.style-three .sin-con p {
+    padding-left: 25px;
+}
+
+.footer-widget.style-three .fs-text {
+    font-size: 14px;
+    margin-right: 10px;
+    margin-top: 13px;
+}
+    .footer-widget.style-three .social-icon li a {
+    width: 26px;
+    font-size: 14px;
+    line-height: 25px;
+    margin-left: 0px;
+}
+    .footer-widget.style-three .footer-tab a {
+    font-size: 14px;
+    padding: 7px 6px;
+    margin-right: 5px;
+}
+    .footer-widget.style-three .post-brif {
+    padding-left: 14px;
+}
+    .footer-widget.style-three .post-brif a {
+    font-size: 14px;
+}
+    .footer-widget.style-three .sin-post img {
+    width: 47px;
+    margin-top: 9px;
+}
+    .footer-newsletter input {
+    width: 84%;
+    padding: 12px 7px;
+}
+    .footer-newsletter {
+    margin-top: 15px;
+}
+    .footer-widget.style-three .sin-post {
+    padding-bottom: 0px;
+}
+    .kids-care-gallery.style-three {
+    margin-top: 100px;
+}
+    .area-subline {
+    padding: 0 4%;
+    padding-bottom: 35px;
+}
+    .latest-news-three {
+    padding: 95px 0 60px;
+}
+    .countdown-one {padding: 100px 0 112px;}
+    .top-bar.style-three .first-span {border-right: 0px solid #eae669;}
+    .main-menu-area .menu-inner-wrapper::after {
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+    .menu-inner-wrapper {
+    box-shadow: none;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+     position: relative;
+        background: none;
+}
+    .feature-area-wrapper.style-two {
+    padding-top: 0px;
+    margin-top: 55px;
+    padding-bottom: 40px;
+}
+    .kids-care-teachers-area.style-3 {
+    padding-top: 100px;
+    padding-bottom: 45px;
+    }
+    .tes-popular {
+    padding: 120px 0 80px;
+    }    
+    .sin-gallery.style-b > h4 {
+	font-size: 22px;
+    }
+    .sin-gallery.style-b .gallery-content {
+	top: 38%;
+    }
+
+
+    
+    /*---------------*/
+}
+
+
+
+
+
+
+
+/* Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+    .container-fluid {
+        width: 96%;
+    }
+    .hide-sm {
+        display: none
+    }
+    .hide-sm-up {
+        display: block
+    }
+    .serch-wrapper {
+        padding-top: 3px;
+        z-index: 99;
+        position: relative;
+    }
+    .mainmenu {
+        display: none;
+    }
+    .logo {
+        padding-top: 16px;
+        float: left;
+        width: 60%;
+    }
+    .cart-area {
+        position: absolute;
+        background: #03A9F4;
+        right: 0;
+        top: -38px;
+    }
+    .first-span {
+        padding-right: 6px !important;
+        margin-right: 0px;
+        border-right: 0px solid #19b4fa;
+    }
+    .social-icon {
+        padding-top: 10px;
+        float: left;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+    .contact-area-two {
+        float: none;
+    }
+    .single-features {
+        margin-bottom: 30px;
+    }
+    .single-class {
+        margin-bottom: 35px;
+    }
+    .single-testimonial p {
+        font-size: 15px;
+        padding-bottom: 24px;
+        padding-top: 42px;
+    }
+    .single-testimonial {
+        padding: 0 0px;
+    }
+    .kids-care-testimonial-area {
+        padding: 65px 0px 53px;
+    }
+    .img-left-tes {
+        width: 200px;
+        left: 50px;
+    }
+    .img-right-tes {
+        width: 252px;
+        right: 12px;
+    }
+    .test-img {
+        box-shadow: 0px 15px 20px 0px rgba(145, 139, 171, 0.4);
+        width: 70px;
+        height: 70px;
+        border: 2px solid #fff;
+        margin-bottom: 10px;
+    }
+    .single-testimonial span {
+        font-size: 15px;
+    }
+    .single-testimonial span.tes-name {
+        font-family: 'Museo-700';
+        font-size: 17px;
+    }
+    .testimonial-carousel {
+        margin-top: 15px;
+    }
+    .kids-care-routine-area .table-wrapper {
+        display: none;
+    }
+    .event-btn {
+        padding: 15px 13px 15px 13px;
+    }
+    .intro-left a {
+        font-size: 18px;
+    }
+    .age {
+        padding: 8px 11px;
+    }
+    .sin-gallery {
+        padding: 5px;
+    }
+    .sin-gallery .gallery-overlay {
+        padding: 5px;
+    }
+    .sin-gallery .gallery-content a {
+        margin-bottom: 5px;
+    }
+    .gallery-content h4 {
+        font-size: 18px;
+    }
+    .slider-wrapper .item {
+        height: 310px;
+    }
+    .slider-text p {
+        margin-bottom: 26px;
+        font-size: 26px;
+    }
+    .slider-text.sldr-two h1 {
+        font-size: 40px;
+    }
+    .slider-text {
+        padding-top: 65px;
+    }
+    .slider-text.sldr-two {
+        text-align: center;
+        padding-left: 15px;
+    }
+    .wellcome-area-wrapper {
+	padding: 34px 0px;
+	background-size: cover;
+	background-position: 319px 0;
+    }
+    .call-to-action-area {
+        padding: 41px 0px;
+        text-align: center
+    }
+    .single-event {
+        margin-bottom: 30px;
+    }
+    .single-event img {
+        width: 100%;
+    }
+    .to-do-content {
+        margin-top: 0px;
+    }
+    .to-do-content h3 {
+        font-size: 23px;
+    }
+    .to-do-content p {
+        padding-top: 17px;
+    }
+    .footer-widget {
+        padding: 50px 0 50px;
+    }
+    .footer-area .social-icon::after {
+        width: 150px;
+        background-size: 100%;
+        left: -158px;
+    }
+    .subscribe-link {
+        padding-right: 0PX;
+        float: none!IMPORTANT;
+    }
+    .newsletter-area {
+        text-align: center;
+    }
+    .teacher-detail {
+        height: 235px;
+    }
+    .res-routine.collapse-wrapper {
+        display: block;
+    }
+
+    .footer-widget::after {
+        right: 40px;
+
+    }
+    .footer-widget:hover::after {
+        right: 225px;
+    }
+    .top-bar.style-two .cart-area {
+        background: none;
+    }
+    .con-top-sin .con-text {
+        font-size: 16px;
+    }
+    .con-top-sin p {
+        padding-left: 34px;
+    }
+    .contact-area-two img {
+        width: 32px;
+        left: 0;
+    }
+    .con-top-sin {
+        padding-left: 7px;
+        margin-left: 16px;
+    }
+    .kids-care-btn {
+        font-size: 14px;
+        padding: 9px 9px;
+        margin-top: 18px;
+    }
+    .heading-para {
+        width: 100%;
+        padding: 0 10px;
+        font-size: 15px;
+        line-height: 26px;
+    }
+    .area-heading.style-two {
+        margin-bottom: 10px;
+    }
+    .feature-intro h3 {
+        font-size: 23px;
+        margin-bottom: 4px;
+    }
+    .feature-intro h4 {
+        font-size: 15px;
+        margin-bottom: 12px;
+    }
+    .feature-intro {
+        margin-top: 0px;
+        padding-left: 36px;
+        padding-right: 53px;
+        margin-bottom: 20px;
+    }
+    .wel3-oneside {
+        width: 100%;
+        padding-left: 0%;
+    }
+    .wel3-sin {
+        margin-bottom: 40px;
+    }
+    .sin-wel-3-con h3 {
+        font-size: 22px;
+    }
+    .animated-img {
+        text-align: center;
+    }
+    .class-are-inner-width {
+        width: 100%;
+    }
+    .class-con-top {
+        padding: 6px;
+        padding-right: 0px;
+    }
+    .class-con-top h5 {
+        font-size: 16px;
+        margin-bottom: 4px;
+    }
+    .class-con-bot span {
+        padding: 12px 0;
+    }
+    .class-con-top h6 {
+        margin-bottom: 6px;
+    }
+    .fac-image {
+        text-align: center;
+        margin-top: 15px;
+    }
+    .facil-content {
+        padding: 0 40px;
+    }
+    .ser-det {
+        padding-left: 20px;
+    }
+    .ser-det h2 {
+        font-size: 22px;
+        margin-bottom: 7px;
+    }
+    .play-area .owl-carousel .owl-stage-outer::before {
+        width: 484px;
+        top: 6px;
+    }
+    .tab-carousel .owl-stage-outer {
+        width: 484px;
+        margin: 0 auto;
+    }
+    .sin-tab-carousel.item {
+        height: 322px;
+    }
+    .play-det {
+        padding-left: 15px;
+    }
+    .play-area .area-heading {
+        margin-bottom: 35px !important;
+        padding-left: 10px;
+    }
+    .news-det a {
+        width: 30px;
+        height: 30px;
+        font-size: 20px;
+        line-height: 30px;
+        margin-top: -10px;
+    }
+    .news-meta span {
+        padding-top: 5px;
+    }
+    .news-det {
+        padding-bottom: 10px;
+    }
+    .news-det p {
+        font-size: 14px;
+        line-height: 24px;
+        padding-top: 8px;
+    }
+    .news-det h4 {
+        font-size: 18px;
+    }
+    .subscribe-link.style-two {
+        width: 458px;
+    }
+    .nl2-phone-number {
+        margin-left: 17px;
+    }
+    .newsletter-two span {
+        margin-right: 20px;
+        font-size: 35px;
+    }
+    .subscribe-link.style-two {
+        width: 377px;
+        float: left !important;
+    }
+    .subscribe-link input {
+        width: 270px;
+    }
+    .subscribe-link.style-two input {
+        width: 223px;
+    }
+    .border {
+        display: none;
+    }
+    .nl2-phone-number {
+        margin-left: 0px;
+        margin-top: 20px;
+        float: none;
+    }
+    .newsletter-two {
+        text-align: center
+    }
+    .image-breadcrumb {
+        height: 100px;
+    }
+    .video_content {
+        width: 100%;
+        height: 221px;
+        padding-top: 36px;
+        margin-top: 15%;
+    }
+    .wellcome-video-area .wellcome-content.style-two {
+        padding-left: 15px;
+    }
+    .wellcome-video-area .wellcome-content p {
+        margin-bottom: 15px;
+    }
+    .even-area {
+        padding: 80px 0px 70px;
+    }
+    .middle-button-area {
+        padding: 80px 0px;
+    }
+    .middle-button-area .area-heading {
+        margin-bottom: 0px;
+    }
+    .style-two.wellcome-content h2 {
+        line-height: 40px;
+    }
+    .sing-three-ser h2 {
+        font-size: 22px;
+    }
+    .infant-care-inner {
+        width: 100%;
+    }
+    .kindergarten-top-content {
+        background-position: bottom;
+    }
+    .sin-kin-routine {
+        padding: 30px 0px 30px;
+    }
+    .sin-kin-routine h5 {
+        font-size: 27px;
+    }
+    .sin-kin-routine p {
+        font-size: 17px;
+    }
+    .sin-kin-routine h6 {
+        font-size: 17px;
+    }
+    .about-six {
+        padding: 60px 0px;
+    }
+    .text-bread-crumb {
+        text-align: center;
+    }
+    .text-bread-crumb .kids-care-btn {
+        float: none;
+    }
+    .staff-full-inner {
+        padding: 30px 0;
+    }
+    .staff-full .image-side {
+        margin-top: 32px;
+    }
+    .dis-image {
+        margin-top: 35px;
+    }
+    .dis-wrapper {
+        width: 417px;
+    }
+    .tution-dis h3 {
+        font-size: 20px;
+    }
+    .tution-dis p {
+        font-size: 14px;
+        font-family: 'Museo-500';
+        color: #fff;
+        line-height: 30px;
+    }
+    .tution-dis {
+        padding: 50px 0px;
+    }
+    .tution-dis p {
+        padding-bottom: 5px;
+    }
+    .load-more {
+        padding-bottom: 30px;
+        padding-top: 0px;
+    }
+    .variable-area {
+        width: 85%;
+    }
+    a.pro-title {
+        font-size: 19px;
+    }
+    .pro-price {
+        float: left;
+        margin-top: 3px;
+    }
+    .add-to-cart {
+        padding: 10px 20px;
+
+    }
+    .contact-page-form {
+        margin-bottom: 35px;
+        overflow: hidden;
+    }
+    .caontact-page {
+        padding: 50px 0px;
+    }
+    .writer-img img {
+        height: 100px;
+        width: 100px;
+        border: 5px solid #ebebeb;
+    }
+    .writer-img {
+        padding-top: 25px;
+    }
+    post-writer {
+        margin-bottom: 20px;
+    }
+    .blog-sidebar {
+        margin-top: 50px;
+    }
+    .post-meta .meta-date a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .post-meta .meta-date a span {
+        font-size: 18px;
+        display: block;
+    }
+    .post-meta div {
+        height: 80px;
+    }
+    .post-meta .meta-date {
+        padding: 10px 12px;
+    }
+    .post-meta .meta-comments a {
+        font-size: 16px;
+    }
+    .post-meta {
+        width: 70px;
+        top: 41px;
+        left: -54px;
+    }
+    .post-meta {
+        top: 15px;
+        left: 16px;
+    }
+    .infant-care::before {
+	display: none
+    }
+   .infant-care::after {
+	display: none
+    }
+    .sin-download.bg-reds, .sin-download.bg-green {
+	float: none;
+	width: 400px;
+    }
+    .main-menu-area .menu-inner-wrapper::after {
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    }
+    .menu-inner-wrapper {
+        box-shadow: none;
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+        position: relative;
+        background: #fff;
+    }
+    .feature-area-wrapper.style-two {
+        padding-top: 0px;
+        margin-top: 40px;
+        padding-bottom: 20px;
+    }
+    .mobile-open {
+    margin-top: 6px;
+    }
+    .menu-inner-wrapper .logo {
+    padding-top: 0px;
+    padding-bottom: 15px;
+    }
+    .search a {
+    color: #fff;
+    }
+    .top-bar.style-three .cart-area {
+    background: none;
+    }
+    .feature-area-wrapper.style-two .single-features h3{font-size: 21px}
+    .welcome-boxed .wellcome-area-wrapper {
+    border-radius: 25px;
+    padding: 24px 0px;
+    padding-left: 30px;
+    }
+    .wellcome-area-wrapper .wellcome-content p {
+    padding-right: 0px;
+    margin-bottom: 0px;
+    }
+    .class-img-two img {
+    width: 100%;
+    }
+    .area-subline {
+    font-size: 14px;
+    padding: 0;
+    padding-bottom: 40px;
+    }
+    .single-teacher.style-b .teacher-detail p {
+    font-size: 14px;
+    }
+    .single-teacher.style-b .teacher-detail h4 {
+    font-size: 17px;
+    }
+    .kids-care-teachers-area.style-3 .teacher-detail{padding: 22px 0px;}
+    .countdown-one {
+    padding: 100px 0 100px;
+    }
+    .tes-popular .con-part p {
+    padding: 15px 0 60px;
+    font-size: 14px;
+    }
+    .sin-upc-event-two {
+    margin-bottom: 30px;
+    }
+    .kids-care-gallery.style-three {
+    margin-top: 80px;
+    }
+   .sin-lat-n3 {
+    margin-bottom: 30px;
+    } 
+    .ln3-cont p {
+    padding-bottom: 0px;
+    }
+    .ex-detail {
+    padding-left: 15px;
+    margin-bottom: 15px;
+    }
+    .kids-care-teachers-area.style-3 {
+        padding-top: 95px;
+        padding-bottom: 30px;
+    }
+    .latest-news-three {
+    padding: 100px 0 40px;
+    }
+
+    .top-bar.style-three .first-span {
+    border-right: 0px solid #eae669;
+    }
+    .welcome-boxed .wellcome-content h2 {
+    margin-bottom: 10px;
+    }
+    .choose-class-area.bg-white {
+        padding-top: 40px;
+    }
+        .sin-lat-n3 img {
+    width: 100%;
+    }
+    .about-nutrition-area {
+	background-position: left;
+
+    }
+    .nutrition-area .table-wrapper {
+	width: 100%;
+}
+    .nutrition-area .res-routine.collapse-wrapper {
+	display: none;
+}
+   .nutrition-area table {
+	font-size: 16px;
+}
+    .faq-section .collapse-wrapper {
+	margin-bottom: 50px;
+    }
+    .admission-process-area {
+	padding: 50px 0px 0px;
+}
+    .faq-section {
+	padding: 50px 0px 0px;
+}
+    .top-bar.bg-per .cart-area {
+	background: none;
+}
+    .top-bar.bg-per .first-span {
+	border-right: 2px solid #8373ce;
+}
+
+    .sb-img {
+	width: 50px;
+}
+    .blog-sidebar {
+	margin-top: 0px;
+}
+    .sin-sidebar {
+	padding: 10px;
+}
+
+
+}
+
+@media (min-width: 401px) and (max-width: 460px) {
+
+    .teacher-detail {
+        height: 298px!important;
+    }
+    .top-bar span {
+        padding-top: 0;
+    }
+    .cart-area {
+        padding-right: 0px;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+}
+
+@media (max-width: 767px) {
+    .logo {
+        padding-top: 16px;
+        float: left;
+        width: 60%;
+    }
+
+    .mainmenu.float-right {
+        display: none;
+    }
+    .top-bar.style-two .search-input {
+        border: 2px solid #b6cf4d;
+
+    }
+    .hide-sm-up {
+        display: block
+    }
+    .hide-sm {
+        display: none
+    }
+    .cart-area {
+        margin: 0px;
+        padding-bottom: 11px;
+        padding-top: 13px;
+        padding-right: 17px;
+        margin-right: 8px;
+    }
+
+    .serch-wrapper {
+        padding-top: 14px;
+    }
+    .search-input {
+        right: 30px;
+        top: -5px;
+    }
+    .search {
+        margin-top: -3px;
+
+    }
+    .search-input {
+        width: 250px;
+
+    }
+    .cart-drop {
+        right: -25px
+    }
+    .cart-area .cart-drop {
+        right: -39px;
+    }
+    .cart-area:hover .cart-drop {
+        top: 44px;
+    }
+    .top-bar span {
+        padding: 0px 0px;
+    }
+
+    .search a {
+        color: #fff;
+    }
+    .menu-area-two {
+        display: none;
+    }
+    .service-three {
+        background-repeat: repeat;
+    }
+
+    .even-area {
+        padding: 80px 0px;
+    }
+    .middle-button-area .area-heading {
+        margin-bottom: 25px;
+    }
+    .middle-button-area {
+        padding: 80px 0px;
+    }
+    .about-5-img {
+        width: 55%;
+        margin: 0 auto;
+    }
+    .infant-care::before,
+    .infant-care::after {
+        display: none;
+    }
+    .focus-img {
+        margin-top: 25px;
+    }
+    .sched-head {
+        font-size: 22px;
+    }
+    .text-bread-crumb {
+        text-align: center;
+    }
+    .text-bread-crumb .kids-care-btn {
+        float: none;
+    }
+    .text-bread-crumb h2 {
+        font-size: 30px;
+    }
+    .kindergarten-top-content {
+        background-position: bottom;
+        background-size: 100%;
+    }
+    .staff-full-inner::before {
+        width: 250px;
+        height: 200px;
+    }
+    .staff-full-inner .image-side {
+        text-align: center;
+        padding: 21px 0 30px;
+    }
+    .staff-full-inner .content-side {
+        padding-top: 26px;
+        padding-left: 20px;
+    }
+    .shop-area-wrapper {
+        padding-bottom: 30px;
+    }
+    /*Product page--*/
+    .zoomWindowContainer {
+        display: none;
+    }
+    .zoomContainer .zoomLens {
+        display: none !important;
+    }
+    .image-breadcrumb {
+        height: 75px;
+    }
+    .caontact-page {
+        padding: 40px 0px;
+    }
+    .style-absolute .mobile-open {
+	margin-top: 1px;
+}
+    .menu-inner-wrapper .logo {
+	padding-top: 0px;
+	padding-bottom: 10px;
+}
+        .footer-newsletter input {
+	width: 87%;
+}
+    .footer-tab a {
+	font-size: 14px;
+	padding: 5px 9px;
+	margin-right: 6px;
+}
+    .footer-widget.style-three .sin-con {
+	padding-bottom: 6px;
+	border-bottom: 1px solid #ddd;
+	padding-top: 14px;
+}
+     .menu-inner-wrapper {
+    box-shadow: none;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    position: relative;
+    background: #fff;
+    }
+    .main-menu-area .menu-inner-wrapper::after {
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    }
+    .bol-bol-bg::after {
+    width: 370px;
+    margin-left: -185px;
+    background-size: 100%;
+    bottom: 51px;
+}
+        .about-nutrition-area {
+	background-position: left;
+
+}
+    .focus-top-right {
+	text-align: center;
+}
+
+
+    /*---------------------*/
+}
+
+/* Extra small devices (portrait phones, less than 576px)*/
+
+@media (max-width: 575px) {
+    .container-fluid {
+        width: 96%;
+    }
+
+    .top-bar span {
+        padding: 0px 0px;
+        font-size: 12px;
+    }
+    .social-icon li a {
+        height: 25px;
+        width: 25px;
+        border: 0px solid #fff;
+        font-size: 14px;
+        line-height: 24px;
+        margin-left: 0px;
+    }
+    .social-icon {
+        padding-top: 10px;
+        float: left;
+        padding-bottom: 10px;
+    }
+    .cart-area > a {
+        font-size: 14px;
+    }
+    .first-span {
+        padding-right: 0px !important;
+        margin-right: 0px;
+        border-right: 0px solid #19b4fa;
+    }
+    .serch-wrapper {
+        padding-top: 10px;
+    }
+    .cart-area {
+        padding-top: 13px;
+    }
+
+    .top-bar span {
+        display: none;
+    }
+    .cart-area a i {
+        margin-right: 0;
+    }
+
+    .table-wrapper {
+    display: none;
+    }
+    .slider-wrapper .owl-item .item {
+        height: 240px;
+    }
+    .slider-text {
+        padding-top: 0px;
+    }
+    .slider-text.sldr-two h1 {
+        font-size: 25px;
+    }
+    .slider-text p {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .slider-text.sldr-two {
+        padding-left: 0px;
+        text-align: center;
+    }
+    .slider-text {
+        padding-top: 50px;
+    }
+    .slider-text .kids-care-btn {
+        margin: 0 1px;
+        padding: 5px 8px;
+        font-size: 14px;
+    }
+    .single-features {
+        padding: 20px 15px;
+        margin-bottom: 20px;
+    }
+    .single-features h3 {
+        font-size: 20px;
+    }
+    .single-features {
+        padding: 20px 15px;
+        margin-bottom: 20px;
+    }
+    .area-heading img {
+        display: none;
+    }
+    .details .kids-care-btn {
+        font-size: 14px;
+    }
+    .details a::after {
+        top: 10px;
+    }
+    .single-features:hover {
+        -ms-transform: translate(0px, 0px);
+        -webkit-transform: translate(0px, 0px);
+        transform: translate(0px, 0px);
+    }
+    .wellcome-area-wrapper {
+        background-image: none;
+        padding: 40px 0px;
+    }
+    .wellcome-content h2 {
+        line-height: 35px;
+        font-size: 25px;
+    }
+    .wellcome-content p {
+        margin-bottom: 20px;
+        padding-right: 0px;
+    }
+    .area-heading {
+        font-size: 24px;
+        margin-bottom: 30px;
+        line-height: 35px;
+    }
+    .kids-care-btn {
+        font-size: 14px;
+        padding: 7px 11px;
+
+    }
+    .call-to-action-area .kids-care-btn {
+        margin-top: 7px;
+        font-size: 14px;
+        padding: 5px 15px;
+    }
+    .call-to-action-area h4 {
+        font-size: 20px;
+    }
+    .call-to-action-area p {
+        font-size: 14px;
+        font-family: 'Museo-300';
+        line-height: 22px;
+    }
+    .call-to-action-area {
+        padding: 35px 0px;
+        text-align: center;
+    }
+    .img-right-tes,
+    .img-left-tes {
+        display: none;
+    }
+    .test-img {
+        width: 70px;
+        height: 70px;
+        border: 3px solid #fff;
+        margin-bottom: 9px;
+    }
+    .single-testimonial p {
+        padding: 15px 0px;
+        font-size: 14px;
+        line-height: 24px;
+        font-family: 'Museo-500';
+    }
+    .single-testimonial p::before {
+        top: -5px;
+        width: 80px;
+        height: 85px;
+        background-size: 80px;
+        margin-left: -40px;
+    }
+    .testimonial-carousel {
+        margin-top: 10px;
+    }
+    .single-testimonial span.tes-name {
+        font-size: 16px;
+    }
+    .single-testimonial {
+        padding: 0;
+    }
+    .single-event {
+        margin-bottom: 30px;
+    }
+    .event-btn {
+        padding: 10px;
+    }
+    .event-btn span {
+        font-size: 14px;
+    }
+    .single-event .kids-care-btn {
+        float: right;
+        font-size: 14px;
+    }
+    .to-do-content {
+        margin-top: 0px;
+        padding-left: 15px;
+    }
+    .to-do-content h3 {
+        font-size: 20px;
+    }
+    .to-do-content p {
+        font-family: 'Museo-300';
+        padding-top: 13px;
+    }
+    .filter-menu {
+        margin-bottom: 25px;
+    }
+    .filter-menu li {
+        padding: 2px 14px;
+        font-size: 17px;
+        margin-bottom: 10px;
+    }
+    .subscribe-link {
+        padding-right: 0px;
+        margin-top: 10px;
+    }
+    .subscribe-link.float-right {
+        float: none !important;
+        width: 280px;
+        margin: 0 auto;
+        margin-bottom: 12px;
+    }
+    .subscribe-link input {
+        height: 40px;
+        width: 229px;
+        margin-bottom: 10px;
+    }
+    .subscribe-link .kids-care-btn {
+        padding: 8px 16px;
+        margin-left: 0px;
+        font-size: 13px;
+    }
+    .newsletter-area p {
+        font-size: 14px;
+        font-family: 'Museo-300';
+        line-height: 24px;
+        padding: 20px 0;
+    }
+    .newsletter-area h4 {
+        font-size: 16px;
+    }
+    .newsletter-area {
+        height: 280px;
+        padding: 0px;
+        text-align: center;
+    }
+    .footer-area {
+        text-align: center;
+    }
+    .footer-area .social-icon::after {
+        display: none;
+    }
+    .footer-area .social-icon {
+        float: none !important;
+    }
+    .single-widget p {
+        font-size: 14px;
+        padding-right: 10px;
+    }
+    .post-brif a {
+        font-size: 14px;
+    }
+    .single-widget h3 {
+        font-size: 23px;
+        margin-bottom: 2px;
+    }
+    .footer-widget {
+        padding: 40px 0px;
+        background-position: 100% 98%
+    }
+    .kids-care-to-do,
+    .kids-care-gallery,
+    .kids-care-event-area,
+    .kids-care-testimonial-area,
+    .choose-class-area {
+        padding: 30px 0;
+    }
+    .single-class img,
+    .single-event img,
+    .sin-gallery img {
+        width: 100%;
+    }
+    .teacher-detail {
+        height: 382px;
+    }
+    .res-routine.collapse-wrapper {
+        display: block;
+    }
+    .kids-care-routine-area {
+        height: auto;
+        padding: 40px 0px;
+    }
+    .footer-widget::after {
+        right: 21px;
+        width: 106px;
+        height: 71px;
+        background-size: contain;
+
+    }
+    .footer-widget:hover::after {
+        right: 111px;
+    }
+    .con-top-sin p {
+        padding-left: 0;
+        font-size: 15px;
+        float: left;
+        margin-right: 9px;
+    }
+    .con-top-sin .con-text {
+        font-size: 14px;
+    }
+    .heading-para {
+        width: 100%;
+        padding: 0 0px;
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .animated-img {
+        display: none;
+    }
+    .sin-wel-3-con {
+        width: 100%;
+        float: none;
+        text-align: center;
+        padding-top: 75px;
+    }
+    .wel3-sin {
+        margin-bottom: 13px;
+        position: relative;
+    }
+    .wel3-icon {
+        width: 100%;
+        float: none;
+        text-align: center;
+        position: absolute;
+        top: 0;
+        right: 0%;
+    }
+    .sin-wel-3-con h3 {
+        font-size: 19px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .sin-counter {
+        margin-bottom: 24px;
+    }
+    .sin-counter p {
+        font-size: 32px;
+    }
+    .sin-counter span {
+        font-size: 16px;
+    }
+    .counter-area {
+        height: auto;
+        padding: 50px 0;
+    }
+    .class-are-inner-width {
+        width: 100%;
+    }
+    .class-con-bot span:first-child {
+        border-right: 0px solid #ececec;
+    }
+    .class-con-top {
+        padding: 15px;
+    }
+    .class-con-top h6 {
+        margin-bottom: 4px;
+    }
+    .class-con-bot span {
+        padding: 6px 0;
+    }
+    .r-class {
+        padding: 20px;
+        width: 100%;
+        padding-top: 9px;
+    }
+    .r-class img {
+        width: 100%;
+    }
+    .left-c {
+        width: 100%;
+    }
+    .facil-content {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .sin-ser img {
+        width: 60px;
+    }
+    .ser-det {
+        padding-left: 15px;
+    }
+    .ser-det h2 {
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+    .sin-up-right {
+        width: 100%;
+        margin-top: 12px;
+    }
+    .sin-up-event img {
+        float: none;
+    }
+    .sin-up-event {
+        text-align: center;
+    }
+    .tab-carousel .owl-stage-outer {
+        width: 263px;
+        margin: 0 auto;
+    }
+    .sin-parent-say-inner {
+        width: auto;
+        padding: 15px;
+        border-radius: 7px;
+        border: 2px solid #fff;
+    }
+    .play-area .owl-carousel .owl-stage-outer::before {
+        width: 263px;
+    }
+    .play-area .owl-carousel .owl-item img {
+        width: 236px;
+    }
+    .play-det {
+        padding-left: 15px;
+    }
+    .news-det {
+        position: relative;
+    }
+    .news-det a {
+        position: absolute;
+        bottom: -23px;
+        right: 0;
+    }
+    .news-meta span {
+        display: block;
+    }
+    .single-news {
+        margin-bottom: 30px;
+    }
+    .news-det p {
+        font-size: 14px;
+        padding-bottom: 1px;
+    }
+    .childcare-service .area-heading {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .childcare-ser-feature span {
+        width: 100%;
+    }
+    .childcare-ser-feature {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .childcare-service,
+    .event-and-choose,
+    .play-area,
+    .parent-say-area,
+    .latest-news-area,
+    .quick-contact-two {
+        padding: 40px 0px;
+    }
+    .play-area .area-heading {
+        margin-bottom: 25px;
+    }
+    .subscribe-link input {
+        width: 168px;
+        margin-bottom: 2px;
+    }
+    .subscribe-link.style-two input {
+        width: 166px;
+        margin-bottom: 2px;
+    }
+    .newsletter-two {
+        min-height: 252px;
+        background-size: cover;
+        text-align: center;
+    }
+    .newsletter-two span {
+        font-size: 23px;
+        float: none;
+        margin-right: 0px;
+    }
+    .nl2-phone-number {
+        font-size: 23px;
+        float: none;
+        margin-left: 0px;
+    }
+    .border {
+        display: none;
+    }
+    .sin-quick-con h4 {
+        padding: 8px 0px;
+    }
+    .sin-quick-con {
+        padding-bottom: 10px;
+    }
+    .contact-area-two {
+        padding-top: 4px;
+    }
+    .contact-area-two img {
+        width: 18px;
+        margin-right: 4px;
+    }
+    .con-top-sin p {
+        display: none;
+    }
+    .con-top-sin .con-text {
+        font-size: 14px;
+        display: block!important;
+    }
+    .con-top-sin {
+        padding-left: 0px;
+    }
+    .video_content {
+        width: 100%;
+        height: 182px;
+    }
+    .sing-three-ser {
+        padding: 10px 0px 10px;
+    }
+    .wellcome-video-area {
+        padding: 50px 0px;
+    }
+    .newsletter-area h4 {
+        font-size: 29px;
+        line-height: 39px;
+    }
+    .video_content_two {
+        height: 170px;
+        padding-top: 28px;
+    }
+    .down-text {
+        padding-left: 8px;
+        padding-right: 6px;
+        padding-top: 4px;
+    }
+    .down-text a {
+        font-size: 14px;
+    }
+    .sin-download img {
+        width: 50px;
+    }
+    .infant-care-inner {
+        width: 100%;
+    }
+    .right-schedule {
+        width: 100%;
+        border-left: 0px solid #fff;
+    }
+    .left-time {
+        width: 100%;
+    }
+    .text-bread-crumb h2 span {
+        display: block;
+    }
+    .text-bread-crumb {
+        background: #03a9f4;
+        height: auto;
+        padding: 25px 0;
+    }
+    .staff-full-inner {
+        padding: 4px 0;
+    }
+    .sin-tes-one {
+        padding: 16px 10px;
+    }
+    .tes-one-img {
+        float: none;
+        margin-bottom: 24px;
+        text-align: center
+    }
+    .dot-car-start .owl-dot {
+        width: 60PX;
+        height: 60px;
+    }
+    .sin-tes-car p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .video_content_two.bg-3 {
+        margin-top: 30px;
+    }
+    .testimonial-one {
+        padding: 50px 0px;
+    }
+    .testtimonial-two-area {
+        padding: 50px 0;
+    }
+    .tution-top {
+        padding-top: 40px;
+    }
+    .tution-dis h3 {
+        font-size: 20px;
+    }
+    .dis-wrapper {
+        background: none;
+        width: auto;
+    }
+    .tution-dis p {
+        font-size: 15px;
+        font-family: 'Museo-500';
+        color: #444;
+    }
+    .tution-dis {
+        padding: 40px 0px;
+    }
+    .grid-list-button {
+        float: left;
+    }
+    .sort-by {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .load-more {
+        padding: 0px 0px 25px;
+    }
+    .variable-area {
+	width: 100%;
+    }
+    .image-breadcrumb.style-con {
+        height: 90px;
+    }
+    .contact-page-form input {
+        width: 100%;
+        margin-right: 0px;
+        height: 40px;
+        margin-bottom: 15px;
+        font-size: 14px;
+        padding-left: 10px;
+    }
+    .contact-page-form textarea {
+        width: 100%;
+        padding-left: 10px;
+        margin-bottom: 15px;
+        padding-top: 10px;
+        font-size: 14px;
+        border-radius: 15px;
+    }
+    .contact-page-form input[type="submit"] {
+        font-size: 15px;
+        font-family: 'Museo-500';
+    }
+    .contact-page-form h3,
+    .con-page-info h3 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .sin-line-left {
+        width: 100%;
+    }
+    .sin-line-right {
+        width: 100%;
+    }
+    .sin-line-left h6 {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .sin-line {
+        padding: 15px 24px;
+    }
+    .sin-line-right p {
+        font-size: 14px;
+    }
+    .text-bread-crumb.bc-style-two {
+        height: auto;
+        padding-top: 54px;
+    }
+    .post-page {
+        padding: 40px 0px;
+    }
+    .post-details {
+        padding: 0px;
+    }
+    .post-heading {
+        font-size: 22px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .post-details p {
+        font-size: 14px;
+        line-height: 27px;
+    }
+    .post-details li {
+        font-size: 14px;
+        padding: 4px 0px;
+    }
+    .post-tag ul li a {
+        font-size: 14px;
+        padding: 5px 6px;
+    }
+    .writer-img {
+        width: 100%;
+        text-align: center;
+    }
+    .writer-details {
+        width: 100%;
+        padding-left: 0;
+        text-align: center;
+        padding-top: 25px;
+    }
+    .related-post-area {
+        padding: 30px 15px;
+        margin-top: 45px;
+    }
+    .sin-realated-post {
+        padding-top: 30px;
+        text-align: center;
+    }
+    .comments-area {
+        padding: 30px 15px;
+    }
+    .commentlists div.avatar {
+        width: 80px;
+    }
+    .commentlists .the-comment .comment-box {
+        margin-left: 0px;
+        width: 100%;
+        margin-top: 60px;
+    }
+    .children-comment {
+        padding-left: 15px;
+    }
+    .commentlists .the-comment {
+        margin-top: 0px;
+    }
+    .comments-form {
+        padding: 30px 15px;
+    }
+    .sin-sidebar {
+        padding: 15px;
+    }
+    .quatation {
+        padding: 23px 20px;
+    }
+    .post-meta .meta-date a {
+        font-size: 10px;
+        line-height: 11px;
+        width: 68px;
+    }
+    .post-meta .meta-date a span {
+        font-size: 15px;
+        display: block;
+    }
+    .post-meta div {
+        height: 41px;
+        border-radius: 0px!important;
+    }
+    .post-meta .meta-date {
+        padding: 0px;
+    }
+    .post-meta .meta-comments a {
+        font-size: 11px;
+    }
+    .post-meta {
+        width: 70px;
+        top: 41px;
+        left: -54px;
+    }
+    .post-meta {
+        top: 15px;
+        left: -14px;
+    }
+    .post-meta .meta-tag a {
+        font-size: 15px;
+    }
+    .sin-download.bg-reds, .sin-download.bg-green {
+	float: none;
+	width: 275px;
+    }
+    .contact-area-two {
+	display: none;
+    }
+    .childcare-service {
+        background-image: none;
+        background-color: #f5b201;
+    }
+
+    .feature-area-wrapper.style-two {
+        margin-top: 30px;
+        padding-bottom: 50px;
+    }
+
+    .welcome-boxed .wellcome-area-wrapper {
+        border-radius: 20px;
+        padding: 25px;
+        margin-bottom: 50px;
+    }
+
+    .footer-widget.style-three::after {
+        left: 185px;
+        width: 123px;
+        height: 85px;
+        bottom: -14px;
+
+    }
+    .area-subline {
+        font-size: 14px;
+        padding: 0px 0px 30px;
+    }
+    .area-heading.st-two::after {
+        width: 220px;
+        height: 35px;
+        top: -19px;
+        margin-left: -110px;
+        background-size: 100%;
+    }
+    .expect-area {
+        background-image: none;
+        padding: 80px 0px 50px;
+        background-color: #03A9F4 !important;
+        height: auto;
+    }
+    .ex-detail {
+        padding-left: 17px;
+        margin-bottom: 17px;
+    }
+
+    .kids-care-teachers-area.style-3,
+    .countdown-one,
+    .tes-popular {
+        padding: 70px 0px 20px;
+    }
+
+    .count-down {
+        width: auto;
+    }
+
+    .sin-up-content {
+        padding: 25px 15px;
+    }
+
+    .sin-up-content p {
+        padding: 15px 0 15px;
+    }
+
+    .sin-up-content a {
+        font-size: 15px;
+        margin: 0 50px;
+    }
+
+    .sin-upc-event-two {
+        margin-bottom: 25px;
+    }
+
+    .kids-care-gallery.style-three {
+        margin-top: 100px;
+        padding-top: 80px;
+    }
+
+    .sin-upc-event-two img,
+    .sin-lat-n3 img {
+        width: 100%;
+    }
+
+    .latest-news-three {
+        padding: 80px 0 60px;
+    }
+
+    .up-event-countdown .count-down {
+        width: 245px;
+    }
+
+    .up-event-countdown .count-down .cdown {
+        height: 100px;
+        width: 100px !important;
+    }
+
+    .up-event-countdown .count-down .cdown {
+        margin-bottom: 20px;
+    }
+
+    .up-event-countdown .cdown p {
+        font-size: 14px;
+    }
+
+    .up-event-countdown .count-down .time-count {
+        font-size: 29px;
+        padding-top: 23px;
+        line-height: 28px;
+    }
+
+    .sin-lat-n3 {
+        margin-bottom: 30px;
+    }
+
+    .ln3-cont {
+        padding: 20px 0px 15px;
+    }
+
+    .sin-lat-n3 .kids-care-btn {
+        font-size: 16px;
+    }
+
+    .bol-bol-bg::after {
+        display: none;
+    }
+    .footer-widget.style-three::after {
+	left: 80px;
+    }
+    .sin-staff-with-con .sin-staff {
+	margin-bottom: 0px;
+    }
+    .sin-staff-right-con::after,.sin-staff-right-con::before {
+	display: none;
+    }
+    .sin-staff-with-con .sin-staff:hover::after {
+	display: none;
+    }
+    .sin-staff-with-con {
+	margin-bottom: 30px;
+    }
+    .sin-staff-right-con {
+	border: 0px solid #ffae37;
+	border-radius: 0px;
+    }
+    .sin-staff-with-con:hover .sin-staff-right-con {
+        -webkit-transition: background 0.3s;
+	-moz-transition: background 0.3s;
+	-o-transition: background 0.3s;
+	transition: background 0.3s;
+    }
+    .sin-staff-right-con {padding: 20px 17px;}
+    .kids-care-gallery.style-two {padding-bottom: 80px;}
+    .enroll-area.style-two {
+	padding: 0px 0 25px;
+}
+            .contact-page-form .btn.submit-btn {
+	width: 100%;
+	height: 40px;
+	font-size: 14px;
+}
+    
+    
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+    .container-fluid {
+        width: 96%;
+    }
+    .con-top-sin img {
+        width: 23px;
+    }
+    .con-top-sin .con-text {
+        font-size: 13px;
+    }
+    .con-top-sin p {
+        padding-left: 34px;
+        font-size: 16px;
+    }
+    .contact-area-two {
+        float: none;
+    }
+    .con-top-sin {
+        padding-left: 0px;
+    }
+    .single-features h3 {
+        font-size: 19px;
+        letter-spacing: 1px;
+
+    }
+    .single-features {
+        padding: 15px 15px;
+        margin-bottom: 30px;
+    }
+    .mega-menu {
+        display: none
+    }
+    .table-wrapper {
+        display: none;
+    }
+    .single-class {
+        padding: 15px;
+        padding-bottom: 15px;
+    }
+    .age {
+        padding: 6px 9px;
+    }
+    .intro-left {
+        float: none;
+        text-align: inherit;
+    }
+    .intro-right {
+        float: none;
+        display: inline-block;
+    }
+    .details p {
+        padding-bottom: 15px;
+    }
+    .price {
+        top: -38px;
+        left: -46px;
+    }
+    .single-class {
+        margin-bottom: 30px;
+    }
+    .single-testimonial {
+        padding: 0 0px;
+    }
+    .single-testimonial p {
+        font-size: 15px;
+        line-height: 28px;
+        padding-top: 35px;
+    }
+    .test-img {
+        width: 70px;
+        height: 70px;
+        border: 2px solid #fff;
+        margin-bottom: 11px;
+    }
+    .single-testimonial span.tes-name {
+        font-size: 17px;
+    }
+    .single-testimonial span {
+        font-size: 16px;
+    }
+    .img-right-tes {
+        width: 180px;
+        right: 5px;
+    }
+    .img-left-tes {
+        bottom: 0px;
+        width: 181px;
+        left: 11px;
+    }
+    .details .kids-care-btn {
+        padding: 7px;
+        font-size: 14px;
+    }
+    .event-btn a::after {
+        display: none;
+    }
+    .event-btn {
+        padding: 7px;
+    }
+    .single-event {
+        border: 1px solid #eceaf2;
+        padding: 15px 15px 20px;
+        margin-bottom: 40px;
+    }
+    .event-btn > span {
+        padding-top: 3px;
+        font-size: 14px;
+    }
+    .to-do-content {
+        margin-top: 0px;
+        padding: 0 30px;
+    }
+    .to-do-content p {
+        padding-top: 15px;
+        font-family: 'Museo-300';
+    }
+    .to-do-content h3 {
+        font-size: 20px;
+    }
+    .single-to-do {
+        padding-bottom: 40px;
+    }
+    .slider-wrapper .owl-item .item {
+        height: 300px;
+    }
+    .slider-text {
+        padding-top: 0px;
+    }
+    .slider-text.sldr-two h1 {
+        font-size: 40px;
+    }
+    .slider-text p {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .slider-text.sldr-two {
+        padding-left: 0px;
+        text-align: center;
+    }
+    .slider-text {
+        padding-top: 67px;
+    }
+    .slider-text .kids-care-btn {
+        margin: 0 5px;
+    }
+    .call-to-action-area {
+        padding: 40px 0px;
+        text-align: center;
+    }
+    .footer-widget {
+        padding: 50px 0 50px;
+    }
+    .footer-area {
+        text-align: center;
+    }
+    .footer-area .social-icon::after {
+        display: none;
+    }
+    .footer-area .social-icon {
+        float: none !important;
+    }
+    .social-icon {
+        float: left;
+    }
+    .cart-area > a {
+        font-size: 17px;
+    }
+    .top-bar {
+        text-align: center;
+    }
+    .first-span {
+        padding-right: 10px !important;
+        margin-right: 0px;
+        border-right: 0px solid #19b4fa;
+        font-size: 12px;
+    }
+    .social-icon li a {
+        height: 25px;
+        width: 25px;
+        border: 1px solid #fff;
+        font-size: 12px;
+        line-height: 23px;
+        margin-left: 3px;
+    }
+    .call-to-action-area p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .call-to-action-area h4 {
+        font-size: 27px;
+    }
+    .call-to-action-area {
+        padding: 39px 0px 72px;
+    }
+    .call-to-action-area h4 {
+        font-size: 27px;
+    }
+    .call-to-action-area p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .call-to-action-area .kids-care-btn {
+        font-size: 14px;
+        padding: 6px 9px;
+        margin-top: 11px;
+    }
+    .subscribe-link {
+        padding-right: 0px;
+        margin-top: 10px;
+    }
+    .newsletter-area {
+        text-align: center;
+    }
+    .subscribe-link.float-right {
+        float: none !important;
+    }
+    .single-widget p {
+        font-size: 14px;
+        padding-right: 10px;
+    }
+    .post-brif a {
+        font-size: 14px;
+    }
+    .single-widget h3 {
+        font-size: 27px;
+        margin-bottom: 8px;
+    }
+    .teacher-detail h4 {
+        font-size: 15px;
+    }
+    .teacher-social li {
+        margin-right: 7px;
+    }
+    .teacher-social li a {
+        font-size: 15px;
+    }
+    .teacher-social {
+        margin-top: 6px;
+    }
+    .teacher-detail p {
+        font-size: 12px;
+    }
+    .teacher-detail {
+        padding: 10px;
+        height: 184px;
+    }
+    .area-heading {
+        font-size: 28px;
+        margin-bottom: 50px;
+    }
+    .testimonial-carousel {
+        margin-top: 10px;
+    }
+    .feature-area-wrapper {
+        padding: 35px 0px 10px;
+    }
+    .wellcome-area-wrapper {
+        padding: 50px 0px;
+        background-image: none;
+    }
+    .choose-class-area {
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+    .kids-care-teachers-area {
+        padding: 40px 0 0px;
+    }
+    .kids-care-testimonial-area {
+        padding: 40px 0px 50px;
+    }
+    .kids-care-event-area {
+        padding: 40px 0 25px;
+    }
+    .kids-care-gallery {
+        padding: 40px 0;
+    }
+    .res-routine.collapse-wrapper {
+        display: block;
+    }
+    .kids-care-routine-area {
+        height: auto;
+        padding: 40px 0px;
+    }
+    .footer-widget::after {
+        right: 40px;
+    }
+    .footer-widget:hover::after {
+        right: 150px;
+    }
+    .heading-para {
+        width: 100%;
+        padding: 0 0px;
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .feature-intro {
+        margin-top: 0px;
+    }
+    .animated-img {
+        display: none;
+    }
+    .sin-wel-3-con {
+        width: 100%;
+        float: none;
+        text-align: center;
+        padding-top: 75px;
+    }
+    .wel3-sin {
+        margin-bottom: 13px;
+        position: relative;
+    }
+    .wel3-icon {
+        width: 100%;
+        float: none;
+        text-align: center;
+        position: absolute;
+        top: 0;
+        right: 0%;
+    }
+    .sin-wel-3-con h3 {
+        font-size: 19px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .sin-counter {
+        margin-bottom: 24px;
+    }
+    .sin-counter p {
+        font-size: 32px;
+    }
+    .sin-counter span {
+        font-size: 16px;
+    }
+    .counter-area {
+        height: auto;
+        padding: 50px 0;
+    }
+    .facil-content {
+        padding: 0 75px;
+    }
+    .fac-image {
+        text-align: center;
+    }
+    .sin-ser {
+        margin-bottom: 50px;
+        padding: 0px;
+    }
+    .ser-det {
+        padding-left: 20px;
+    }
+    .sin-ser img {
+        width: 54px;
+    }
+    .ser-det h2 {
+        font-size: 21px;
+    }
+    .single-news {
+        padding: 15px;
+        margin-bottom: 30px;
+    }
+    .single-news img {
+        width: 100%;
+    }
+    .subscribe-link.style-two.float-right {
+        float: none !important;
+        width: 416px;
+        margin: 0 auto;
+    }
+    .subscribe-link.style-two input {
+        width: 260px;
+        margin-bottom: 2px;
+    }
+    .newsletter-two {
+        min-height: 252px;
+        background-size: cover;
+        text-align: center;
+    }
+    .newsletter-two span {
+        float: none;
+        margin-right: 0px;
+        margin-top: 14px;
+        display: inline-block;
+    }
+    .border {
+        display: none;
+    }
+    .nl2-phone-number {
+        margin-top: 0px;
+        float: none;
+        margin-left: 0;
+    }
+    .play-area .owl-carousel .owl-item img {
+        width: 442px!important;
+    }
+    .sin-parent-say-inner {
+        width: auto;
+        border: 2px solid #fff;
+    }
+    .style-two.wellcome-content h2 {
+        line-height: 45px;
+        font-size: 30px;
+    }
+    .video_content_two {
+        height: 290px;
+        padding-top: 90px;
+    }
+    .right-schedule {
+        width: 70%;
+        padding: 10px 0 17px;
+    }
+    .left-time {
+        width: 30%;
+        font-size: 14px;
+        padding: 0 4px;
+        padding-top: 8px;
+    }
+    .right-schedule ul {
+        padding: 0 15px;
+    }
+    .video_content_two.bg-3 {
+        height: 252px;
+        padding-top: 75px;
+        margin-top: 30px;
+    }
+    .sin-tution {
+        margin-top: 22px;
+        margin: 0 15px;
+        margin-top: 20px;
+    }
+    .tution-table-footer {
+        margin-top: 15px;
+        border-top: 1px solid #e1e1e1;
+    }
+    .bottom-tut p {
+        padding-left: 15px;
+    }
+    .tution-dis {
+        padding: 50px 0px;
+    }
+    .rating {
+        text-align: center;
+    }
+    .pro-price {
+        float: none;
+    }
+    .list-product .rating {
+        text-align: left;
+    }
+    .sin-line {
+        padding: 25px 30px;
+    }
+
+    .contact-page-form {
+        margin-bottom: 50px;
+        overflow: hidden;
+    }
+    .image-breadcrumb.style-con {
+        height: 121px;
+    }
+    .cart-area {
+        margin-right: 22px;
+    }
+    .post-page {
+        background: #fcfcfc;
+        padding: 40px 0px;
+    }
+    .writer-details {
+        width: 75%;
+        padding-left: 20px;
+    }
+    .post-writer {
+        padding: 15px 10px;
+    }
+    .writer-img {
+        width: 25%;
+    }
+    .writer-img img {
+        height: 100px;
+        width: 100px;
+        border: 3px solid #ebebeb;
+        margin-top: 42px;
+    }
+    .post-meta .meta-date a {
+        font-size: 10px;
+        line-height: 11px;
+        width: 68px;
+    }
+    .post-meta .meta-date a span {
+        font-size: 15px;
+        display: block;
+    }
+    .post-meta div {
+        height: 41px;
+        border-radius: 0px !important;
+    }
+    .post-meta .meta-date {
+        padding: 0px;
+    }
+    .post-meta .meta-comments a {
+        font-size: 11px;
+    }
+    .post-meta {
+        width: 70px;
+        top: 41px;
+        left: -54px;
+    }
+    .post-meta {
+        top: 15px;
+        left: 15px;
+    }
+    .post-meta .meta-tag a {
+        font-size: 15px;
+    }
+    .sin-download.bg-reds,.sin-download.bg-green {
+	float: none;
+    }
+    .childcare-service {
+	background-image: none;
+	background-color: #f5b201;
+}
+    .feature-area-wrapper.style-two {
+    margin-top: 34px;
+    padding-bottom: 10px;
+}
+    .welcome-boxed .wellcome-area-wrapper {
+    border-radius: 27px;
+    padding: 30px 0px;
+    padding-left: 30px;
+    background: #fff;
+}
+    .area-subline {
+    font-size: 14px;
+    padding: 0 10px;
+    padding-bottom: 25px;
+}
+    .countdown-one {
+    padding: 100px 0 100px;
+}
+    .sin-upc-event-two {
+    margin-bottom: 30px;
+}
+    .sin-lat-n3 {
+    margin-bottom: 30px;
+}
+    .expect-area {
+    padding: 102px 0px;
+    background-size: cover;
+    height: auto;
+}
+    .ex-icon {
+    width: 23%;
+}
+    .sin-expect {
+    margin-bottom: 25px;
+}
+    .area-heading.st-two::after {
+    width: 320px;
+    left: 50%;
+    margin-left: -160px;
+    background-size: 100%;
+}
+    .footer-widget.style-three::after {
+    left: 310px;
+ 
+}
+    .up-event-countdown .count-down {
+    width: 485px;
+    margin-bottom: 20px;
+}
+    .up-event-countdown .count-down .cdown {
+    height: 100px;
+    width: 100px !important;
+}
+    .up-event-countdown .cdown p {
+	font-size: 15px;
+}
+    .up-event-countdown .count-down .time-count {
+	font-size: 26px;
+	padding-top: 17px;
+}
+        .tes-popular {
+    padding: 90px 0 50px;
+}
+    .sin-up-content {
+    padding: 30px 15px;
+}
+    .sin-up-content p {
+	padding: 15px 0 20px;
+	font-size: 14px;
+	line-height: 25px;
+}
+    .sin-up-content a {
+	padding: 9px;
+	margin: 0 38px;
+}
+    .kids-care-gallery.style-three {
+	margin-top: 100px;
+}
+    .sin-lat-n3 .kids-care-btn {
+	font-size: 13px;
+	padding: 1px 8px;
+}
+    .ln3-cont p {
+	color: #80817e;
+	font-size: 14px;
+	padding-bottom: 15px;
+	padding-top: 14px;
+}
+    .ln3-cont {
+	padding: 30px 15px 15px;
+	border: 1px solid #f1f0f0;
+}
+    .single-widget {
+	padding: 0px;
+}
+
+    
+}
+
+@media (min-width: 0px) and (max-width: 400px) {
+    .teacher-detail {
+        height: 255px;
+    }
+    .cart-plus-minus-button {
+	float: none;
+	display: block;
+	margin-bottom: 14px;
+}
