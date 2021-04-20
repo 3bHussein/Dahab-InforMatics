@@ -1,0 +1,52 @@
+ .multi-appointment .schedule .btn { 
+          margin-bottom: 4px; 
+          font-size: 12px; 
+          width:91px; 
+          color:#ffffff;
+        }
+ .multi-appointment .public_status_button { 
+          margin: 4px 0px; 
+          font-size: 10px; 
+          color:#ffffff;
+         }
+.multi-appointment .public_status_button a {
+        font-size: 13px; 
+        color:#ffffff;
+}
+
+  .multi-appointment .form-control {
+     box-shadow: none;
+      height: 36px;
+      background-color: #f9f9f9;
+      border: 1px solid #ebebeb;
+      border-radius: 3px;
+   }
+
+  .multi-appointment .form-control:focus {
+          box-shadow: none;
+          border-color:#5bbc2e;
+  }
+
+  .multi-appointment .select-filters {
+        width: 100%;
+        overflow: hidden;
+        height: 36px;
+        margin: 0;
+        padding: 0;
+        border: 1px solid #ebebeb;
+        display: block;
+        background-color: #f9f9f9;
+        border-radius: 3px;
+    }
+    .multi-appointment .booking_area{border:1px solid #eee; padding: 10px;}
+    .multi-appointment .calender_area {
+          padding: 0 10px;
+          /*border-bottom: 1px solid #e3e3e3;*/
+      }
+    .multi-appointment  input[type="submit"],
+    .multi-appointment  input[type="submit"][disabled]:hover,
+    .multi-appointment  input[type="submit"][disabled]:focus {
+         float: right;
+         font-size: 12px;
+     }
+    

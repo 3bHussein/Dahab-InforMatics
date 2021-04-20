@@ -1,0 +1,40 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ 
+/*//////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////
+///////////////    CUSTOMIZE UI   ////////////////////////////////////////////////////*/ 
+
+.ui-state-default, 
+.ui-widget-content .ui-state-default, 
+.ui-widget-header .ui-state-default { border: 1px solid #1864dd/*{borderColorDefault}*/;  font-weight: normal/*{fwDefault}*/; color: #000000/*{fcDefault}*/; }
+.ui-state-disabled, 
+.ui-widget-content .ui-state-disabled, 
+.ui-widget-header .ui-state-disabled {background-color: #aaaaaa !important ; }
+.ui-state-active, 
+.ui-widget-content .ui-state-active, 
+.ui-widget-header .ui-state-active { border: 1px solid #aaaaaa/*{borderColorActive}*/; background:#dda108 !important; font-weight: normal/*{fwDefault}*/; color: #dd4c08/*{fcActive}*/; }
+.ui-state-disabled, 
+.ui-widget-content .ui-state-disabled, 
+.ui-widget-header .ui-state-disabled { opacity: .25; filter:Alpha(Opacity=25); background-image: none; }
+.ui-datepicker { width:100% ; padding: .4em .4em 0; }
+.ui-datepicker td span, .ui-datepicker td a { display: block; padding: .4em; text-align:center; text-decoration: none; }
+
+/*//////////////////////////////////////////////////////////////////////////////////////
+Add a comment to this line
+-////////////////////////////////////////////////////////////////////////////////////////
+-////////////////////////////////////////////////////////////////////////////////////////
+-///////////////    PUBLIC SECTION   ///////////////////////////////////////////////////*/ 
+
+.multi-appointment .form-control {
+    box-shadow: none;
+    height: 36px;
+    background-color: #f9f9f9;
+    border: 1px solid #ebebeb;
+    border-radius: 3px;
+    font-size: 12px;
+}
+
