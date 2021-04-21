@@ -9,99 +9,106 @@ include 'includes/header.php';
 
 
 <div class="blog-content  yes-vc">
-    <div class="row ">
-            <div class="kc_clfw"></div><section class="kc-elm kc-css-190962 kc_row"><div class="kc-row-container"><div class="kc-wrap-columns"><div class="kc-elm kc-css-106405 kc_col-sm-12 kc_column kc_col-sm-12"><div class="kc-col-container">      <div class="header-slider header-slider-preloader" id="header-slider">
-                <div class="animation-slide owl-carousel owl-theme" id="animation-slide">
-                    <!-- Slide 1-->
-                                   <div class="item slide-one" style="background-image: url(wp-content/uploads/2019/01/1920x950-1.jpg)">
-                        <div class="slide-table">
-                            <div class="slide-tablecell">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="slide-text text-center">
-                                                <h2>Take the world's  best </h2>
-                                                <p>Miker Ipsum is simply dummy text of the printing and typesetting industry. <br>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-                                                <div class="service-icon d-flex justify-content-center">
-                                                                                                        <div class="icon-box" data-toggle="tooltip" data-placement="top" title="Psychology">
-                                                        <i class="flaticon-focus"></i>
-                                                    </div>
-                                                                                                       <div class="icon-box" data-toggle="tooltip" data-placement="top" title="Therapy">
-                                                        <i class="flaticon-herbal"></i>
-                                                    </div>
-                                                                                                       <div class="icon-box" data-toggle="tooltip" data-placement="top" title="Pregnancy">
-                                                        <i class="flaticon-sperm-2"></i>
-                                                    </div>
-                                                                                                       <div class="icon-box" data-toggle="tooltip" data-placement="top" title="Pharmacy">
-                                                        <i class="flaticon-drug"></i>
-                                                    </div>
-                                                                                                                                                          <a href="#f " class="icon-box view-all">
-                                                        <span><i class="ti-plus"></i>VIEW ALL</span>
-                                                    </a>
-                                                                                                </div>
-                                                <!-- Service icon -->
-                                      
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                                                           <!-- Slide 2-->
-                    <div class="item slide-two" style="background-image: url(wp-content/uploads/2019/01/1920x950-3.jpg)">
-                        <div class="slide-table">
-                            <div class="slide-tablecell">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="slide-text">
-                                                <h2>We are the best medical team <br> in the world. </h2>
-                                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when.<br> looking                                                      at its layout The point of using Lorem Ipsum is that</p>
-                                                <div class="slide-buttons">
-                                                                                                        <a href="r" class="btn btn-primary slide-btn">Download Now</a>
-                                                                                                    </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                                                        <!-- Slide 3-->
-       
-                    <div class="item slide-three" style="background-image: url(wp-content/uploads/2019/01/1920x950-2.jpg)">
-                        <div class="slide-table">
-                            <div class="slide-tablecell">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="slide-text text-right">
-                                                <h2>We provide the best service.</h2>
-                                                <p>Miker Ipsum is simply dummy text of the printing and typesetting industry.<br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-                                                <div class="slide-buttons">
-                                                                                                        <a href="F" class="btn btn-primary slide-btn">Download Now</a>
-                                                    
-                                                                                                    </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                                         
-                </div>
-                <!-- /.End of slider -->
-                <!-- Preloader -->
-                <div class="slider_preloader">
-                    <div class="slider_preloader_status">&nbsp;</div>
-                </div>
-            </div>
-            <!-- /.End of slider -->
+    <div class="row "style="margin-right:-15px;margin-left: -15px;">
+        <!-- <div class="row "style="margin-right: 0px;margin-left: 0px;"> -->
 
-            
-</div></div></div></div></section><section class="kc-elm kc-css-438228 kc_row"><div class="kc-row-container  kc-container"><div class="kc-wrap-columns"><div class="kc-elm kc-css-985133 kc_col-sm-12 kc_column kc_col-sm-12"><div class="kc-col-container">
+            <div class="kc_clfw"></div>
+
+<section class="kc-elm kc-css-190962 kc_row"><div class="kc-row-container"><div class="kc-wrap-columns"><div class="kc-elm kc-css-106405 kc_col-sm-12 kc_column kc_col-sm-12"><div class="kc-col-container">      <div class="header-slider header-slider-preloader" id="header-slider">
+<div class="animation-slide owl-carousel owl-theme" id="animation-slide">
+<!-- Slide 1-->
+<div class="item slide-one" style="background-image: url(wp-content/uploads/2019/01/1920x950-1.jpg)">
+<div class="slide-table">
+<div class="slide-tablecell">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="slide-text text-center">
+<h2>Take the world's  best </h2>
+<p>Miker Ipsum is simply dummy text of the printing and typesetting industry. <br>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+<div class="service-icon d-flex justify-content-center">
+<div class="icon-box" data-toggle="tooltip" data-placement="top" title="Psychology">
+<i class="flaticon-focus"></i>
+</div>
+<div class="icon-box" data-toggle="tooltip" data-placement="top" title="Therapy">
+<i class="flaticon-herbal"></i>
+</div>
+<div class="icon-box" data-toggle="tooltip" data-placement="top" title="Pregnancy">
+<i class="flaticon-sperm-2"></i>
+</div>
+<div class="icon-box" data-toggle="tooltip" data-placement="top" title="Pharmacy">
+<i class="flaticon-drug"></i>
+</div>
+<a href="#f " class="icon-box view-all">
+<span><i class="ti-plus"></i>VIEW ALL</span>
+</a>
+</div>
+<!-- Service icon -->
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Slide 2-->
+<div class="item slide-two" style="background-image: url(wp-content/uploads/2019/01/1920x950-3.jpg)">
+<div class="slide-table">
+<div class="slide-tablecell">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="slide-text">
+<h2>We are the best medical team <br> in the world. </h2>
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when.<br> looking                                                      at its layout The point of using Lorem Ipsum is that</p>
+<div class="slide-buttons">
+<!-- <a href="r" class="btn btn-primary slide-btn">Download Now</a> -->
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<!-- Slide 3-->
+
+<!-- <div class="item slide-three" style="background-image: url(wp-content/uploads/2019/01/1920x950-2.jpg)">
+<div class="slide-table">
+<div class="slide-tablecell">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="slide-text text-right">
+<h2>We provide the best service.</h2>
+<p>Miker Ipsum is simply dummy text of the printing and typesetting industry.<br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+<div class="slide-buttons">
+<a href="F" class="btn btn-primary slide-btn">Download Now</a>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> -->
+
+</div>
+<!-- /.End of slider -->
+<!-- Preloader -->
+<div class="slider_preloader">
+<div class="slider_preloader_status">&nbsp;</div>
+</div>
+</div>
+<!-- /.End of slider -->
+
+
+</div></div></div></div>
+</section>
+<section class="kc-elm kc-css-438228 kc_row"><div class="kc-row-container  kc-container"><div class="kc-wrap-columns"><div class="kc-elm kc-css-985133 kc_col-sm-12 kc_column kc_col-sm-12"><div class="kc-col-container">
   <section class="grid-inner">
                 <div class="container">
                     <div class="row">
@@ -188,29 +195,9 @@ include 'includes/header.php';
                 </div>
             </section>
             
-</div></div></div></div></section><section class="kc-elm kc-css-615214 kc_row"><div class="kc-row-container  kc-container"><div class="kc-wrap-columns"><div class="kc-elm kc-css-428472 kc_col-sm-12 kc_column kc_col-sm-12"><div class="kc-col-container"> 
- 
-           <!-- <div class="text-block">
-	            <h6 class="heading-sm">ABOUT</h6>
-	            <h3>We make a Difference in your lives</h3>
-	            
-<ul>
- 	<li>It is a long established fact that a reader will be distracted by the readable content of a page when looking.</li>
- 	<li>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</li>
- 	<li>Many desktop publishing packages and web page editors now use Lorem Ipsum.</li>
-</ul>
-
-<hr />
-
-<blockquote class="blockquote quote-text">
-<p class="mb-0">“The mind has great influence over the body and maladies often have their origin there.”</p>
-<cite class="quote-attribution">— John Doe Molicere</cite>
-<div class="signature"><img src="http://wordpressall.thememinister.com/wptheme/hospitalbdtask_demowp-content/uploads/2018/12/signature.png" alt="" /></div></blockquote>
-	            <hr>
-	            <blockquote class="blockquote quote-text">
-	                
-	                RGVzY3JpcHRpb24=	            </blockquote> 
-            </div> -->
+</div></div></div></div></section><section class="kc-elm kc-css-615214 kc_row"><div class="kc-row-container  kc-container">
+<div class="kc-wrap-columns"><div class="kc-elm kc-css-428472 kc_col-sm-12 kc_column kc_col-sm-12"><div class="kc-col-container"> 
+  
              <div class="about-wrapper">
             <div class="container">
                 <div class="row align-items-center justify-content-between about-text">

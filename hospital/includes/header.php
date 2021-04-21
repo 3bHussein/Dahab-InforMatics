@@ -226,10 +226,10 @@ img.emoji {
 <li><a href="http://twitter"><i class="fab fa-twitter"></i></a></li>
 <li><a href="http://instagram"><i class="fab fa-instagram"></i></a></li>
 
+<!-- 
 <li><a href="http://dribble"><i class="fab fa-dribbble"></i></a></li>
 <li><a href="http://skype"><i class="fab fa-skype"></i></a></li>
-
-<li><a href=""><i class="fab  fa fa-align-right"></i></a></li>
+<li><a href=""><i class="fab  fa fa-align-right"></i></a></li> -->
 </ul>
 </div>
 
@@ -246,7 +246,7 @@ img.emoji {
                         <div class="col-md-4 col-lg-3 col-xl-4">
                             <div class="d-flex align-items-center logo-wrap">
                                 <div class="main-logo">
-                                    <a href="/" class="headerLogo"><img src="wp-content/uploads/2018/12/logo.png" alt="logo"></a>
+                                    <a href="index.php" class="headerLogo"><img src="wp-content/uploads/2018/12/logo.png" alt="logo"></a>
                                         </div>
                                 <div class="order-md-first sidebar-toggle-btn">
                                     <button type="button" id="sidebarCollapse" class="btn">
@@ -290,7 +290,7 @@ img.emoji {
                       
                     <ul id="menu-menu-1" class="navbar-nav mr-auto">
                     <li id="menu-item-202" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-202 nav-item active"><a href="index.php" class="nav-link active">Home</a></li>
-                    <li id="menu-item-1430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1430 nav-item"><a href="/about/" class="nav-link">About</a></li>
+                    <li id="menu-item-1430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1430 nav-item"><a href="about.php" class="nav-link">About</a></li>
 
 <li id="menu-item-1428" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1428 nav-item dropdown"><a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Search by Doctors</a>
 <div class="dropdown-menu">
@@ -312,7 +312,7 @@ img.emoji {
 <!--  -->
 
  
-  <li id="menu-item-1431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1431 nav-item"><a href="/contact/" class="nav-link">Contact US</a></li>
+  <li id="menu-item-1431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1431 nav-item"><a href="contact.php" class="nav-link">Contact US</a></li>
 </ul>                       
                         <ul class="navbar-nav ml-auto">
                             <li class="nav-item nav-btn">
