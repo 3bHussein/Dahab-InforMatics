@@ -1,3 +1,65 @@
+<footer class="main-footer footer-dark">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="row">
+                        <div id="text-5" class="  col-md-3 widget widget_text col-block "> <h3 class="footer-title">Hospital Management System</h3>			<div class="textwidget">
+<div class="footer-des">
+<p class="des">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+<div class="btnBlock ">
+                                <a href="contact.html" class="btn btn-link">Contact Us<i class="ti-arrow-right"></i></a>
+                            </div>
+</p></div>
+</div>
+		</div>            <div id="recent-posts-2" class="  col-md-3 widget  col-block ">                                 <h3 class="footer-title">Departments</h3>               
+                   <ul class="footer-link list-unstyled">
+                   	 				 	<li><a href="/department_cat/anatomy-neurobiology/">Anatomy &amp; Neurobiology</a></li>
+				 				 	<li><a href="/department_cat/biological-chemistry/">Biological Chemistry</a></li>
+				 				 	<li><a href="/department_cat/clinical-departments/">Clinical Departments</a></li>
+				 				 	<li><a href="/department_cat/dermatology/">Dermatology</a></li>
+				 				 	<li><a href="/department_cat/emergency-medicine/">Emergency Medicine</a></li>
+				 				 
+				</ul>
+
+                                     
+
+            </div>            <div id="text-2" class="  col-md-3 widget widget_text col-block "> <h3 class="footer-title">Quick Links</h3>			<div class="textwidget"><ul class="footer-link list-unstyled quickLink">
+<li><a href="#">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Doctors</a></li>
+<li><a href="#">Pharmacy</a></li>
+
+<li><a href="#">Departments</a></li>
+<li><a href="#">Contact US</a></li>
+<!-- <li><a href="#">Timetable</a></li>
+<li><a href="#">Map</a></li>
+<li><a href="#">Blog</a></li>
+<li><a href="#">Medical</a></li>
+<li><a href="#">Gallery</a></li>
+<li><a href="#">Contact</a></li>
+<li><a href="#">Timetable</a></li> -->
+</ul>
+</div>
+		</div><div id="contact_us-2" class="  col-md-3 widget address-inner col-block ">
+     
+ <h3 class="footer-title">Contact Details</h3><div class="addressLink">20th Maadi St, Cairo,Egypt   <ul class="list-unstyled">
+        <li><i class="ti-mobile"></i> Tel: <a href="tel:808-526-0030">(+2) 012221020</a></li>
+        <!-- <li><i class="icon-mobile"></i> text: <a href="sms:808-526-0030">(123) 456-7890</a></li> -->
+        <li><i class="ti-email"></i> 
+        Email: <a class="linkUnderlined" href="mailto:info@hospital.com"><span >info@hospital.com</span>
+        </a></li>
+        <li><i class="ti-printer"></i> Fax:  (+2) 012221020</li>
+    </ul>
+<div class="btnBlock "><a class="btn btn-link" href="#" target="_blank" rel="noopener">Get Directions<i class="ti-arrow-right"></i></a></div>
+</div>
+
+        </div>                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
 </footer>
         <!-- /.Footer -->
         <div class="sub-footer dark">
@@ -5,7 +67,7 @@
                 <div class="row">
                     <div class="col-md-7">
                                                 <div class="coptText">
-                            Copyright © 2016-2018 bdtask . All rights reserved. 
+                            Copyright © 2021<a style="color:#037d71;" href="https://www.dahab-informatics.com/"><strong> Dahab Informatics</strong></a> . All rights reserved. 
                         </div>
                                            </div>
                 </div>
