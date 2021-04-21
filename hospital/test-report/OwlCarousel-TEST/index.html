@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta charset="utf-8">
+    <meta name="msapplication-tap-highlight" content="no" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Basic usage demo">
+    <meta name="author" content="David Deutsch">
+    <title>Document</title>
+
+
+ 
+
+    
+
+<link rel="stylesheet" href="owl.carousel.min.css" />
+<link rel="stylesheet" href="owl.theme.default.min.css" />
+<link rel="stylesheet" href="print.min.css" />
+
+<script src="jquery.min.js"></script>
+<script src="owl.carousel.js"></script>
+<script src="print.min.js"></script>
+</head>
+<body>
+    
+
+
+    <div class="owl-carousel owl-theme">
+        <div> Your Content </div>
+        <div> Your Content </div>
+        <div> Your Content </div>
+        <div> Your Content </div>
+        <div> Your Content </div>
+        <div> Your Content </div>
+        <div> Your Content </div>
+      </div>
+
+
+<div>
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis numquam, aut molestiae itaque odio earum autem non. Sed nostrum, aperiam, doloribus eveniet, cumque obcaecati enim aliquid repudiandae beatae pariatur possimus.
+
+</div>
+
+
+ 
+
+
+ 
+<form method="post" action="#" id="printJS-form" class="ds">
+  <input type="text" value="enter your name"> 
+  <input type="text" value="enter your name"> 
+  <input type="text" value="enter your name"> 
+  <input type="text" value="enter your name"> 
+  
+</form>
+
+ 
+<button type="button" onclick="printJS({ printable: 'printJS-form', type: 'html', header: 'PrintJS - Form Element Selection' ,headerStyle:
+'font-weight: 300;color:black;text;text-align: center;background-image: url(t1.jpg);',CSS:'dd.css'})">
+  Print Form with Header
+  
+</button>
+<div style="background-image: url('t1.jpg');"></div>
+
+
+<div style="background-image: url(t1.jpg);">sadasd
+  <img src="t1.jpg">
+</div>
+ 
+ 
+  
+
+
+
+
+
+
+
+
+
+
+ 
+      <script>
+        $(document).ready(function() {
+          var owl = $('.owl-carousel');
+          owl.owlCarousel({
+            margin: 10,
+            nav: true,
+            loop: true,
+            responsive: {
+              0: {
+                items: 1
+              },
+              600: {
+                items: 3
+              },
+              1000: {
+                items: 5
+              }
+            }
+          })
+        })
+      </script>
+</body>
+</html>
