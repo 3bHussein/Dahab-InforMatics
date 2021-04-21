@@ -7,7 +7,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
                 <link rel="shortcut icon" href="wp-content/uploads/2019/01/favicon.png">
                  
-        <title>hospital &#8211; </title>
+        <title>hospital &#8211;Home Page </title>
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <!-- <link rel="alternate" type="application/rss+xml" title="hospital &raquo; Feed" href="/feed/" />
