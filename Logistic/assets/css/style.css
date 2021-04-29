@@ -1889,7 +1889,12 @@ a.action-bottom:hover {
     margin-left: 30px;
     margin-right:126px;
 }
-  }
+.new-pull {
+  margin-top: -270px;
+  margin-bottom: 20px;
+}
+
+  
   .actions .btn {
     width: 36%;
     margin: 1.5em 0;
@@ -29736,7 +29741,7 @@ video {
 }
 
 .pull-top-309px {
-  margin-top: -309px;
+  margin-top: -360px;
 }
 
 .pull-top-310px {
@@ -33778,6 +33783,10 @@ form.dark-form ::-ms-input-placeholder {
     margin-left: 30px;
     margin-right:126px;
 }
+.pzzzz {
+  margin-top: -143px;
+}
+
 }
 
 .rating ul {
@@ -33931,6 +33940,11 @@ form.dark-form ::-ms-input-placeholder {
     margin-left: 30px;
     margin-right:126px;
   }
+  .new-pull {
+    margin-top: -270px;
+    margin-bottom: 20px;
+  }
+  
   ul.pagination {
     margin-bottom: 85px;
   }
@@ -38056,6 +38070,11 @@ form.dark-form ::-ms-input-placeholder {
     margin-left: 30px;
     margin-right:126px;
 }
+ .new-pull {
+   margin-top: -309px;
+   margin-bottom: 20px;
+}
+
   #search-filter-2 {
     margin-top: 0px;
     padding-top: 50px;

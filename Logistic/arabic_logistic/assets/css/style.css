@@ -1343,7 +1343,7 @@ header#sidebar-header ul.nav-menu .mega-links-4columns ul.sub-menu-columns > li 
 .contact-info-map h2.title {
   color: #fff;
   text-transform: uppercase;
-  font-size: 16px;
+  font-size: 19px;
   font-weight: 500;
 }
 .contact-info-map .icon {
@@ -1352,11 +1352,11 @@ header#sidebar-header ul.nav-menu .mega-links-4columns ul.sub-menu-columns > li 
   margin-right: 15px;
 }
 .contact-info-map span.title-in {
-  font-size: 13px;
+  font-size: 17px;
 }
 .contact-info-map .text {
   line-height: 19px;
-  font-size: 14px;
+  font-size: 18px;
 }
 
 /*----===================== Section Title =================--------*/
@@ -1895,6 +1895,14 @@ a.action-bottom:hover {
     width: 20%;
     display: inline !important;
   }
+  .new-dir{
+    text-align:right;
+  }
+  .new-pull {
+    margin-top: -143px;
+    margin-bottom: 20px;
+  }
+  
   header ul.nav-menu > li {
     display: block;
     float:none;
@@ -2082,7 +2090,7 @@ footer.layout-dark .about-us {
 
 body {
   font-family: "Poppins";
-  font-size: 14px;
+  font-size: 17px;
   line-height: 25px;
   background-color: #FAFAFA;
 }
@@ -2175,7 +2183,7 @@ h4 {
 
 .h5,
 h5 {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 20px;
 }
 
@@ -29761,7 +29769,7 @@ video {
 }
 
 .pull-top-309px {
-  margin-top: -309px;
+  margin-top: -357px;
 }
 
 .pull-top-310px {
@@ -33799,6 +33807,13 @@ form.dark-form ::-ms-input-placeholder {
   .YouTubePopUp-Content {
     max-width: 90%;
   }
+  .new-dir{
+    text-align:right;
+  }
+  .new-pull {
+    margin-top: -143px;
+    margin-bottom: 20px;
+  }
   header ul.nav-menu > li {
     display: block;
     float:none;
@@ -33965,6 +33980,13 @@ header ul.nav-menu > li > .btn {
     line-height: inherit;
     letter-spacing: normal;
 
+  }
+  .new-dir{
+    text-align:right;
+  }
+  .new-pull {
+    margin-top: -143px;
+    margin-bottom: 20px;
   }
   header ul.nav-menu {
     margin-right:0px;
@@ -38104,6 +38126,13 @@ header ul.nav-menu > li > .btn {
   .thum-xs {
     margin: 0px !important;
   }
+  .new-dir{
+    text-align:right;
+  }
+  .new-pull {
+    margin-top: -143px;
+    margin-bottom: 20px;
+  }
   header ul.nav-menu > li {
     display: block;
     float:none;
@@ -38158,4 +38187,8 @@ header ul.nav-menu > li > .btn {
 .first-head{
   margin-right: 0px;
   }
+  .new-dir{
+    text-align:right
+  }
+ 
 
