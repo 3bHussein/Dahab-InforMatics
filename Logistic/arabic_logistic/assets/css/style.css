@@ -1361,9 +1361,10 @@ header#sidebar-header ul.nav-menu .mega-links-4columns ul.sub-menu-columns > li 
 
 /*----===================== Section Title =================--------*/
 .section-title-right .icon {
-  float: left;
+  float: right!important;
   margin-right: 20px;
   margin-top: -10px;
+  margin-left: 20px; 
 }
 
 .nile-about-section {
@@ -1902,6 +1903,10 @@ a.action-bottom:hover {
     margin-top: -143px;
     margin-bottom: 20px;
   }
+  .sm-mb-45px {
+    margin-bottom: 45px !important;
+    margin-top: 45px;
+  }
   
   header ul.nav-menu > li {
     display: block;
@@ -2090,7 +2095,7 @@ footer.layout-dark .about-us {
 
 body {
   font-family: "Poppins";
-  font-size: 17px;
+  font-size: 18px;
   line-height: 25px;
   background-color: #FAFAFA;
 }
@@ -33814,6 +33819,10 @@ form.dark-form ::-ms-input-placeholder {
     margin-top: -143px;
     margin-bottom: 20px;
   }
+  .sm-mb-45px {
+    margin-bottom: 45px !important;
+    margin-top: 45px;
+  }
   header ul.nav-menu > li {
     display: block;
     float:none;
@@ -33987,6 +33996,10 @@ header ul.nav-menu > li > .btn {
   .new-pull {
     margin-top: -143px;
     margin-bottom: 20px;
+  }
+  .sm-mb-45px {
+    margin-bottom: 45px !important;
+    margin-top: 45px;
   }
   header ul.nav-menu {
     margin-right:0px;
@@ -34171,6 +34184,7 @@ header ul.nav-menu > li > .btn {
 
   .sm-mb-45px {
     margin-bottom: 45px !important;
+  
   }
 
   /* Margin Top */
@@ -38129,9 +38143,17 @@ header ul.nav-menu > li > .btn {
   .new-dir{
     text-align:right;
   }
+  .sm-mb-45px {
+    margin-bottom: 45px !important;
+    margin-top: 45px;
+  }
   .new-pull {
     margin-top: -143px;
     margin-bottom: 20px;
+  }
+  .sm-mb-45px {
+    margin-bottom: 45px !important;
+    margin-top: 45px;
   }
   header ul.nav-menu > li {
     display: block;
@@ -38188,7 +38210,12 @@ header ul.nav-menu > li > .btn {
   margin-right: 0px;
   }
   .new-dir{
-    text-align:right
+    text-align:right;
   }
- 
-
+ .new-font{
+   font-size:21px;
+   font-weight:bolder;
+ }
+ .new-right{
+  float:right;
+ }

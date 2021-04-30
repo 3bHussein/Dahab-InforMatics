@@ -23,14 +23,14 @@ include 'assets/includes/header.php';
 			<div class="section-title margin-bottom-40px">
 				<div class="row justify-content-center">
 					<div class="col-lg-7">
-						<div class="icon text-main-color">01</div>
+						<!-- <div class="icon text-main-color">01</div> -->
 						<div class="h2">Last News</div>
 					</div>
 				</div>
 			</div>
 			<!-- // End Title -->
 
-			<div class="row">
+			<!-- <div class="row">
 
 				<div class="col-lg-4 col-md-6 sm-mb-35px">
 					<div class="blog-item">
@@ -73,15 +73,15 @@ include 'assets/includes/header.php';
 					</div>
 				</div>
 
-			</div>
+			</div> -->
 
 		</div>
 	</div>
 
 
-	<div class="nile-about-section">
+	 <!-- <div class="nile-about-section">
 		<div class="container">
-			<!-- Title -->
+		
 			<div class="section-title margin-bottom-40px">
 				<div class="row justify-content-center">
 					<div class="col-lg-7">
@@ -90,7 +90,7 @@ include 'assets/includes/header.php';
 					</div>
 				</div>
 			</div>
-			<!-- // End Title -->
+			
 
 			<div class="row">
 				<div class="col-lg-6 sm-mb-45px">
@@ -127,7 +127,7 @@ include 'assets/includes/header.php';
 				</div>
 			</div>
 		</div>
-	</div>
+	</div>  -->
 
 <?php
 include 'assets/includes/footer.php';

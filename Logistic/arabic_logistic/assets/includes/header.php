@@ -2,7 +2,7 @@
 <html lang="en-US">
 
 <head>
-    <title>Dahab-logistics</title>
+    <title>Nile - Transportation and Logistics Responsive HTML5 Template</title>
     <meta name="author" content="Nile-Theme">
     <meta name="robots" content="index follow">
     <meta name="googlebot" content="index follow">
@@ -109,13 +109,13 @@
                                         </li>
                                            <li class="first-head first-padd"><a href="index.php">الرئيسية</a>
 										</li>
-                                        <li><a href="#"> من نحن</a>
+                                        <li><a href="about.php"> من نحن</a>
 											</li>
                                             <li><a href="#">خدمات</a>
 											</li>
                                             <li><a href="#">معرض الصور</a>
 											</li>
-                                            <li><a href="#">عملائنا</a>	
+                                            <li><a href="customers.php">عملائنا</a>	
 										</li>
                                            <li><a href="contact.php"> اتصل بنا</a>	
 										</li>

@@ -2,7 +2,7 @@
 <html lang="en-US">
 
 <head>
-    <title>Dahab-logistics</title>
+    <title>Nile - Transportation and Logistics Responsive HTML5 Template</title>
     <meta name="author" content="Nile-Theme">
     <meta name="robots" content="index follow">
     <meta name="googlebot" content="index follow">
@@ -57,18 +57,18 @@
                                 <div class="col-xl-4  d-xl-block">
                                     <div class="row">
                                         <div class="col-lg-6">
-                                            <!-- lang dropdown -->
+                                            
                                             <div class="dropdown show">
                                                 <a class="dropdown-toggle text-white text-uppercase" href="../Logistic/index.php" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                                <span class="flag-icon flag-icon-us margin-right-8px"></span> English
-                              </a>
+                                                  </a>
 
-                                                <div class="dropdown-menu text-small text-uppercase" aria-labelledby="dropdownMenuLink">
+                                                   <div class="dropdown-menu text-small text-uppercase" aria-labelledby="dropdownMenuLink">
                                                     <a class="dropdown-item" href="arabic_logistic/index.php">
                                                     <span class="flag-icon flag-icon-mr margin-right-8px"></span> Arabic</a>
-                                                </div>
+                                                      </div>
                                             </div>
-                                            <!-- // lang dropdown -->
+                                           
 
                                         </div>
 
@@ -104,13 +104,13 @@
 										<li ><a href="index.php">Home</a>
 										
 										</li>
-										<li><a href="#">About Us</a>
+										<li><a href="about.php">About Us</a>
 											</li>
 										<li><a href="#">Services</a>
 											</li>
 										<li><a href="#">Gallery</a>
 											</li>
-										<li><a href="#">Customers</a>	
+										<li><a href="customers.php">Customers</a>	
 										</li>
 										<li><a href="contact.php">Contact Us</a>	
 										</li>
