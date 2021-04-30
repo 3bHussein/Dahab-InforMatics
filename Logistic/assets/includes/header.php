@@ -2,8 +2,8 @@
 <html lang="en-US">
 
 <head>
-    <title>Nile - Transportation and Logistics Responsive HTML5 Template</title>
-    <meta name="author" content="Nile-Theme">
+    <title>Dahab - Logistics</title>
+    <meta name="author" content="Dahab">
     <meta name="robots" content="index follow">
     <meta name="googlebot" content="index follow">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
