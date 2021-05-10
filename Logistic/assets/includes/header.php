@@ -2,8 +2,7 @@
 <html lang="en-US">
 
 <head>
-    <title>Dahab - Logistics</title>
-    <meta name="author" content="Dahab">
+    <title>Dahab Logistics</title>
     <meta name="robots" content="index follow">
     <meta name="googlebot" content="index follow">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -32,6 +31,9 @@
     <script src="assets/js/jquery-3.2.1.min.js"></script>
     <!-- fontawesome  -->
     <link rel="stylesheet" href="assets/fonts/font-awesome/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.css" />
 
 </head>
 
@@ -50,7 +52,7 @@
                                     <div class="row">
                                         <div class="col-md-4"><i class="fa fa-phone margin-right-10px"></i>
                                         <a style="color:white" href="tel:010 200 202 03"> 010 200 202 03</a></div>
-                                        <div class="col-md-4"><i class="fa fa-envelope-o margin-right-10px"></i> dahab@logistic.com</div>
+                                        <div class="col-md-4"><i class="fa fa-envelope-o margin-right-10px"></i><a style="color:white" href="mailto:dahablogs@gmail.com/">dahablogs@gmail.com</a> </div>
                                         <div class="col-md-4"><i class="fa fa-map-marker margin-right-10px"></i> 13 batlaymous Street, Alexandria</div>
                                     </div>
                                 </div>
@@ -65,7 +67,7 @@
 
                                                    <div class="dropdown-menu text-small text-uppercase" aria-labelledby="dropdownMenuLink">
                                                     <a class="dropdown-item" href="arabic_logistic/index.php">
-                                                    <span class="flag-icon flag-icon-mr margin-right-8px"></span> Arabic</a>
+                                                    <span class="flag-icon flag-icon-mr margin-right-8px"></span> عربى</a>
                                                       </div>
                                             </div>
                                            
@@ -115,7 +117,7 @@
 										<li><a href="contact.php">Contact Us</a>	
 										</li>
 									</ul>
-                          <a data-toggle="modal" data-target=".bd-example-modal-lg" href="#"
+                          <a data-toggle="modal" data-target=".bd-example-modal-lg" href="map.php"
                           class="btn btn-sm border-radius-30 margin-tb-20px text-white  background-main-color 
                            box-shadow float-right padding-lr-20px margin-left-30px d-block  ">
                           <i class="fa fa-location-arrow "></i> Track your Shippment

@@ -2,8 +2,8 @@
 <html lang="en-US">
 
 <head>
-    <title>Dahab - Logistics </title>
-    <meta name="author" content="Dahab">
+    <title>Dahab Logistics</title>
+    <meta name="author" content="Nile-Theme">
     <meta name="robots" content="index follow">
     <meta name="googlebot" content="index follow">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -49,8 +49,7 @@
                                 <div class="col-xl-8 col-lg-12">
                                     <div class="row">
                                         <div class="col-md-4 "><i class="fa fa-phone margin-right-10px"></i><a style="color:white" href="tel:010 200 202 03"> 010 200 202 03</a></div>
-                                        <div class="col-md-4  "><i class="fa fa-envelope-o margin-right-10px"></i> dahab@logistic.com</div>
-                                        <div class="col-md-4 "><i class="fa fa-map-marker margin-right-10px"></i> ١٣ شارع بطليموس، الاسكندريه</div>
+                                        <div class="col-md-4"><i class="fa fa-envelope-o margin-right-10px"></i><a style="color:white" href="mailto:dahablogs@gmail.com/">dahablogs@gmail.com</a> </div>                                        <div class="col-md-4 "><i class="fa fa-map-marker margin-right-10px"></i> ١٣ شارع بطليموس، الاسكندريه</div>
                                     </div>
                                 </div>
                                 <div class="col-xl-4  d-xl-block">
