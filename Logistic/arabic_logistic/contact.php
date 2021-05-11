@@ -112,7 +112,7 @@
 											</li>
                                             <li><a href="#">خدمات</a>
 											</li>
-                                            <li><a href="#">معرض الصور</a>
+                                            <li><a href="gallery.php">معرض الصور</a>
 											</li>
                                             <li><a href="customers.php">عملائنا</a>	
 										</li>

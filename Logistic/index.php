@@ -8,7 +8,7 @@ include 'assets/includes/header.php';
 			<div class="padding-tb-120px">
 				<h1>Home</h1>
 				<ol class="breadcrumb">
-					<li><a href="index.php"></a></li>
+					<!-- <li><a href="index.php"></a></li> -->
 					<!-- <li class="active">Blog Post</li> -->
 				</ol>
 			</div>

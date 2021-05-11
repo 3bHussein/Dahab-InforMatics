@@ -107,7 +107,7 @@
 											</li>
 										<li><a href="#">Services</a>
 											</li>
-										<li><a href="#">Gallery</a>
+										<li><a href="gallery.php">Gallery</a>
 											</li>
 										<li><a href="customers.php">Customers</a>	
 										</li>
