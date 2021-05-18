@@ -2,7 +2,7 @@
 <html lang="en-US">
 
 <head>
-    <title>Nile - Transportation and Logistics Responsive HTML5 Template</title>
+    <title>Dahab Logistics</title>
     <meta name="author" content="Nile-Theme">
     <meta name="robots" content="index follow">
     <meta name="googlebot" content="index follow">
@@ -50,8 +50,7 @@
                                     <div class="row">
                                         <div class="col-md-4"><i class="fa fa-phone margin-right-10px"></i>
                                         <a style="color:white" href="tel:010 200 202 03"> 010 200 202 03</a></div>
-                                        <div class="col-md-4"><i class="fa fa-envelope-o margin-right-10px"></i> dahab@logistic.com</div>
-                                        <div class="col-md-4"><i class="fa fa-map-marker margin-right-10px"></i> 13 batlaymous Street, Alexandria</div>
+                                        <div class="col-md-4"><i class="fa fa-envelope-o margin-right-10px"></i><a style="color:white" href="mailto:dahablogs@gmail.com/">dahablogs@gmail.com</a> </div>                                        <div class="col-md-4"><i class="fa fa-map-marker margin-right-10px"></i> 13 batlaymous Street, Alexandria</div>
                                     </div>
                                 </div>
                                 <div class="col-xl-4  d-xl-block">
@@ -65,7 +64,7 @@
 
                                                    <div class="dropdown-menu text-small text-uppercase" aria-labelledby="dropdownMenuLink">
                                                     <a class="dropdown-item" href="arabic_logistic/about.php">
-                                                    <span class="flag-icon flag-icon-mr margin-right-8px"></span> Arabic</a>
+                                                    <span class="flag-icon flag-icon-mr margin-right-8px"></span> عربى</a>
                                                       </div>
                                             </div>
                                            
@@ -108,7 +107,7 @@
 											</li>
 										<li><a href="#">Services</a>
 											</li>
-										<li><a href="#">Gallery</a>
+										<li><a href="gallery.php">Gallery</a>
 											</li>
 										<li><a href="customers.php">Customers</a>	
 										</li>

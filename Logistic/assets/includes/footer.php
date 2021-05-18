@@ -79,12 +79,12 @@
 					<div class="col-lg-6">
 						<!--  Social -->
 						<ul class="social-media list-inline text-lg-right text-center margin-0px text-white">
-							<li class="list-inline-item"><a class="facebook" href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-							<li class="list-inline-item"><a class="youtube" href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-							<li class="list-inline-item"><a class="linkedin" href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-							<li class="list-inline-item"><a class="google" href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-							<li class="list-inline-item"><a class="twitter" href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-							<li class="list-inline-item"><a class="rss" href="#"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
+							<li class="list-inline-item"><a class="facebook" href="https://www.facebook.com/Dahab-logistics-106436401618237/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
+							<li class="list-inline-item"><a class="rss" href="https://api.whatsapp.com/send?phone=201050901500&fbclid=IwAR0aa-fZxCXi9b7IeBL_XJHHPpMB80Pa5oMaG0PCsl0GzhVi3q5JiPl0XdM"><i class="fa fa-whatsapp" aria-hidden="true"></i></a></li>
+							<li class="list-inline-item"><a class="twitter" href="https://twitter.com/DahabLogistics"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+							<li class="list-inline-item"><a class="google" href="dahablogs@gmail.com"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+							
+							
 						</ul>
 						<!-- // Social -->
 					</div>

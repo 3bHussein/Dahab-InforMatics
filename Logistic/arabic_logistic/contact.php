@@ -2,7 +2,7 @@
 <html lang="en-US">
 
 <head>
-    <title>Nile - Transportation and Logistics Responsive HTML5 Template</title>
+    <title>Dahab Logistics</title>
     <meta name="author" content="Nile-Theme">
     <meta name="robots" content="index follow">
     <meta name="googlebot" content="index follow">
@@ -49,8 +49,7 @@
                                 <div class="col-xl-8 col-lg-12">
                                     <div class="row">
                                         <div class="col-md-4 "><i class="fa fa-phone margin-right-10px"></i><a style="color:white" href="tel:010 200 202 03"> 010 200 202 03</a></div>
-                                        <div class="col-md-4  "><i class="fa fa-envelope-o margin-right-10px"></i> dahab@logistic.com</div>
-                                        <div class="col-md-4 "><i class="fa fa-map-marker margin-right-10px"></i> ١٣ شارع بطليموس، الاسكندريه</div>
+                                        <div class="col-md-4"><i class="fa fa-envelope-o margin-right-10px"></i><a style="color:white" href="mailto:dahablogs@gmail.com/">dahablogs@gmail.com</a> </div>                                        <div class="col-md-4 "><i class="fa fa-map-marker margin-right-10px"></i> ١٣ شارع بطليموس، الاسكندريه</div>
                                     </div>
                                 </div>
                                 <div class="col-xl-4  d-xl-block">
@@ -113,7 +112,7 @@
 											</li>
                                             <li><a href="#">خدمات</a>
 											</li>
-                                            <li><a href="#">معرض الصور</a>
+                                            <li><a href="gallery.php">معرض الصور</a>
 											</li>
                                             <li><a href="customers.php">عملائنا</a>	
 										</li>
@@ -152,11 +151,11 @@
                     <p>يقع مركز الخدمة بالاسكندريه -منطقة سابا باشا وبموقع سهل الوصول من خلال الطرق السريعه وميناء الاسكندريه البحرى</p>
                     <h5>:رقم الموبايل</h5>
                     <!-- <span class="d-block"><i class="fa fa-phone text-main-color margin-right-10px" aria-hidden="true"></i>010 200 202 03</span> -->
-                    <span class="d-block sm-mb-30px" dir="rtl"><i class="fa fa-mobile text-main-color margin-right-10px" aria-hidden="true"></i> 010 200 202 03<span>
+                    <span class="d-block sm-mb-30px"><i class="fa fa-mobile text-main-color margin-right-10px" aria-hidden="true"></i><a href="tel:010 200 202 03"> 010 200 202 03</a><span>
                     <h5 class="margin-top-20px" dir="rtl">العنوان:</h5>
                     <span class="d-block sm-mb-30px" dir="rtl"><i class="fa fa-map text-main-color margin-right-10px" aria-hidden="true"></i> ١٣ شارع بطليموس، الاسكندريه</span>
                     <h5 class="margin-top-20px" dir="rtl">الايميل:</h5>
-                    <span class="d-block sm-mb-30px" dir="rtl"><i class="fa fa-envelope-open text-main-color margin-right-10px" aria-hidden="true"></i> dahab@logistic.com</span>
+                    <span class="d-block sm-mb-30px" dir="rtl"><i class="fa fa-envelope-open text-main-color margin-right-10px" aria-hidden="true"></i> <a href="mailto:dahablogs@gmail.com/">dahablogs@gmail.com</a></span>
                 </div>
 
             </div>
@@ -178,7 +177,7 @@
                                 <div class="contact-info opacity-9">
                                     <div class="icon margin-top-5px"><span class="icon_pin_alt"></span></div>
                                     <div class="text">
-                                        <span class="title-in">موقعنا:</span> <br>
+                                        <span class="title-in" dir="rtl">موقعنا:</span> <br>
                                         <span class="font-weight-500 text-uppercase"> الاسكندريه ،مصر</span>
                                     </div>
                                 </div>
@@ -189,8 +188,8 @@
                                 <div class="contact-info opacity-9">
                                     <div class="icon  margin-top-5px"><span class="icon_phone"></span></div>
                                     <div class="text">
-                                        <span class="title-in">اتصل بنا:</span><br>
-                                        <span class="font-weight-500 text-uppercase">0105 090 1500</span>
+                                        <span class="title-in" dir="rtl"> اتصل بنا:</span><br>
+                                        <span class="font-weight-500 text-uppercase" ><a class="text-white" href="tel:0105 090 1500"> 0105 090 1500</a></span>
                                     </div>
                                 </div>
                             </div>
