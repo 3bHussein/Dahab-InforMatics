@@ -11,7 +11,12 @@ https://github.com/AbdullahGhanem/laravel-smsmisr#usage
 
 SMSEG API
 
-
 https://www.smseg.com/en#price
 
 
+smsala API:
+
+https://smsala.com/sms-api-egypt/
+
+
+https://my.smsala.com/Dashboard
