@@ -2,6 +2,8 @@ SMSMisr API
 
 https://www.smsmisr.com/API
 
+https://smsmisr.com/business
+
 Example for SMSMIR API
 
 https://github.com/AbdullahGhanem/laravel-smsmisr#usage
