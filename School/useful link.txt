@@ -1,0 +1,15 @@
+SMSMisr API
+
+https://www.smsmisr.com/API
+
+Example for SMSMIR API
+
+https://github.com/AbdullahGhanem/laravel-smsmisr#usage
+
+
+SMSEG API
+
+
+https://www.smseg.com/en#price
+
+
