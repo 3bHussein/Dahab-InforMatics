@@ -1,0 +1,33 @@
+=============
+replace this
+=============
+cdn.shopify.com/s/files/1
+to url in folder
+
+
+
+edit for error in line number 500 load_feature
+edit for error in line number 510 make load also features-
+edit for error in line number 159 make error unkonw why 
+
+
+
+25 error 
+28 ?
+21
+22
+24
+21
+22
+17 may up to 45
+45
+
+31
+
+
+
+
+Hash code without no reason :
+330
+
+638
