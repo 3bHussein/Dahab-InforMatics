@@ -6,6 +6,12 @@ to url in folder
 
 
 
+
+footer include 
+==============
+start from class="shopify-section-home-brands"
+
+
 edit for error in line number 500 load_feature
 edit for error in line number 510 make load also features-
 edit for error in line number 159 make error unkonw why 
