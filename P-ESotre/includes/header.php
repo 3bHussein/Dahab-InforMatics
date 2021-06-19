@@ -31,7 +31,7 @@
   <meta property="og:description" content="01203337999">
 
 
-  <meta property="og:url" content="https://anwar.store/pages/contact-us">
+  <!-- <meta property="og:url" content="https://anwar.store/pages/contact-us"> -->
   <meta property="og:site_name" content="Anwar Pharmacy">
   <!-- /snippets/twitter-card.liquid -->
 
@@ -44,27 +44,29 @@
 
 
   <!-- Helpers ================================================== -->
-  <link rel="canonical" href="https://anwar.store/pages/contact-us">
+  <!-- <link rel="canonical" href="https://anwar.store/pages/contact-us"> -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, minimal-ui">
   
   <!-- Favicon -->
   
-  <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0438/9185/1432/files/anwar_only_87aa968b-dcc3-43b8-ae96-4e90377a6a72_32x32.png?v=1596110488" type="image/png">
+  <link rel="shortcut icon" href="images/anwar_only_87aa968b-dcc3-43b8-ae96-4e90377a6a72_32x32.png" type="image/png">
   
   
   <!-- Styles -->
-  <link href="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/vendor.min.css?v=4423160813893359120" rel="stylesheet" type="text/css" media="all" />
- 
-  <!-- <link href="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/theme-styles.scss.css?v=4516419468629460232" rel="stylesheet" type="text/css" media="all" /> -->
+  <link rel="stylesheet" href="css/vendor.min.css">
   <link rel="stylesheet" href="css/theme-styles.css">
-
-  <!-- <link href="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/theme-styles-responsive.scss.css?v=17510632849849163134" rel="stylesheet" type="text/css" media="all" /> -->
     <link rel="stylesheet" href="css/theme-styles-responsive.css">
 
    <!-- Scripts -->
-  <script src="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/jquery.min.js?v=5688836681611593435" type="text/javascript"></script>
-<script src="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/jquery-cookie.min.js?v=7236575574540404818" type="text/javascript"></script>
-<script src="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/lazysizes.min.js?v=8441496606488234865" type="text/javascript"></script>
+  <!-- <script src="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/jquery.min.js?v=5688836681611593435" type="text/javascript"></script> -->
+  <script src="js/jquery.min.js"></script>
+
+<!-- <script src="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/jquery-cookie.min.js?v=7236575574540404818" type="text/javascript"></script> -->
+<script src="js/jquery-cookie.min.js"></script>
+
+<!-- <script src="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/lazysizes.min.js?v=8441496606488234865" type="text/javascript"></script> -->
+<script src="js/lazysizes.min.js"></script>
+
 
 <script>
   window.lazySizesConfig = window.lazySizesConfig || {};
@@ -303,7 +305,8 @@ for (var attr in meta) {
       theme_id: 105679028392,
       app_name: "storefront",
       context_url: window.location.href,
-      source_url: "https://cdn.shopify.com/s/trekkie.storefront.ab771656ae943751b13cefbf377430c8e2dea279.min.js"});
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.ab771656ae943751b13cefbf377430c8e2dea279.min.js"
+    });
 
       };
       scriptFallback.async = true;
@@ -343,8 +346,8 @@ for (var attr in meta) {
         window.BOOMR.themeVersion = "3.0.0";
         window.BOOMR.shopId = 43891851432;
         window.BOOMR.themeId = 105679028392;
-        window.BOOMR.url =
-          "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+        // window.BOOMR.url =
+        //   "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
         var where = document.currentScript || document.getElementsByTagName("script")[0];
         var parentNode = where.parentNode;
         var promoted = false;
