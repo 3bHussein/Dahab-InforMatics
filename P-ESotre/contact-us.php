@@ -24,8 +24,8 @@
 <div class="contact-us-page">
   
   <div class="map">
-    
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12724.56939572388!2d29.931160491888974!3d31.209107155981805!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6ba256a639778090!2zQW53YXIgUGhhcm1hY3kg2LXZitiv2YTZitipINij2YbZiNix!5e0!3m2!1sen!2seg!4v1596500394457!5m2!1sen!2seg" width="100%" height="278" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6822.657310727351!2d29.955433000000003!3d31.239324000000003!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1649d799ce19ee1b!2sM%20Medical!5e0!3m2!1sen!2seg!4v1624105106487!5m2!1sen!2seg"width="100%" height="278" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+    <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12724.56939572388!2d29.931160491888974!3d31.209107155981805!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6ba256a639778090!2zQW53YXIgUGhhcm1hY3kg2LXZitiv2YTZitipINij2YbZiNix!5e0!3m2!1sen!2seg!4v1596500394457!5m2!1sen!2seg" width="100%" height="278" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> -->
     
   </div>
   

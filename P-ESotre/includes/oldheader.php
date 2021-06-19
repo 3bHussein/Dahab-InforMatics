@@ -12,7 +12,7 @@
   
   <!-- Title and description ================================================== -->
   <title>
-  Anwar Online Store صيدلية أنور &ndash; Anwar Pharmacy
+  Contact Us &ndash; Anwar Pharmacy
   </title>
 
   
@@ -54,12 +54,12 @@
   
   <!-- Styles -->
   <link href="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/vendor.min.css?v=4423160813893359120" rel="stylesheet" type="text/css" media="all" />
- 
-  <!-- <link href="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/theme-styles.scss.css?v=4516419468629460232" rel="stylesheet" type="text/css" media="all" /> -->
-  <link rel="stylesheet" href="css/theme-styles.css">
+<link href="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/theme-styles.scss.css?v=4516419468629460232" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/theme-styles-responsive.scss.css?v=17510632849849163134" rel="stylesheet" type="text/css" media="all" />
+  
+  <!-- custom style -->
+  <link href="css/custom.css" rel="stylesheet" type="text/css"/>
 
-  <!-- <link href="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/theme-styles-responsive.scss.css?v=17510632849849163134" rel="stylesheet" type="text/css" media="all" /> -->
-    <link rel="stylesheet" href="css/theme-styles-responsive.css">
 
    <!-- Scripts -->
   <script src="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/jquery.min.js?v=5688836681611593435" type="text/javascript"></script>
@@ -623,152 +623,8 @@ for (var attr in meta) {
 
 <body id="contact-us" class="  template-page">
   <div class="wrapper-header">
-    <div id="shopify-section-header" class="shopify-section"><style>
-    /*  Header Top  */
-    
-    
-    
-    /*  Search  */
-    
-    
-    
-    
-    /*  Header Bottom  */
-    
-    
-    
-    
-    
-    
-    
-    /*  Cart  */
-    
-    
-    
-    
-    .header-top {
-        
-        background-color: #e44b6a;
-        
-        color: #fff;
-    }
-    
-    .header-top a {
-        color: #fff;
-    }
-    .header-top a.close:hover {
-        color: #fff;
-    }
-    
-    .header-top .top-message p a:hover {
-        border-bottom-color: #fff;
-    }
-    
-    .cart-icon .cartCount {
-        background-color: #141414;
-        color: #fff;
-    }
-    
-    .logo-img {
-        display: block;
-    }
-    
-    .logo-title{
-        color: #0f0f0f;
-        font-size: 20px;
-    }
-    
-    .header-mb .logo-img img,
-    .logo-fixed .logo-img img {
-        max-height: 35px;
-    }
-    
-    .header-pc .logo-img img {
-        max-height: 60px;
-    }
+    <div id="shopify-section-header" class="shopify-section">
 
-    .header-default .search-form .search-bar {        
-        background-color: #fafafa;
-        border: none;
-    }
-
-    .header-default .search-form .search-bar .input-group-field {
-        color: #3c3c3c;
-    }
-
-    .header-default .search-form .search-bar .input-group-field::-webkit-input-placeholder {
-        color: #3c3c3c;
-    }
-
-    .header-default .search-form .search-bar .input-group-field::-moz-placeholder {
-        color: #3c3c3c;
-    }
-
-    .header-default.search-form .search-bar .input-group-field:-ms-input-placeholder {
-        color: #3c3c3c;
-    }
-
-    .header-default .search-form .search-bar .input-group-field:-moz-placeholder {
-        color: #3c3c3c;
-    } 
-
-    
-
-    @media (min-width:1200px) {        
-        .header-default .header-bottom,
-        .lang-currency-groups .dropdown-menu {
-            background-color: #f7f7f7;
-        }     
-
-        .header-default .header-bottom,
-        .header-default .header-bottom .acc-links,
-        .header-default .lang-currency-groups .dropdown-label,
-        .header-default .header-bottom .find-a-store > a {            
-            color: #3c3c3c;
-        }
-
-        .header-default .header-bottom .social-icons a {
-            color: #232323 !important;
-        }
-
-        .header-default .header-bottom  .wishlist,
-        .header-default .header-bottom  .cart-icon a,
-        .header-default .search-form .search-bar .icon-search,
-        .header-default .header-bottom .find-a-store .icon-location {
-            color: #232323;
-        }
-        
-        .header-default .lang-currency-groups .dropdown-label {
-            color: #3c3c3c;
-        }
-        
-        .lang-currency-groups .btn-group .dropdown-item {
-            color: #3c3c3c;
-        }
-
-        .header-bottom .find-a-store:before,.header-bottom .header-panel-bt .right-groups .customer-links:before {
-            background: #eaeaea;
-        }
-
-        .header-bottom .lang-currency-groups .dropdown-toggle:after,.header-bottom .header-panel-bt .right-groups .customer-links a:after{
-            color: #c0c0c0;
-        }
-        
-        .lang-currency-groups .btn-group .dropdown-item:hover,
-        .lang-currency-groups .btn-group .dropdown-item:focus,
-        .lang-currency-groups .btn-group .dropdown-item:active,
-        .lang-currency-groups .btn-group .dropdown-item.active {
-            color: #3c3c3c;
-        }
-
-        
-    }
-    @media (max-width: 767px){
-        .search-open .wrapper-header .header-search__form{
-            background-color: #fafafa;
-        }
-    }
-</style>
 
 <header class="site-header header-default" role="banner">
     
@@ -1371,10 +1227,10 @@ for (var attr in meta) {
                               <meta itemprop="url" content="https://anwar.store">
                                 
                                 <a class="logo-img" href="/" title="Logo">
-                                    <img itemprop="logo" data-src="images/logo.png"
-                                        src="images/logo.png"
+                                    <img itemprop="logo" data-src="//cdn.shopify.com/s/files/1/0438/9185/1432/files/Layer_2_19ca2a5f-900f-46d0-8103-d9e82104a814.png?v=1596058676"
+                                        src="//cdn.shopify.com/s/files/1/0438/9185/1432/files/Layer_2_19ca2a5f-900f-46d0-8103-d9e82104a814.png?v=1596058676"
                                         alt="Anwar Pharmacy" itemprop="logo" class="lazyautosizes lazyloaded" data-sizes="auto">
-                                        
+
                                 </a>
                                 
                             </h1>
@@ -1766,192 +1622,14 @@ for (var attr in meta) {
 </script>
 
 </div>
-    <div id="shopify-section-navigation" class="shopify-section"><style>
-    
-    
-    
-    
-    
-    /*  Menu Lv 1  */
-    
-    
-    
-    
-    /*  Menu Lv 2  */
-    
-    
-    
-    
-    /*  Menu Lv 3  */
-    
-    
-    
-    
-    /*  Label - Navigation  */
-    
-    
-    
-    
-    
-    
-
-    .nav-vertical .social-icons a {
-        color: #000000;
-    }
-
-    .nav-vertical .header-logo img {
-        max-height: ;
-    }
-
-    @media (min-width:1200px) {
-
-        .site-nav .no-mega-menu .sub-menu-mobile ul li:hover, .site-nav .no-mega-menu .sub-menu-mobile ul li.menu-lv-3:hover{
-            background: #fafafa;
-        }
-        .site-nav .no-mega-menu .sub-menu-mobile ul li{
-            border-bottom: 1px solid #eaeaea;
-        }
-        .site-nav .no-mega-menu .sub-menu-mobile .menu-lv-2 .sub-menu-mobile{
-            border-left: 1px solid #eaeaea;
-        }
-        .wrapper-navigation,
-        .main-menu {
-            background-color: #ffffff;
-        }
-        
-        .site-nav .sub-menu-mobile {
-            background-color: #fff;
-        }
-        
-        .wrapper-navigation .main-menu {
-            text-align: center;
-        }
-        
-        /*  Menu Lv 1  */
-        .has_sticky .wrapper_header_default .wrapper-top-cart .cart-icon svg,
-        .wrapper-navigation .fixed-right-menu a,
-        .wrapper-navigation .site-nav .menu-lv-1 > a {
-            color: #000000;
-        }
-
-                
-        .is-sticky .wrapper-navigation .fixed-right-menu .search-fixed,
-        .is-sticky .wrapper-navigation .fixed-right-menu .cart-fixed {
-            border-left-color: rgba(0, 0, 0, 0.15);
-        }
-
-        
-        
-        .site-nav .menu-lv-1 > a:hover {
-            color: #000000;
-        }
-        
-        .site-nav .menu-lv-1>a span:before {
-            background-color: #000000;
-        }
-        
-        /*  Menu Lv 2  */
-        .site-nav .menu-lv-2>a,
-        .site-nav .mega-menu .mega-banner .title {
-            color: #232323;
-        }
-        
-        .site-nav .mega-menu .site-nav-dropdown .featured-product .btn {
-          color: #ffffff;
-          background: #000000;
-          border-color: #000000;
-        }
-        .site-nav .mega-menu .site-nav-dropdown .featured-product .btn:hover {
-          color: #ffffff;
-          background: #e7040f;
-          border-color: #e7040f;
-        }
-        
-        .site-nav .menu-lv-2 > a:hover {
-            color: #232323;
-        }
-        
-        /*  Menu Lv 3  */
-        .site-nav .menu-lv-3 > a,
-        .site-nav .no-mega-menu .menu-lv-2 > a{
-            color: #2d2d2d;
-        }
-        
-        .site-nav .menu-lv-3 > a:hover,
-        .site-nav .no-mega-menu .menu-lv-2 > a:hover {
-            color: #000000;
-        }
-        
-        .site-nav .menu-lv-3 > a span:before {
-            background-color: #000000;
-        }
-        .site-nav .menu-lv-3 > a span:after {
-            color: #000000;
-        }
-        
-        .site-nav .icon_sale:before {
-            border-top-color: #ec4065;
-        }
-
-        .site-nav .icon_new:before {
-            border-top-color: #43b5f4;
-        }
-
-        .site-nav .icon_hot:before {
-            border-top-color: #f79a00;
-        }
-
-        .site-nav .menu-lv-1 > a,
-        .site-nav .menu-mb-title {
-            font-size: 14px;    
-        }
-        
-        .site-nav .menu-lv-2 > a,
-        .site-nav .mega-menu .mega-banner .title {
-            font-size: 12px;    
-        }
-        
-        .site-nav .menu-lv-3 > a {
-            font-size: 12px;    
-        }
-    }
-  
-    .site-nav .icon_sale {
-        background-color: #ec4065;
-        color: #fff;
-    }
-        
-    .site-nav .icon_new {
-        background-color: #43b5f4;
-        color: #fff;
-    }
-        
-    .site-nav .icon_hot {
-        background-color: #f79a00;
-        color: #fff;
-    }
-   
-    @media (max-width:1199px) {
-        .site-nav .icon_sale:before {
-            border-right-color: #ec4065;
-        }
-
-        .site-nav .icon_new:before {
-            border-right-color: #43b5f4;
-        }
-
-        .site-nav .icon_hot:before {
-            border-right-color: #f79a00;
-        }
-    }
-</style>
+    <div id="shopify-section-navigation" class="shopify-section">
 
 <div class="wrapper-navigation" data-sticky-pc>
     
     <div class="header-logo logo-fixed">
         <a class="logo-img" href="/" title="Logo">
-            <img data-src="images/logo.png" 
-                src="images/logo.png"
+            <img data-src="//cdn.shopify.com/s/files/1/0438/9185/1432/files/90232143_2834518956626070_1784919336553545728_o.png?v=1598875514" 
+                src="//cdn.shopify.com/s/files/1/0438/9185/1432/files/90232143_2834518956626070_1784919336553545728_o.png?v=1598875514"
                 alt="Anwar Pharmacy" itemprop="logo" class="lazyautosizes lazyloaded" data-sizes="auto">
         </a>
     </div>
@@ -1983,7 +1661,7 @@ for (var attr in meta) {
     
 
     <li class="menu-lv-1 item">
-        <a class=""  href="index.php">
+        <a class=""  href="/">
             
 <span>
   Home
@@ -2016,8 +1694,8 @@ for (var attr in meta) {
     
 
     <li class="menu-lv-1 item">
-        <a class=""  href="anwar-products.php">
-           
+        <a class=""  href="/collections/anwar-products">
+            
 <span>
   Anwar Products
 </span>
@@ -3264,9 +2942,7 @@ for (var attr in meta) {
     </div>
     
 </div>
-<style>
-  
-</style>
+ 
 
 <script>
     window.fixtop_menu = true;

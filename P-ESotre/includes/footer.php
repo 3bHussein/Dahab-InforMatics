@@ -239,7 +239,7 @@
                         </li>
                         
                         <li>
-                            <a href="/pages/about-us" title="About Us" class="foot-link">
+                            <a href="about-us.php" title="About Us" class="foot-link">
                                 
 <span>
   About Us
@@ -249,7 +249,7 @@
                         </li>
                         
                         <li>
-                            <a href="/pages/contact-us" title="Contact Us" class="foot-link">
+                            <a href="contact-us.php" title="Contact Us" class="foot-link">
                                 
 <span>
   Contact Us
@@ -372,9 +372,9 @@
                     <div class="location_info">
                         
                         <div>
-                            <p class="addr">213 Horreya Avenue<br>Alexandria<br>
+                            <p class="addr">13 Batlaimos st. Saba Basha<br>Alexandria<br>
 </p>
-<p class="addr">Call us at: 01203337999<br></p>
+<p class="addr">Call us at: +20 109 500 0234<br></p>
                         </div>
                         
                     </div>
@@ -504,7 +504,7 @@
                     <address class="text-center">
                         
                         <div>
-                            © 2020 Anwar Pharmacies. All Rights Reserved.
+                            © 2021 MMedical Pharmacies. All Rights Reserved.
                         </div>
                         
                     </address>

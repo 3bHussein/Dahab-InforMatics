@@ -12,7 +12,7 @@
   
   <!-- Title and description ================================================== -->
   <title>
-  Anwar Online Store صيدلية أنور &ndash; Anwar Pharmacy
+  Contact Us &ndash; Anwar Pharmacy
   </title>
 
   
@@ -54,13 +54,13 @@
   
   <!-- Styles -->
   <link href="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/vendor.min.css?v=4423160813893359120" rel="stylesheet" type="text/css" media="all" />
- 
-  <!-- <link href="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/theme-styles.scss.css?v=4516419468629460232" rel="stylesheet" type="text/css" media="all" /> -->
-  <link rel="stylesheet" href="css/theme-styles.css">
+<link href="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/theme-styles.scss.css?v=4516419468629460232" rel="stylesheet" type="text/css" media="all" />
+<link href="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/theme-styles-responsive.scss.css?v=17510632849849163134" rel="stylesheet" type="text/css" media="all" />
+  
+  <!-- custom style -->
+  <link href="css/custom.css" rel="stylesheet" type="text/css"/>
 
-  <!-- <link href="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/theme-styles-responsive.scss.css?v=17510632849849163134" rel="stylesheet" type="text/css" media="all" /> -->
-    <link rel="stylesheet" href="css/theme-styles-responsive.css">
-
+  
    <!-- Scripts -->
   <script src="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/jquery.min.js?v=5688836681611593435" type="text/javascript"></script>
 <script src="//cdn.shopify.com/s/files/1/0438/9185/1432/t/2/assets/jquery-cookie.min.js?v=7236575574540404818" type="text/javascript"></script>
@@ -755,7 +755,7 @@ for (var attr in meta) {
         }
         
         .lang-currency-groups .btn-group .dropdown-item:hover,
-        .lang-currency-groups .btn-group .dropdown-item:focus,
+        .lang-currency-groups .btn-group .dropdown-item:focus:
         .lang-currency-groups .btn-group .dropdown-item:active,
         .lang-currency-groups .btn-group .dropdown-item.active {
             color: #3c3c3c;
@@ -1371,10 +1371,10 @@ for (var attr in meta) {
                               <meta itemprop="url" content="https://anwar.store">
                                 
                                 <a class="logo-img" href="/" title="Logo">
-                                    <img itemprop="logo" data-src="images/logo.png"
-                                        src="images/logo.png"
+                                    <img itemprop="logo" data-src="//cdn.shopify.com/s/files/1/0438/9185/1432/files/Layer_2_19ca2a5f-900f-46d0-8103-d9e82104a814.png?v=1596058676"
+                                        src="//cdn.shopify.com/s/files/1/0438/9185/1432/files/Layer_2_19ca2a5f-900f-46d0-8103-d9e82104a814.png?v=1596058676"
                                         alt="Anwar Pharmacy" itemprop="logo" class="lazyautosizes lazyloaded" data-sizes="auto">
-                                        
+
                                 </a>
                                 
                             </h1>
@@ -1950,8 +1950,8 @@ for (var attr in meta) {
     
     <div class="header-logo logo-fixed">
         <a class="logo-img" href="/" title="Logo">
-            <img data-src="images/logo.png" 
-                src="images/logo.png"
+            <img data-src="//cdn.shopify.com/s/files/1/0438/9185/1432/files/90232143_2834518956626070_1784919336553545728_o.png?v=1598875514" 
+                src="//cdn.shopify.com/s/files/1/0438/9185/1432/files/90232143_2834518956626070_1784919336553545728_o.png?v=1598875514"
                 alt="Anwar Pharmacy" itemprop="logo" class="lazyautosizes lazyloaded" data-sizes="auto">
         </a>
     </div>
@@ -1983,7 +1983,7 @@ for (var attr in meta) {
     
 
     <li class="menu-lv-1 item">
-        <a class=""  href="index.php">
+        <a class=""  href="/">
             
 <span>
   Home
@@ -2016,8 +2016,8 @@ for (var attr in meta) {
     
 
     <li class="menu-lv-1 item">
-        <a class=""  href="anwar-products.php">
-           
+        <a class=""  href="/collections/anwar-products">
+            
 <span>
   Anwar Products
 </span>

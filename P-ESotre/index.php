@@ -509,18 +509,18 @@
 
 <section class="home-new-product-tab" data-id="1568967495193" id="section-1568967495193" data-product-tabs>
     <div class="container">
-        
-        <div class="widget-title">
-            <h3 class="box-title">
-                <span class="title">
-                    
-<span>
-  New Products 
-</span>
 
-                </span>
-            </h3>
-        </div>
+      <div class="widget-title">
+      <h3 class="box-title">
+      <span class="title">
+          
+      <span>
+      New Products 
+      </span>
+
+      </span>
+      </h3>
+      </div>
         
         <div class="widget-product">
             <ul class="nav nav-tabs list-product-tabs">
@@ -620,31 +620,8 @@
     }
 </style>
 
-<style>
-#section- {
-        {
-        section.id
-    }
-}
 
-    {
-    margin-top: {
-            {
-            section.settings.space_on
-        }
-    }
-
-    px;
-
-    margin-bottom: {
-            {
-            section.settings.space_below
-        }
-    }
-
-    px;
-}
-</style></div><div id="shopify-section-1569235050734" class="shopify-section home-middle-banner-sections">
+</div><div id="shopify-section-1569235050734" class="shopify-section home-middle-banner-sections">
 <div class="home-middle-banner home-sub-banner sub-banner-2" id="sub-banner-1569235050734">
     <div class="container">
         <div class="row">
@@ -3071,6 +3048,8 @@
   </div>
 </div>
 
+<!-- End of Top Seller -->
+
 <style>
   #section-1595366138704{
     margin-top: 0px;
@@ -3079,7 +3058,13 @@
 
 </style>
 
-</div><div id="shopify-section-1569296911033" class="shopify-section home-custom-block-spotlight-sections">
+</div>
+<!-- End of Top Seller -->
+
+
+
+<!-- Start #ANWARTIPS  -->
+<div id="shopify-section-1569296911033" class="shopify-section home-custom-block-spotlight-sections">
 <div class="home-spotlight-block" id="home-spotlight-1569296911033">
   <div class="container">
     
@@ -3232,7 +3217,14 @@
 
 
 
-</div><div id="shopify-section-1569238463827" class="shopify-section home-feature-product-sections">
+</div>
+<!-- end of ANWARTIPS  -->
+
+
+
+<!-- start Featured Products  -->
+
+<div id="shopify-section-1569238463827" class="shopify-section home-feature-product-sections">
 <div class="home-featured-products" id="section-1569238463827" data-featured-products> 
   <div class="container">
     
@@ -4162,7 +4154,14 @@
 
 </style>
 
-</div><div id="shopify-section-1569291788686" class="shopify-section home-feature-product-sections">
+</div>
+
+<!-- end of Featured Products  -->
+
+
+
+<!-- Start of New Offers-->
+<div id="shopify-section-1569291788686" class="shopify-section home-feature-product-sections">
 <style>
   #section-1569291788686{
     margin-top: 0px;
@@ -4171,7 +4170,8 @@
 
 </style>
 
-</div><div id="shopify-section-1569311228728" class="shopify-section home-blog-posts-sections">
+</div>
+<div id="shopify-section-1569311228728" class="shopify-section home-blog-posts-sections">
 
 
 
